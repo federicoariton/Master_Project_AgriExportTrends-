@@ -1,0 +1,3543 @@
+Year,Area,Item,Production Value (t)
+2000,Argentina,Barley,722490.0
+2000,Argentina,"Cereals, primary",37983923.0
+2000,Argentina,"Hen eggs in shell, fresh",6165055.0
+2000,Argentina,"Meat, Total",4101293.0
+2000,Argentina,"Milk, Total",10121330.0
+2000,Argentina,Raw milk of cattle,10121330.0
+2000,Argentina,Wheat,15478660.0
+2000,Australia,Barley,5043000.0
+2000,Australia,"Cereals, primary",35386938.0
+2000,Australia,"Hen eggs in shell, fresh",2645000.0
+2000,Australia,"Meat, Total",3707445.0
+2000,Australia,"Milk, Total",10847000.0
+2000,Australia,Raw milk of cattle,10847000.0
+2000,Australia,Wheat,24757000.0
+2000,Austria,Barley,854667.0
+2000,Austria,"Cereals, primary",4494383.16
+2000,Austria,"Hen eggs in shell, fresh",1520269.0
+2000,Austria,"Meat, Total",835352.0
+2000,Austria,"Milk, Total",3257320.0
+2000,Austria,Raw milk of cattle,3233156.0
+2000,Austria,Wheat,1312962.0
+2000,Belgium,Barley,333400.0
+2000,Belgium,"Cereals, primary",2513100.0
+2000,Belgium,"Hen eggs in shell, fresh",3601200.0
+2000,Belgium,"Meat, Total",1735552.0
+2000,Belgium,"Milk, Total",3691410.0
+2000,Belgium,Raw milk of cattle,3689000.0
+2000,Belgium,Wheat,1687700.0
+2000,Brazil,Barley,282826.0
+2000,Brazil,"Cereals, primary",46527201.96
+2000,Brazil,"Hen eggs in shell, fresh",31698740.0
+2000,Brazil,"Meat, Total",15424850.0
+2000,Brazil,"Milk, Total",20644773.03
+2000,Brazil,Raw milk of cattle,20379988.0
+2000,Brazil,Wheat,1725792.0
+2000,Canada,Barley,13228600.0
+2000,Canada,"Cereals, primary",51090400.0
+2000,Canada,"Hen eggs in shell, fresh",6943950.0
+2000,Canada,"Meat, Total",4000324.0
+2000,Canada,"Milk, Total",8161000.0
+2000,Canada,Raw milk of cattle,8161000.0
+2000,Canada,Wheat,26535500.0
+2000,China,Barley,2646000.0
+2000,China,"Cereals, primary",407336209.03
+2000,China,"Hen eggs in shell, fresh",397150731.67
+2000,China,"Meat, Total",62057917.5
+2000,China,"Milk, Total",12374042.35
+2000,China,Raw milk of cattle,8632308.0
+2000,China,Wheat,99636127.0
+2000,Denmark,Barley,3979794.0
+2000,Denmark,"Cereals, primary",9412662.0
+2000,Denmark,"Hen eggs in shell, fresh",1312300.0
+2000,Denmark,"Meat, Total",1985389.38
+2000,Denmark,"Milk, Total",4719800.0
+2000,Denmark,Raw milk of cattle,4719800.0
+2000,Denmark,Wheat,4693422.0
+2000,Finland,Barley,1984800.0
+2000,Finland,"Cereals, primary",4102900.0
+2000,Finland,"Hen eggs in shell, fresh",987100.0
+2000,Finland,"Meat, Total",337310.0
+2000,Finland,"Milk, Total",2450100.0
+2000,Finland,Raw milk of cattle,2450100.0
+2000,Finland,Wheat,538300.0
+2000,France,Barley,9709332.0
+2000,France,"Cereals, primary",65732234.8
+2000,France,"Hen eggs in shell, fresh",14159685.0
+2000,France,"Meat, Total",6323737.0
+2000,France,"Milk, Total",23885170.9
+2000,France,Raw milk of cattle,23165508.6
+2000,France,Wheat,37355956.9
+2000,Germany,Barley,12105820.0
+2000,Germany,"Cereals, primary",45271234.0
+2000,Germany,"Hen eggs in shell, fresh",15301000.0
+2000,Germany,"Meat, Total",6218208.0
+2000,Germany,"Milk, Total",28353216.0
+2000,Germany,Raw milk of cattle,28331216.0
+2000,Germany,Wheat,21621548.0
+2000,Hungary,Barley,900510.0
+2000,Hungary,"Cereals, primary",10036050.0
+2000,Hungary,"Hen eggs in shell, fresh",3382805.0
+2000,Hungary,"Meat, Total",1175789.37
+2000,Hungary,"Milk, Total",2156954.0
+2000,Hungary,Raw milk of cattle,2142915.0
+2000,Hungary,Wheat,3692470.0
+2000,India,Barley,1447000.0
+2000,India,"Cereals, primary",234931192.0
+2000,India,"Hen eggs in shell, fresh",38667000.0
+2000,India,"Meat, Total",3731690.02
+2000,India,"Milk, Total",79675100.01
+2000,India,Raw milk of cattle,32967000.0
+2000,India,Wheat,76368896.0
+2000,Ireland,Barley,1309900.0
+2000,Ireland,"Cereals, primary",2177490.65
+2000,Ireland,"Hen eggs in shell, fresh",597376.0
+2000,Ireland,"Meat, Total",1016480.0
+2000,Ireland,"Milk, Total",5159788.0
+2000,Ireland,Raw milk of cattle,5159788.0
+2000,Ireland,Wheat,737400.0
+2000,Italy,Barley,1261600.0
+2000,Italy,"Cereals, primary",20660952.0
+2000,Italy,"Hen eggs in shell, fresh",12938100.0
+2000,Italy,"Meat, Total",3911240.21
+2000,Italy,"Milk, Total",13299200.0
+2000,Italy,Raw milk of cattle,12309400.0
+2000,Italy,Wheat,7463968.0
+2000,Netherlands (Kingdom of the),Barley,287800.0
+2000,Netherlands (Kingdom of the),"Cereals, primary",1732100.0
+2000,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11731000.0
+2000,Netherlands (Kingdom of the),"Meat, Total",2880045.4
+2000,Netherlands (Kingdom of the),"Milk, Total",11155000.0
+2000,Netherlands (Kingdom of the),Raw milk of cattle,11155000.0
+2000,Netherlands (Kingdom of the),Wheat,1142700.0
+2000,New Zealand,Barley,302000.0
+2000,New Zealand,"Cereals, primary",855510.63
+2000,New Zealand,"Hen eggs in shell, fresh",811007.0
+2000,New Zealand,"Meat, Total",1303226.2
+2000,New Zealand,"Milk, Total",12235392.0
+2000,New Zealand,Raw milk of cattle,12235392.0
+2000,New Zealand,Wheat,326000.0
+2000,Poland,Barley,2783359.0
+2000,Poland,"Cereals, primary",22340612.0
+2000,Poland,"Hen eggs in shell, fresh",8045053.0
+2000,Poland,"Meat, Total",2888000.0
+2000,Poland,"Milk, Total",11890380.0
+2000,Poland,Raw milk of cattle,11889349.0
+2000,Poland,Wheat,8502865.0
+2000,Romania,Barley,867018.0
+2000,Romania,"Cereals, primary",10477506.0
+2000,Romania,"Hen eggs in shell, fresh",5519850.0
+2000,Romania,"Meat, Total",983866.54
+2000,Romania,"Milk, Total",4622059.0
+2000,Romania,Raw milk of cattle,4301259.0
+2000,Romania,Wheat,4434438.0
+2000,Spain,Barley,11063008.0
+2000,Spain,"Cereals, primary",24581638.63
+2000,Spain,"Hen eggs in shell, fresh",12399552.0
+2000,Spain,"Meat, Total",4915447.89
+2000,Spain,"Milk, Total",6937212.0
+2000,Spain,Raw milk of cattle,6106628.0
+2000,Spain,Wheat,7293623.0
+2000,Sweden,Barley,1615400.0
+2000,Sweden,"Cereals, primary",5604200.0
+2000,Sweden,"Hen eggs in shell, fresh",1802000.0
+2000,Sweden,"Meat, Total",542818.0
+2000,Sweden,"Milk, Total",3348000.0
+2000,Sweden,Raw milk of cattle,3348000.0
+2000,Sweden,Wheat,2371900.0
+2000,United States of America,Barley,6919370.0
+2000,United States of America,"Cereals, primary",342631506.0
+2000,United States of America,"Hen eggs in shell, fresh",89734000.0
+2000,United States of America,"Meat, Total",37565210.78
+2000,United States of America,"Milk, Total",75953489.03
+2000,United States of America,Raw milk of cattle,75928209.0
+2000,United States of America,Wheat,60639376.0
+2001,Argentina,Barley,530045.0
+2001,Argentina,"Cereals, primary",36655385.0
+2001,Argentina,"Hen eggs in shell, fresh",5693276.0
+2001,Argentina,"Meat, Total",3843194.36
+2001,Argentina,"Milk, Total",9768725.0
+2001,Argentina,Raw milk of cattle,9768725.0
+2001,Argentina,Wheat,16146620.0
+2001,Australia,Barley,6743000.0
+2001,Australia,"Cereals, primary",34717520.71
+2001,Australia,"Hen eggs in shell, fresh",2607000.0
+2001,Australia,"Meat, Total",3853184.0
+2001,Australia,"Milk, Total",10547000.0
+2001,Australia,Raw milk of cattle,10547000.0
+2001,Australia,Wheat,22108000.0
+2001,Austria,Barley,1012407.0
+2001,Austria,"Cereals, primary",4837093.57
+2001,Austria,"Hen eggs in shell, fresh",1521566.0
+2001,Austria,"Meat, Total",832034.0
+2001,Austria,"Milk, Total",3323656.0
+2001,Austria,Raw milk of cattle,3299567.0
+2001,Austria,Wheat,1508283.0
+2001,Belgium,Barley,368700.0
+2001,Belgium,"Cereals, primary",2358600.0
+2001,Belgium,"Hen eggs in shell, fresh",3941944.0
+2001,Belgium,"Meat, Total",1772164.0
+2001,Belgium,"Milk, Total",3697300.0
+2001,Belgium,Raw milk of cattle,3694000.0
+2001,Belgium,Wheat,1457400.0
+2001,Brazil,Barley,297824.0
+2001,Brazil,"Cereals, primary",57125393.44
+2001,Brazil,"Hen eggs in shell, fresh",32322011.0
+2001,Brazil,"Meat, Total",15964800.0
+2001,Brazil,"Milk, Total",21397687.14
+2001,Brazil,Raw milk of cattle,21145800.0
+2001,Brazil,Wheat,3366599.0
+2001,Canada,Barley,10845600.0
+2001,Canada,"Cereals, primary",43391400.0
+2001,Canada,"Hen eggs in shell, fresh",7185238.0
+2001,Canada,"Meat, Total",4153401.0
+2001,Canada,"Milk, Total",8106000.0
+2001,Canada,Raw milk of cattle,8106000.0
+2001,Canada,Wheat,20630200.0
+2001,China,Barley,2893000.0
+2001,China,"Cereals, primary",398396119.03
+2001,China,"Hen eggs in shell, fresh",402228144.48
+2001,China,"Meat, Total",62976854.57
+2001,China,"Milk, Total",14515456.03
+2001,China,Raw milk of cattle,10601189.0
+2001,China,Wheat,93873234.0
+2001,Denmark,Barley,3966181.0
+2001,Denmark,"Cereals, primary",9423086.0
+2001,Denmark,"Hen eggs in shell, fresh",1425487.0
+2001,Denmark,"Meat, Total",2090981.51
+2001,Denmark,"Milk, Total",4553000.0
+2001,Denmark,Raw milk of cattle,4553000.0
+2001,Denmark,Wheat,4663938.0
+2001,Finland,Barley,1786000.0
+2001,Finland,"Cereals, primary",3671300.0
+2001,Finland,"Hen eggs in shell, fresh",953520.0
+2001,Finland,"Meat, Total",351414.0
+2001,Finland,"Milk, Total",2529600.0
+2001,Finland,Raw milk of cattle,2529600.0
+2001,Finland,Wheat,488900.0
+2001,France,Barley,9797468.3
+2001,France,"Cereals, primary",60300838.1
+2001,France,"Hen eggs in shell, fresh",14548622.0
+2001,France,"Meat, Total",6388404.0
+2001,France,"Milk, Total",23806712.0
+2001,France,Raw milk of cattle,23074188.4
+2001,France,Wheat,31545319.3
+2001,Germany,Barley,13494587.0
+2001,Germany,"Cereals, primary",49709326.0
+2001,Germany,"Hen eggs in shell, fresh",15054000.0
+2001,Germany,"Meat, Total",6415452.35
+2001,Germany,"Milk, Total",28213000.0
+2001,Germany,Raw milk of cattle,28191000.0
+2001,Germany,Wheat,22837837.0
+2001,Hungary,Barley,1299140.0
+2001,Hungary,"Cereals, primary",15045901.0
+2001,Hungary,"Hen eggs in shell, fresh",3467362.0
+2001,Hungary,"Meat, Total",1101363.65
+2001,Hungary,"Milk, Total",2157356.0
+2001,Hungary,Raw milk of cattle,2142173.0
+2001,Hungary,Wheat,5196760.0
+2001,India,Barley,1430600.0
+2001,India,"Cereals, primary",242963796.0
+2001,India,"Hen eggs in shell, fresh",40880000.0
+2001,India,"Meat, Total",3922290.02
+2001,India,"Milk, Total",83432578.47
+2001,India,Raw milk of cattle,34516000.0
+2001,India,Wheat,69680896.0
+2001,Ireland,Barley,1277200.0
+2001,Ireland,"Cereals, primary",2169040.7
+2001,Ireland,"Hen eggs in shell, fresh",581350.0
+2001,Ireland,"Meat, Total",1031580.0
+2001,Ireland,"Milk, Total",5381800.0
+2001,Ireland,Raw milk of cattle,5381800.0
+2001,Ireland,Wheat,769200.0
+2001,Italy,Barley,1125700.0
+2001,Italy,"Cereals, primary",19933158.0
+2001,Italy,"Hen eggs in shell, fresh",13548800.0
+2001,Italy,"Meat, Total",3979815.76
+2001,Italy,"Milk, Total",12329361.0
+2001,Italy,Raw milk of cattle,11275100.0
+2001,Italy,Wheat,6413300.0
+2001,Netherlands (Kingdom of the),Barley,386800.0
+2001,Netherlands (Kingdom of the),"Cereals, primary",1671600.0
+2001,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11531000.0
+2001,Netherlands (Kingdom of the),"Meat, Total",2595446.8
+2001,Netherlands (Kingdom of the),"Milk, Total",10970000.0
+2001,Netherlands (Kingdom of the),Raw milk of cattle,10970000.0
+2001,Netherlands (Kingdom of the),Wheat,990700.0
+2001,New Zealand,Barley,365000.0
+2001,New Zealand,"Cereals, primary",940392.84
+2001,New Zealand,"Hen eggs in shell, fresh",827898.0
+2001,New Zealand,"Meat, Total",1349348.37
+2001,New Zealand,"Milk, Total",13119412.0
+2001,New Zealand,Raw milk of cattle,13119412.0
+2001,New Zealand,Wheat,364000.0
+2001,Poland,Barley,3330484.0
+2001,Poland,"Cereals, primary",26960313.0
+2001,Poland,"Hen eggs in shell, fresh",8530385.0
+2001,Poland,"Meat, Total",2890400.0
+2001,Poland,"Milk, Total",11885068.0
+2001,Poland,Raw milk of cattle,11883986.0
+2001,Poland,Wheat,9283044.0
+2001,Romania,Barley,1580048.0
+2001,Romania,"Cereals, primary",18870926.0
+2001,Romania,"Hen eggs in shell, fresh",5800200.0
+2001,Romania,"Meat, Total",947979.01
+2001,Romania,"Milk, Total",4780453.0
+2001,Romania,Raw milk of cattle,4457353.0
+2001,Romania,Wheat,7735136.0
+2001,Spain,Barley,6249139.0
+2001,Spain,"Cereals, primary",18078871.22
+2001,Spain,"Hen eggs in shell, fresh",12595968.0
+2001,Spain,"Meat, Total",5057794.24
+2001,Spain,"Milk, Total",7213310.0
+2001,Spain,Raw milk of cattle,6330410.0
+2001,Spain,Wheat,5007698.0
+2001,Sweden,Barley,1623000.0
+2001,Sweden,"Cereals, primary",5382000.0
+2001,Sweden,"Hen eggs in shell, fresh",1727900.0
+2001,Sweden,"Meat, Total",540879.0
+2001,Sweden,"Milk, Total",3339000.0
+2001,Sweden,Raw milk of cattle,3339000.0
+2001,Sweden,Wheat,2371500.0
+2001,United States of America,Barley,5406730.0
+2001,United States of America,"Cereals, primary",324994633.58
+2001,United States of America,"Hen eggs in shell, fresh",91192000.0
+2001,United States of America,"Meat, Total",38252104.15
+2001,United States of America,"Milk, Total",75020230.39
+2001,United States of America,Raw milk of cattle,74993355.0
+2001,United States of America,Wheat,52999932.0
+2002,Argentina,Barley,549830.0
+2002,Argentina,"Cereals, primary",35057269.0
+2002,Argentina,"Hen eggs in shell, fresh",4812100.0
+2002,Argentina,"Meat, Total",3562103.99
+2002,Argentina,"Milk, Total",8793400.0
+2002,Argentina,Raw milk of cattle,8793400.0
+2002,Argentina,Wheat,15427820.0
+2002,Australia,Barley,8279769.0
+2002,Australia,"Cereals, primary",38590113.0
+2002,Australia,"Hen eggs in shell, fresh",2587500.0
+2002,Australia,"Meat, Total",3895830.0
+2002,Australia,"Milk, Total",11271000.0
+2002,Australia,Raw milk of cattle,11271000.0
+2002,Australia,Wheat,24299335.0
+2002,Austria,Barley,861391.0
+2002,Austria,"Cereals, primary",4762611.9
+2002,Austria,"Hen eggs in shell, fresh",1554444.0
+2002,Austria,"Meat, Total",850636.0
+2002,Austria,"Milk, Total",3316366.0
+2002,Austria,Raw milk of cattle,3292203.0
+2002,Austria,Wheat,1434208.07
+2002,Belgium,Barley,342700.0
+2002,Belgium,"Cereals, primary",2639300.0
+2002,Belgium,"Hen eggs in shell, fresh",3640306.0
+2002,Belgium,"Meat, Total",1820397.0
+2002,Belgium,"Milk, Total",3472830.0
+2002,Belgium,Raw milk of cattle,3469000.0
+2002,Belgium,Wheat,1675000.0
+2002,Brazil,Barley,244600.0
+2002,Brazil,"Cereals, primary",50875594.0
+2002,Brazil,"Hen eggs in shell, fresh",32498060.0
+2002,Brazil,"Meat, Total",17298391.0
+2002,Brazil,"Milk, Total",22562434.03
+2002,Brazil,Raw milk of cattle,22314700.0
+2002,Brazil,Wheat,3105660.0
+2002,Canada,Barley,7467700.0
+2002,Canada,"Cereals, primary",36046900.0
+2002,Canada,"Hen eggs in shell, fresh",7354962.0
+2002,Canada,"Meat, Total",4301177.34
+2002,Canada,"Milk, Total",7964000.0
+2002,Canada,Raw milk of cattle,7964000.0
+2002,Canada,Wheat,15961300.0
+2002,China,Barley,3322000.0
+2002,China,"Cereals, primary",398687732.03
+2002,China,"Hen eggs in shell, fresh",412837864.29
+2002,China,"Meat, Total",64221597.42
+2002,China,"Milk, Total",17334325.41
+2002,China,Raw milk of cattle,13355933.0
+2002,China,Wheat,90290262.0
+2002,Denmark,Barley,4120861.0
+2002,Denmark,"Cereals, primary",8803709.0
+2002,Denmark,"Hen eggs in shell, fresh",1441600.0
+2002,Denmark,"Meat, Total",2135645.27
+2002,Denmark,"Milk, Total",4590000.0
+2002,Denmark,Raw milk of cattle,4590000.0
+2002,Denmark,Wheat,4056240.0
+2002,Finland,Barley,1738700.0
+2002,Finland,"Cereals, primary",3937800.0
+2002,Finland,"Hen eggs in shell, fresh",922950.0
+2002,Finland,"Meat, Total",373290.0
+2002,Finland,"Milk, Total",2532050.0
+2002,Finland,Raw milk of cattle,2532050.0
+2002,Finland,Wheat,568600.0
+2002,France,Barley,10974839.6
+2002,France,"Cereals, primary",69700574.9
+2002,France,"Hen eggs in shell, fresh",15083835.0
+2002,France,"Meat, Total",6368200.0
+2002,France,"Milk, Total",24194094.5
+2002,France,Raw milk of cattle,23435685.3
+2002,France,Wheat,38936514.8
+2002,Germany,Barley,10927970.0
+2002,Germany,"Cereals, primary",43391325.0
+2002,Germany,"Hen eggs in shell, fresh",15130000.0
+2002,Germany,"Meat, Total",6425212.19
+2002,Germany,"Milk, Total",27899440.0
+2002,Germany,Raw milk of cattle,27874440.0
+2002,Germany,Wheat,20817740.0
+2002,Hungary,Barley,1045872.0
+2002,Hungary,"Cereals, primary",11703295.0
+2002,Hungary,"Hen eggs in shell, fresh",3620441.0
+2002,Hungary,"Meat, Total",1162831.31
+2002,Hungary,"Milk, Total",2143107.0
+2002,Hungary,Raw milk of cattle,2129795.0
+2002,Hungary,Wheat,3910244.0
+2002,India,Barley,1424500.0
+2002,India,"Cereals, primary",206636708.0
+2002,India,"Hen eggs in shell, fresh",42035000.0
+2002,India,"Meat, Total",4254360.02
+2002,India,"Milk, Total",84773080.26
+2002,India,Raw milk of cattle,34612000.0
+2002,India,Wheat,72766304.0
+2002,Ireland,Barley,962800.0
+2002,Ireland,"Cereals, primary",1966954.95
+2002,Ireland,"Hen eggs in shell, fresh",616231.0
+2002,Ireland,"Meat, Total",960880.0
+2002,Ireland,"Milk, Total",5368000.0
+2002,Ireland,Raw milk of cattle,5368000.0
+2002,Ireland,Wheat,867200.0
+2002,Italy,Barley,1190326.0
+2002,Italy,"Cereals, primary",21248429.0
+2002,Italy,"Hen eggs in shell, fresh",13575300.0
+2002,Italy,"Meat, Total",4020558.34
+2002,Italy,"Milk, Total",12374452.0
+2002,Italy,Raw milk of cattle,11300092.0
+2002,Italy,Wheat,7547763.0
+2002,Netherlands (Kingdom of the),Barley,315300.0
+2002,Netherlands (Kingdom of the),"Cereals, primary",1655207.0
+2002,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11180000.0
+2002,Netherlands (Kingdom of the),"Meat, Total",2535822.0
+2002,Netherlands (Kingdom of the),"Milk, Total",10677000.0
+2002,Netherlands (Kingdom of the),Raw milk of cattle,10677000.0
+2002,Netherlands (Kingdom of the),Wheat,1056640.0
+2002,New Zealand,Barley,440883.0
+2002,New Zealand,"Cereals, primary",939377.0
+2002,New Zealand,"Hen eggs in shell, fresh",861167.0
+2002,New Zealand,"Meat, Total",1290902.4
+2002,New Zealand,"Milk, Total",13865939.0
+2002,New Zealand,Raw milk of cattle,13865939.0
+2002,New Zealand,Wheat,301499.0
+2002,Poland,Barley,3369850.0
+2002,Poland,"Cereals, primary",26877272.0
+2002,Poland,"Hen eggs in shell, fresh",9420668.0
+2002,Poland,"Meat, Total",3148358.17
+2002,Poland,"Milk, Total",11873584.0
+2002,Poland,Raw milk of cattle,11872686.0
+2002,Poland,Wheat,9304000.0
+2002,Romania,Barley,1160387.0
+2002,Romania,"Cereals, primary",14356504.0
+2002,Romania,"Hen eggs in shell, fresh",6059550.0
+2002,Romania,"Meat, Total",1033881.77
+2002,Romania,"Milk, Total",4982338.0
+2002,Romania,Raw milk of cattle,4637438.0
+2002,Romania,Wheat,4420995.0
+2002,Spain,Barley,8362328.0
+2002,Spain,"Cereals, primary",21742197.89
+2002,Spain,"Hen eggs in shell, fresh",13847290.0
+2002,Spain,"Meat, Total",5347032.27
+2002,Spain,"Milk, Total",7337500.0
+2002,Spain,Raw milk of cattle,6417900.0
+2002,Spain,Wheat,6822160.0
+2002,Sweden,Barley,1757200.0
+2002,Sweden,"Cereals, primary",5398400.0
+2002,Sweden,"Hen eggs in shell, fresh",1658400.0
+2002,Sweden,"Meat, Total",557826.0
+2002,Sweden,"Milk, Total",3274000.0
+2002,Sweden,Raw milk of cattle,3274000.0
+2002,Sweden,Wheat,2088100.0
+2002,United States of America,Barley,4940300.0
+2002,United States of America,"Cereals, primary",297143451.84
+2002,United States of America,"Hen eggs in shell, fresh",92419000.0
+2002,United States of America,"Meat, Total",38715587.4
+2002,United States of America,"Milk, Total",77167809.38
+2002,United States of America,Raw milk of cattle,77139301.0
+2002,United States of America,Wheat,43703968.0
+2003,Argentina,Barley,1005460.0
+2003,Argentina,"Cereals, primary",32473165.0
+2003,Argentina,"Hen eggs in shell, fresh",5713440.0
+2003,Argentina,"Meat, Total",3757198.61
+2003,Argentina,"Milk, Total",8197480.0
+2003,Argentina,Raw milk of cattle,8197480.0
+2003,Argentina,Wheat,12399040.0
+2003,Australia,Barley,3864833.0
+2003,Australia,"Cereals, primary",17553202.0
+2003,Australia,"Hen eggs in shell, fresh",2418870.0
+2003,Australia,"Meat, Total",3754621.0
+2003,Australia,"Milk, Total",10328000.0
+2003,Australia,Raw milk of cattle,10328000.0
+2003,Australia,Wheat,10131924.0
+2003,Austria,Barley,882322.0
+2003,Austria,"Cereals, primary",4269509.66
+2003,Austria,"Hen eggs in shell, fresh",1503956.0
+2003,Austria,"Meat, Total",853484.0
+2003,Austria,"Milk, Total",3252847.0
+2003,Austria,Raw milk of cattle,3229885.0
+2003,Austria,Wheat,1191380.0
+2003,Belgium,Barley,270857.0
+2003,Belgium,"Cereals, primary",2560990.0
+2003,Belgium,"Hen eggs in shell, fresh",3602945.0
+2003,Belgium,"Meat, Total",1738835.5
+2003,Belgium,"Milk, Total",3405890.0
+2003,Belgium,Raw milk of cattle,3400000.0
+2003,Belgium,Wheat,1640364.0
+2003,Brazil,Barley,345320.0
+2003,Brazil,"Cereals, primary",67454328.6
+2003,Brazil,"Hen eggs in shell, fresh",32994196.0
+2003,Brazil,"Meat, Total",18377007.0
+2003,Brazil,"Milk, Total",23191337.69
+2003,Brazil,Raw milk of cattle,22943732.0
+2003,Brazil,Wheat,6153500.0
+2003,Canada,Barley,12164200.0
+2003,Canada,"Cereals, primary",49197200.0
+2003,Canada,"Hen eggs in shell, fresh",7401394.0
+2003,Canada,"Meat, Total",4232930.0
+2003,Canada,"Milk, Total",7734000.0
+2003,Canada,Raw milk of cattle,7734000.0
+2003,Canada,Wheat,23048600.0
+2003,China,Barley,3249500.0
+2003,China,"Cereals, primary",376654603.03
+2003,China,"Hen eggs in shell, fresh",423843120.0
+2003,China,"Meat, Total",66250144.4
+2003,China,"Milk, Total",21869926.84
+2003,China,Raw milk of cattle,17817517.0
+2003,China,Wheat,86488264.0
+2003,Denmark,Barley,3775593.0
+2003,Denmark,"Cereals, primary",9050937.0
+2003,Denmark,"Hen eggs in shell, fresh",1431000.0
+2003,Denmark,"Meat, Total",2114040.95
+2003,Denmark,"Milk, Total",4675000.0
+2003,Denmark,Raw milk of cattle,4675000.0
+2003,Denmark,Wheat,4701382.0
+2003,Finland,Barley,1697400.0
+2003,Finland,"Cereals, primary",3791000.0
+2003,Finland,"Hen eggs in shell, fresh",948200.0
+2003,Finland,"Meat, Total",390363.0
+2003,Finland,"Milk, Total",2471690.0
+2003,Finland,Raw milk of cattle,2471690.0
+2003,Finland,Wheat,679000.0
+2003,France,Barley,9848186.4
+2003,France,"Cereals, primary",55099556.8
+2003,France,"Hen eggs in shell, fresh",15149919.0
+2003,France,"Meat, Total",6242554.0
+2003,France,"Milk, Total",23690798.1
+2003,France,Raw milk of cattle,22910910.7
+2003,France,Wheat,30479361.5
+2003,Germany,Barley,10595573.0
+2003,Germany,"Cereals, primary",39426039.0
+2003,Germany,"Hen eggs in shell, fresh",13413360.0
+2003,Germany,"Meat, Total",6526472.0
+2003,Germany,"Milk, Total",28563320.0
+2003,Germany,Raw milk of cattle,28533320.0
+2003,Germany,Wheat,19259811.0
+2003,Hungary,Barley,810185.0
+2003,Hungary,"Cereals, primary",8769586.0
+2003,Hungary,"Hen eggs in shell, fresh",3623791.0
+2003,Hungary,"Meat, Total",1059261.64
+2003,Hungary,"Milk, Total",2044304.0
+2003,Hungary,Raw milk of cattle,2036620.0
+2003,Hungary,Wheat,2941248.0
+2003,India,Barley,1407400.0
+2003,India,"Cereals, primary",236592700.0
+2003,India,"Hen eggs in shell, fresh",42647000.0
+2003,India,"Meat, Total",4533610.02
+2003,India,"Milk, Total",86672594.46
+2003,India,Raw milk of cattle,34973000.0
+2003,India,Wheat,65760800.0
+2003,Ireland,Barley,1197700.0
+2003,Ireland,"Cereals, primary",2152352.89
+2003,Ireland,"Hen eggs in shell, fresh",590863.0
+2003,Ireland,"Meat, Total",974380.0
+2003,Ireland,"Milk, Total",5310140.0
+2003,Ireland,Raw milk of cattle,5310140.0
+2003,Ireland,Wheat,794100.0
+2003,Italy,Barley,1020800.0
+2003,Italy,"Cereals, primary",17864361.0
+2003,Italy,"Hen eggs in shell, fresh",13556400.0
+2003,Italy,"Meat, Total",3841146.2
+2003,Italy,"Milk, Total",12335619.0
+2003,Italy,Raw milk of cattle,11307049.0
+2003,Italy,Wheat,6229453.0
+2003,Netherlands (Kingdom of the),Barley,349067.0
+2003,Netherlands (Kingdom of the),"Cereals, primary",1739331.0
+2003,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",8137000.0
+2003,Netherlands (Kingdom of the),"Meat, Total",2231496.0
+2003,Netherlands (Kingdom of the),"Milk, Total",11075000.0
+2003,Netherlands (Kingdom of the),Raw milk of cattle,11075000.0
+2003,Netherlands (Kingdom of the),Wheat,1130100.0
+2003,New Zealand,Barley,371837.0
+2003,New Zealand,"Cereals, primary",944472.0
+2003,New Zealand,"Hen eggs in shell, fresh",870124.0
+2003,New Zealand,"Meat, Total",1396633.76
+2003,New Zealand,"Milk, Total",14349000.0
+2003,New Zealand,Raw milk of cattle,14349000.0
+2003,New Zealand,Wheat,318916.0
+2003,Poland,Barley,2831485.0
+2003,Poland,"Cereals, primary",23390757.0
+2003,Poland,"Hen eggs in shell, fresh",9677403.0
+2003,Poland,"Meat, Total",3242010.29
+2003,Poland,"Milk, Total",11927369.0
+2003,Poland,Raw milk of cattle,11892323.0
+2003,Poland,Wheat,7858160.0
+2003,Romania,Barley,540849.0
+2003,Romania,"Cereals, primary",12964404.0
+2003,Romania,"Hen eggs in shell, fresh",6329400.0
+2003,Romania,"Meat, Total",1137257.74
+2003,Romania,"Milk, Total",5216849.0
+2003,Romania,Raw milk of cattle,4852149.0
+2003,Romania,Wheat,2479052.0
+2003,Spain,Barley,8698400.0
+2003,Spain,"Cereals, primary",21445314.48
+2003,Spain,"Hen eggs in shell, fresh",14490263.0
+2003,Spain,"Meat, Total",5482275.3
+2003,Spain,"Milk, Total",7341400.0
+2003,Spain,Raw milk of cattle,6443300.0
+2003,Spain,Wheat,6290100.0
+2003,Sweden,Barley,1528400.0
+2003,Sweden,"Cereals, primary",5290000.0
+2003,Sweden,"Hen eggs in shell, fresh",1630300.0
+2003,Sweden,"Meat, Total",552200.0
+2003,Sweden,"Milk, Total",3253000.0
+2003,Sweden,Raw milk of cattle,3253000.0
+2003,Sweden,Wheat,2256200.0
+2003,United States of America,Barley,6058900.0
+2003,United States of America,"Cereals, primary",348247631.26
+2003,United States of America,"Hen eggs in shell, fresh",92699000.0
+2003,United States of America,"Meat, Total",39464439.08
+2003,United States of America,"Milk, Total",77295457.84
+2003,United States of America,Raw milk of cattle,77268575.0
+2003,United States of America,Wheat,63803256.0
+2004,Argentina,Barley,894610.0
+2004,Argentina,"Cereals, primary",34193141.0
+2004,Argentina,"Hen eggs in shell, fresh",6823740.0
+2004,Argentina,"Meat, Total",4271527.77
+2004,Argentina,"Milk, Total",9444070.0
+2004,Argentina,Raw milk of cattle,9444070.0
+2004,Argentina,Wheat,14710175.0
+2004,Australia,Barley,10381827.8
+2004,Australia,"Cereals, primary",42384121.8
+2004,Australia,"Hen eggs in shell, fresh",2448540.0
+2004,Australia,"Meat, Total",3851694.0
+2004,Australia,"Milk, Total",10076000.0
+2004,Australia,Raw milk of cattle,10076000.0
+2004,Australia,Wheat,26131870.0
+2004,Austria,Barley,1006742.37
+2004,Austria,"Cereals, primary",5323713.99
+2004,Austria,"Hen eggs in shell, fresh",1537696.0
+2004,Austria,"Meat, Total",855627.0
+2004,Austria,"Milk, Total",3158238.0
+2004,Austria,Raw milk of cattle,3137322.0
+2004,Austria,Wheat,1718825.23
+2004,Belgium,Barley,304777.0
+2004,Belgium,"Cereals, primary",2931988.0
+2004,Belgium,"Hen eggs in shell, fresh",3840663.0
+2004,Belgium,"Meat, Total",1815441.5
+2004,Belgium,"Milk, Total",3065200.0
+2004,Belgium,Raw milk of cattle,3060000.0
+2004,Belgium,Wheat,1913177.0
+2004,Brazil,Barley,397160.0
+2004,Brazil,"Cereals, primary",63953364.1
+2004,Brazil,"Hen eggs in shell, fresh",33934572.0
+2004,Brazil,"Meat, Total",19908035.0
+2004,Brazil,"Milk, Total",24461787.68
+2004,Brazil,Raw milk of cattle,24202408.0
+2004,Brazil,Wheat,5818846.0
+2004,Canada,Barley,12556700.0
+2004,Canada,"Cereals, primary",50778200.0
+2004,Canada,"Hen eggs in shell, fresh",7035402.0
+2004,Canada,"Meat, Total",4597690.0
+2004,Canada,"Milk, Total",7905000.0
+2004,Canada,Raw milk of cattle,7905000.0
+2004,Canada,Wheat,24795500.0
+2004,China,Barley,3221800.0
+2004,China,"Cereals, primary",413162398.03
+2004,China,"Hen eggs in shell, fresh",430515540.0
+2004,China,"Meat, Total",67907082.97
+2004,China,"Milk, Total",26907336.37
+2004,China,Raw milk of cattle,22928777.0
+2004,China,Wheat,91952238.0
+2004,Denmark,Barley,3589100.0
+2004,Denmark,"Cereals, primary",8963200.0
+2004,Denmark,"Hen eggs in shell, fresh",1466300.0
+2004,Denmark,"Meat, Total",2157658.0
+2004,Denmark,"Milk, Total",4569000.0
+2004,Denmark,Raw milk of cattle,4569000.0
+2004,Denmark,Wheat,4758500.0
+2004,Finland,Barley,1724700.0
+2004,Finland,"Cereals, primary",3618700.0
+2004,Finland,"Hen eggs in shell, fresh",976900.0
+2004,Finland,"Meat, Total",396890.0
+2004,Finland,"Milk, Total",2449031.0
+2004,Finland,Raw milk of cattle,2449031.0
+2004,Finland,Wheat,782300.0
+2004,France,Barley,11033331.4
+2004,France,"Cereals, primary",70642015.5
+2004,France,"Hen eggs in shell, fresh",16794382.0
+2004,France,"Meat, Total",6078314.0
+2004,France,"Milk, Total",23484586.9
+2004,France,Raw milk of cattle,22689835.5
+2004,France,Wheat,39690179.5
+2004,Germany,Barley,12992870.0
+2004,Germany,"Cereals, primary",51097000.0
+2004,Germany,"Hen eggs in shell, fresh",13166075.0
+2004,Germany,"Meat, Total",6730857.0
+2004,Germany,"Milk, Total",28273530.0
+2004,Germany,Raw milk of cattle,28244730.0
+2004,Germany,Wheat,25427210.0
+2004,Hungary,Barley,1413360.0
+2004,Hungary,"Cereals, primary",16779323.0
+2004,Hungary,"Hen eggs in shell, fresh",3446036.0
+2004,Hungary,"Meat, Total",1010634.73
+2004,Hungary,"Milk, Total",1902763.0
+2004,Hungary,Raw milk of cattle,1894602.0
+2004,Hungary,Wheat,6006820.0
+2004,India,Barley,1297600.0
+2004,India,"Cereals, primary",229845504.0
+2004,India,"Hen eggs in shell, fresh",47712000.0
+2004,India,"Meat, Total",4837100.02
+2004,India,"Milk, Total",91071211.01
+2004,India,Raw milk of cattle,37344000.0
+2004,India,Wheat,72156200.0
+2004,Ireland,Barley,1326600.0
+2004,Ireland,"Cereals, primary",2507508.33
+2004,Ireland,"Hen eggs in shell, fresh",590863.0
+2004,Ireland,"Meat, Total",970555.0
+2004,Ireland,"Milk, Total",5267880.0
+2004,Ireland,Raw milk of cattle,5267880.0
+2004,Ireland,Wheat,1019200.0
+2004,Italy,Barley,1156620.0
+2004,Italy,"Cereals, primary",23283207.0
+2004,Italy,"Hen eggs in shell, fresh",13784500.0
+2004,Italy,"Meat, Total",3902552.0
+2004,Italy,"Milk, Total",11632861.0
+2004,Italy,Raw milk of cattle,10727578.0
+2004,Italy,Wheat,8638721.0
+2004,Netherlands (Kingdom of the),Barley,287600.0
+2004,Netherlands (Kingdom of the),"Cereals, primary",1748400.0
+2004,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10626000.0
+2004,Netherlands (Kingdom of the),"Meat, Total",2386189.7
+2004,Netherlands (Kingdom of the),"Milk, Total",10905000.0
+2004,Netherlands (Kingdom of the),Raw milk of cattle,10905000.0
+2004,Netherlands (Kingdom of the),Wheat,1223900.0
+2004,New Zealand,Barley,226082.0
+2004,New Zealand,"Cereals, primary",763040.0
+2004,New Zealand,"Hen eggs in shell, fresh",904380.0
+2004,New Zealand,"Meat, Total",1466546.0
+2004,New Zealand,"Milk, Total",15030000.0
+2004,New Zealand,Raw milk of cattle,15030000.0
+2004,New Zealand,Wheat,255860.0
+2004,Poland,Barley,3570787.0
+2004,Poland,"Cereals, primary",29635147.0
+2004,Poland,"Hen eggs in shell, fresh",9763947.0
+2004,Poland,"Meat, Total",3083918.0
+2004,Poland,"Milk, Total",11854930.0
+2004,Poland,Raw milk of cattle,11821982.0
+2004,Poland,Wheat,9892482.0
+2004,Romania,Barley,1405996.0
+2004,Romania,"Cereals, primary",24399681.0
+2004,Romania,"Hen eggs in shell, fresh",7037100.0
+2004,Romania,"Meat, Total",918809.01
+2004,Romania,"Milk, Total",5504100.0
+2004,Romania,Raw milk of cattle,5053100.0
+2004,Romania,Wheat,7812428.0
+2004,Spain,Barley,10639817.0
+2004,Spain,"Cereals, primary",24842578.0
+2004,Spain,"Hen eggs in shell, fresh",16065266.0
+2004,Spain,"Meat, Total",5226922.03
+2004,Spain,"Milk, Total",7273600.0
+2004,Spain,Raw milk of cattle,6384100.0
+2004,Spain,Wheat,7096724.0
+2004,Sweden,Barley,1691900.0
+2004,Sweden,"Cereals, primary",5507800.0
+2004,Sweden,"Hen eggs in shell, fresh",1837000.0
+2004,Sweden,"Meat, Total",553690.0
+2004,Sweden,"Milk, Total",3275000.0
+2004,Sweden,Raw milk of cattle,3275000.0
+2004,Sweden,Wheat,2412300.0
+2004,United States of America,Barley,6090680.0
+2004,United States of America,"Cereals, primary",389023763.41
+2004,United States of America,"Hen eggs in shell, fresh",94481000.0
+2004,United States of America,"Meat, Total",39805478.02
+2004,United States of America,"Milk, Total",77515394.82
+2004,United States of America,Raw milk of cattle,77488114.0
+2004,United States of America,Wheat,58697040.0
+2005,Argentina,Barley,799423.0
+2005,Argentina,"Cereals, primary",41947408.0
+2005,Argentina,"Hen eggs in shell, fresh",7588800.0
+2005,Argentina,"Meat, Total",4562923.1
+2005,Argentina,"Milk, Total",9908941.0
+2005,Argentina,Raw milk of cattle,9908941.0
+2005,Argentina,Wheat,16139170.0
+2005,Australia,Barley,7739767.0
+2005,Australia,"Cereals, primary",34357112.0
+2005,Australia,"Hen eggs in shell, fresh",2570440.0
+2005,Australia,"Meat, Total",3892161.0
+2005,Australia,"Milk, Total",10127000.0
+2005,Australia,Raw milk of cattle,10127000.0
+2005,Australia,Wheat,21905113.0
+2005,Austria,Barley,879628.0
+2005,Austria,"Cereals, primary",4907056.68
+2005,Austria,"Hen eggs in shell, fresh",1577121.0
+2005,Austria,"Meat, Total",848905.0
+2005,Austria,"Milk, Total",3135852.0
+2005,Austria,Raw milk of cattle,3113658.0
+2005,Austria,Wheat,1453072.0
+2005,Belgium,Barley,301647.0
+2005,Belgium,"Cereals, primary",2786575.0
+2005,Belgium,"Hen eggs in shell, fresh",3334369.0
+2005,Belgium,"Meat, Total",1740733.5
+2005,Belgium,"Milk, Total",3030250.0
+2005,Belgium,Raw milk of cattle,3025000.0
+2005,Belgium,Wheat,1768410.0
+2005,Brazil,Barley,326251.0
+2005,Brazil,"Cereals, primary",55670925.0
+2005,Brazil,"Hen eggs in shell, fresh",35173505.0
+2005,Brazil,"Meat, Total",19668815.0
+2005,Brazil,"Milk, Total",25648351.82
+2005,Brazil,Raw milk of cattle,25384106.0
+2005,Brazil,Wheat,4658790.0
+2005,Canada,Barley,11677600.0
+2005,Canada,"Cereals, primary",50962400.0
+2005,Canada,"Hen eggs in shell, fresh",7429688.0
+2005,Canada,"Meat, Total",4593790.0
+2005,Canada,"Milk, Total",7806000.0
+2005,Canada,Raw milk of cattle,7806000.0
+2005,Canada,Wheat,25748100.0
+2005,China,Barley,3444100.0
+2005,China,"Cereals, primary",429370665.03
+2005,China,"Hen eggs in shell, fresh",441991262.49
+2005,China,"Meat, Total",71187382.87
+2005,China,"Milk, Total",32023062.76
+2005,China,Raw milk of cattle,27837329.0
+2005,China,Wheat,97445196.0
+2005,Denmark,Barley,3797200.0
+2005,Denmark,"Cereals, primary",9283000.0
+2005,Denmark,"Hen eggs in shell, fresh",1409800.0
+2005,Denmark,"Meat, Total",2121868.0
+2005,Denmark,"Milk, Total",4584000.0
+2005,Denmark,Raw milk of cattle,4584000.0
+2005,Denmark,Wheat,4887200.0
+2005,Finland,Barley,2102900.0
+2005,Finland,"Cereals, primary",4058900.0
+2005,Finland,"Hen eggs in shell, fresh",982009.0
+2005,Finland,"Meat, Total",394580.0
+2005,Finland,"Milk, Total",2433190.0
+2005,Finland,Raw milk of cattle,2433190.0
+2005,Finland,Wheat,801300.0
+2005,France,Barley,10313589.3
+2005,France,"Cereals, primary",64210067.4
+2005,France,"Hen eggs in shell, fresh",16864761.0
+2005,France,"Meat, Total",6019490.0
+2005,France,"Milk, Total",23937993.4
+2005,France,Raw milk of cattle,23128946.9
+2005,France,Wheat,36886102.6
+2005,Germany,Barley,11613800.0
+2005,Germany,"Cereals, primary",45980200.0
+2005,Germany,"Hen eggs in shell, fresh",12823253.0
+2005,Germany,"Meat, Total",6810746.0
+2005,Germany,"Milk, Total",28481150.0
+2005,Germany,Raw milk of cattle,28452950.0
+2005,Germany,Wheat,23692700.0
+2005,Hungary,Barley,1190447.0
+2005,Hungary,"Cereals, primary",16212463.0
+2005,Hungary,"Hen eggs in shell, fresh",3128247.0
+2005,Hungary,"Meat, Total",937740.0
+2005,Hungary,"Milk, Total",1936928.0
+2005,Hungary,Raw milk of cattle,1928739.0
+2005,Hungary,Wheat,5088219.0
+2005,India,Barley,1207100.0
+2005,India,"Cereals, primary",239997492.0
+2005,India,"Hen eggs in shell, fresh",48803000.0
+2005,India,"Meat, Total",4995950.02
+2005,India,"Milk, Total",95630845.44
+2005,India,Raw milk of cattle,39759000.0
+2005,India,Wheat,68636896.0
+2005,Ireland,Barley,1024400.0
+2005,Ireland,"Cereals, primary",1947926.55
+2005,Ireland,"Hen eggs in shell, fresh",695500.0
+2005,Ireland,"Meat, Total",954880.0
+2005,Ireland,"Milk, Total",5061250.0
+2005,Ireland,Raw milk of cattle,5061250.0
+2005,Ireland,Wheat,802700.0
+2005,Italy,Barley,1214054.0
+2005,Italy,"Cereals, primary",21423171.0
+2005,Italy,"Hen eggs in shell, fresh",13618600.0
+2005,Italy,"Meat, Total",3785872.0
+2005,Italy,"Milk, Total",11862634.0
+2005,Italy,Raw milk of cattle,11012957.0
+2005,Italy,Wheat,7717129.0
+2005,Netherlands (Kingdom of the),Barley,307100.0
+2005,Netherlands (Kingdom of the),"Cereals, primary",1705043.0
+2005,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10560000.0
+2005,Netherlands (Kingdom of the),"Meat, Total",2412289.9
+2005,Netherlands (Kingdom of the),"Milk, Total",10847000.0
+2005,Netherlands (Kingdom of the),Raw milk of cattle,10847000.0
+2005,Netherlands (Kingdom of the),Wheat,1174686.0
+2005,New Zealand,Barley,302023.0
+2005,New Zealand,"Cereals, primary",871437.0
+2005,New Zealand,"Hen eggs in shell, fresh",959882.0
+2005,New Zealand,"Meat, Total",1452634.0
+2005,New Zealand,"Milk, Total",14637894.0
+2005,New Zealand,Raw milk of cattle,14637894.0
+2005,New Zealand,Wheat,318947.0
+2005,Poland,Barley,3581156.0
+2005,Poland,"Cereals, primary",26927924.0
+2005,Poland,"Hen eggs in shell, fresh",10176196.0
+2005,Poland,"Meat, Total",3182424.0
+2005,Poland,"Milk, Total",11945565.0
+2005,Poland,Raw milk of cattle,11922778.0
+2005,Poland,Wheat,8771434.0
+2005,Romania,Barley,1079148.0
+2005,Romania,"Cereals, primary",19347775.46
+2005,Romania,"Hen eggs in shell, fresh",7462350.0
+2005,Romania,"Meat, Total",992905.46
+2005,Romania,"Milk, Total",5552200.0
+2005,Romania,Raw milk of cattle,5007800.0
+2005,Romania,Wheat,7340664.0
+2005,Spain,Barley,4626059.0
+2005,Spain,"Cereals, primary",14241390.0
+2005,Spain,"Hen eggs in shell, fresh",13830590.0
+2005,Spain,"Meat, Total",5311905.47
+2005,Spain,"Milk, Total",7249900.0
+2005,Spain,Raw milk of cattle,6370200.0
+2005,Spain,Wheat,4026694.0
+2005,Sweden,Barley,1592900.0
+2005,Sweden,"Cereals, primary",5050600.0
+2005,Sweden,"Hen eggs in shell, fresh",1802000.0
+2005,Sweden,"Meat, Total",531923.0
+2005,Sweden,"Milk, Total",3208000.0
+2005,Sweden,Raw milk of cattle,3208000.0
+2005,Sweden,Wheat,2246800.0
+2005,United States of America,Barley,4613490.0
+2005,United States of America,"Cereals, primary",366436345.76
+2005,United States of America,"Hen eggs in shell, fresh",95693000.0
+2005,United States of America,"Meat, Total",39743999.63
+2005,United States of America,"Milk, Total",80282642.84
+2005,United States of America,Raw milk of cattle,80254574.0
+2005,United States of America,Wheat,57241992.0
+2006,Argentina,Barley,1268465.0
+2006,Argentina,"Cereals, primary",32262738.0
+2006,Argentina,"Hen eggs in shell, fresh",8170608.0
+2006,Argentina,"Meat, Total",4661674.06
+2006,Argentina,"Milk, Total",10493569.0
+2006,Argentina,Raw milk of cattle,10493569.0
+2006,Argentina,Wheat,12721976.0
+2006,Australia,Barley,9481741.0
+2006,Australia,"Cereals, primary",40504980.0
+2006,Australia,"Hen eggs in shell, fresh",3176254.0
+2006,Australia,"Meat, Total",4069870.0
+2006,Australia,"Milk, Total",10089000.0
+2006,Australia,Raw milk of cattle,10089000.0
+2006,Australia,Wheat,25150343.0
+2006,Austria,Barley,914052.0
+2006,Austria,"Cereals, primary",4467510.5
+2006,Austria,"Hen eggs in shell, fresh",1600823.0
+2006,Austria,"Meat, Total",859677.0
+2006,Austria,"Milk, Total",3168555.0
+2006,Austria,Raw milk of cattle,3146657.0
+2006,Austria,Wheat,1396300.0
+2006,Belgium,Barley,367348.0
+2006,Belgium,"Cereals, primary",2684227.0
+2006,Belgium,"Hen eggs in shell, fresh",3253609.0
+2006,Belgium,"Meat, Total",1780171.08
+2006,Belgium,"Milk, Total",2843830.0
+2006,Belgium,Raw milk of cattle,2836930.0
+2006,Belgium,Wheat,1661958.0
+2006,Brazil,Barley,202940.0
+2006,Brazil,"Cereals, primary",59148978.0
+2006,Brazil,"Hen eggs in shell, fresh",36967152.0
+2006,Brazil,"Meat, Total",20441383.0
+2006,Brazil,"Milk, Total",26451666.27
+2006,Brazil,Raw milk of cattle,26185564.0
+2006,Brazil,Wheat,2484848.0
+2006,Canada,Barley,9573100.0
+2006,Canada,"Cereals, primary",48577300.0
+2006,Canada,"Hen eggs in shell, fresh",7651176.0
+2006,Canada,"Meat, Total",4438880.0
+2006,Canada,"Milk, Total",8041000.0
+2006,Canada,Raw milk of cattle,8041000.0
+2006,Canada,Wheat,25265400.0
+2006,China,Barley,3129600.0
+2006,China,"Cereals, primary",452800681.94
+2006,China,"Hen eggs in shell, fresh",439653705.0
+2006,China,"Meat, Total",72862623.85
+2006,China,"Milk, Total",33983881.0
+2006,China,Raw milk of cattle,29769300.0
+2006,China,Wheat,108466271.0
+2006,Denmark,Barley,3270300.0
+2006,Denmark,"Cereals, primary",8632300.0
+2006,Denmark,"Hen eggs in shell, fresh",1360000.0
+2006,Denmark,"Meat, Total",2053950.0
+2006,Denmark,"Milk, Total",4627000.0
+2006,Denmark,Raw milk of cattle,4627000.0
+2006,Denmark,Wheat,4801600.0
+2006,Finland,Barley,1972100.0
+2006,Finland,"Cereals, primary",3789900.0
+2006,Finland,"Hen eggs in shell, fresh",956700.0
+2006,Finland,"Meat, Total",399343.83
+2006,Finland,"Milk, Total",2412981.0
+2006,Finland,Raw milk of cattle,2412981.0
+2006,Finland,Wheat,684100.0
+2006,France,Barley,10400575.8
+2006,France,"Cereals, primary",61820444.7
+2006,France,"Hen eggs in shell, fresh",16046600.0
+2006,France,"Meat, Total",5518648.0
+2006,France,"Milk, Total",23516961.3
+2006,France,Raw milk of cattle,22674753.0
+2006,France,Wheat,35363563.4
+2006,Germany,Barley,11966600.0
+2006,Germany,"Cereals, primary",43474800.0
+2006,Germany,"Hen eggs in shell, fresh",12933400.0
+2006,Germany,"Meat, Total",6991701.0
+2006,Germany,"Milk, Total",28023000.0
+2006,Germany,Raw milk of cattle,27995000.0
+2006,Germany,Wheat,22427900.0
+2006,Hungary,Barley,1075150.0
+2006,Hungary,"Cereals, primary",14467371.0
+2006,Hungary,"Hen eggs in shell, fresh",3120207.0
+2006,Hungary,"Meat, Total",923417.0
+2006,Hungary,"Milk, Total",1851069.0
+2006,Hungary,Raw milk of cattle,1844075.0
+2006,Hungary,Wheat,4376235.0
+2006,India,Barley,1220600.0
+2006,India,"Cereals, primary",242785588.0
+2006,India,"Hen eggs in shell, fresh",53477000.0
+2006,India,"Meat, Total",5342245.02
+2006,India,"Milk, Total",100277498.75
+2006,India,Raw milk of cattle,42066000.0
+2006,India,Wheat,69354496.0
+2006,Ireland,Barley,1136900.0
+2006,Ireland,"Cereals, primary",2090355.84
+2006,Ireland,"Hen eggs in shell, fresh",707100.0
+2006,Ireland,"Meat, Total",941142.64
+2006,Ireland,"Milk, Total",5224390.0
+2006,Ireland,Raw milk of cattle,5224390.0
+2006,Ireland,Wheat,801000.0
+2006,Italy,Barley,1282043.0
+2006,Italy,"Cereals, primary",20206559.0
+2006,Italy,"Hen eggs in shell, fresh",13478900.0
+2006,Italy,"Meat, Total",3746997.01
+2006,Italy,"Milk, Total",11811487.0
+2006,Italy,Raw milk of cattle,10989108.0
+2006,Italy,Wheat,7181720.0
+2006,Netherlands (Kingdom of the),Barley,268700.0
+2006,Netherlands (Kingdom of the),"Cereals, primary",1674669.0
+2006,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10622000.0
+2006,Netherlands (Kingdom of the),"Meat, Total",2361490.1
+2006,Netherlands (Kingdom of the),"Milk, Total",11126600.0
+2006,Netherlands (Kingdom of the),Raw milk of cattle,10989100.0
+2006,Netherlands (Kingdom of the),Wheat,1184400.0
+2006,New Zealand,Barley,277020.0
+2006,New Zealand,"Cereals, primary",788645.0
+2006,New Zealand,"Hen eggs in shell, fresh",961000.0
+2006,New Zealand,"Meat, Total",1432334.0
+2006,New Zealand,"Milk, Total",15172464.0
+2006,New Zealand,Raw milk of cattle,15172464.0
+2006,New Zealand,Wheat,261798.0
+2006,Poland,Barley,3161041.0
+2006,Poland,"Cereals, primary",21775931.0
+2006,Poland,"Hen eggs in shell, fresh",10199673.0
+2006,Poland,"Meat, Total",3405379.0
+2006,Poland,"Milk, Total",12003415.0
+2006,Poland,Raw milk of cattle,11982393.0
+2006,Poland,Wheat,7059671.0
+2006,Romania,Barley,772929.0
+2006,Romania,"Cereals, primary",15759324.0
+2006,Romania,"Hen eggs in shell, fresh",7489650.0
+2006,Romania,"Meat, Total",934366.59
+2006,Romania,"Milk, Total",5964148.0
+2006,Romania,Raw milk of cattle,5313358.0
+2006,Romania,Wheat,5526190.0
+2006,Spain,Barley,8136389.0
+2006,Spain,"Cereals, primary",19088631.0
+2006,Spain,"Hen eggs in shell, fresh",13948839.0
+2006,Spain,"Meat, Total",5306206.13
+2006,Spain,"Milk, Total",7107700.0
+2006,Spain,Raw milk of cattle,6191700.0
+2006,Spain,Wheat,5521582.0
+2006,Sweden,Barley,1110600.0
+2006,Sweden,"Cereals, primary",4128400.0
+2006,Sweden,"Hen eggs in shell, fresh",1749000.0
+2006,Sweden,"Meat, Total",519650.0
+2006,Sweden,"Milk, Total",3172000.0
+2006,Sweden,Raw milk of cattle,3172000.0
+2006,Sweden,Wheat,1967400.0
+2006,United States of America,Barley,3922630.0
+2006,United States of America,"Cereals, primary",338336800.0
+2006,United States of America,"Hen eggs in shell, fresh",97224000.0
+2006,United States of America,"Meat, Total",40131501.46
+2006,United States of America,"Milk, Total",82483413.75
+2006,United States of America,Raw milk of cattle,82454951.0
+2006,United States of America,Wheat,49216040.0
+2007,Argentina,Barley,1474510.0
+2007,Argentina,"Cereals, primary",42067213.0
+2007,Argentina,"Hen eggs in shell, fresh",8794656.0
+2007,Argentina,"Meat, Total",4948835.84
+2007,Argentina,"Milk, Total",9822337.0
+2007,Argentina,Raw milk of cattle,9822337.0
+2007,Argentina,Wheat,14662945.0
+2007,Australia,Barley,4257032.0
+2007,Australia,"Cereals, primary",17771911.0
+2007,Australia,"Hen eggs in shell, fresh",2998966.0
+2007,Australia,"Meat, Total",4139503.0
+2007,Australia,"Milk, Total",9583000.0
+2007,Australia,Raw milk of cattle,9583000.0
+2007,Australia,Wheat,10821628.0
+2007,Austria,Barley,810980.0
+2007,Austria,"Cereals, primary",4766039.24
+2007,Austria,"Hen eggs in shell, fresh",1677697.0
+2007,Austria,"Meat, Total",890792.0
+2007,Austria,"Milk, Total",3179995.0
+2007,Austria,Raw milk of cattle,3155068.0
+2007,Austria,Wheat,1399341.0
+2007,Belgium,Barley,374454.0
+2007,Belgium,"Cereals, primary",2718733.0
+2007,Belgium,"Hen eggs in shell, fresh",2921606.0
+2007,Belgium,"Meat, Total",1806919.36
+2007,Belgium,"Milk, Total",2885036.0
+2007,Belgium,Raw milk of cattle,2878636.0
+2007,Belgium,Wheat,1577342.0
+2007,Brazil,Barley,235577.0
+2007,Brazil,"Cereals, primary",69441634.0
+2007,Brazil,"Hen eggs in shell, fresh",37362982.0
+2007,Brazil,"Meat, Total",21814555.0
+2007,Brazil,"Milk, Total",26387188.12
+2007,Brazil,Raw milk of cattle,26137266.0
+2007,Brazil,Wheat,4114057.0
+2007,Canada,Barley,10909800.0
+2007,Canada,"Cereals, primary",48005300.0
+2007,Canada,"Hen eggs in shell, fresh",7691700.0
+2007,Canada,"Meat, Total",4429580.0
+2007,Canada,"Milk, Total",8145000.0
+2007,Canada,Raw milk of cattle,8145000.0
+2007,Canada,Wheat,20090400.0
+2007,China,Barley,2785100.0
+2007,China,"Cereals, primary",458156418.03
+2007,China,"Hen eggs in shell, fresh",458496794.0
+2007,China,"Meat, Total",70697139.73
+2007,China,"Milk, Total",34042983.07
+2007,China,Raw milk of cattle,29793326.0
+2007,China,Wheat,109298296.0
+2007,Denmark,Barley,3104200.0
+2007,Denmark,"Cereals, primary",8220200.0
+2007,Denmark,"Hen eggs in shell, fresh",1378000.0
+2007,Denmark,"Meat, Total",2110778.51
+2007,Denmark,"Milk, Total",4650000.0
+2007,Denmark,Raw milk of cattle,4650000.0
+2007,Denmark,Wheat,4519200.0
+2007,Finland,Barley,1984400.0
+2007,Finland,"Cereals, primary",4135300.0
+2007,Finland,"Hen eggs in shell, fresh",961800.0
+2007,Finland,"Meat, Total",412361.1
+2007,Finland,"Milk, Total",2355600.0
+2007,Finland,Raw milk of cattle,2355600.0
+2007,Finland,Wheat,796800.0
+2007,France,Barley,9473583.8
+2007,France,"Cereals, primary",59578777.56
+2007,France,"Hen eggs in shell, fresh",15518400.0
+2007,France,"Meat, Total",5668856.9
+2007,France,"Milk, Total",23602148.7
+2007,France,Raw milk of cattle,22768718.5
+2007,France,Wheat,32763445.9
+2007,Germany,Barley,10384218.0
+2007,Germany,"Cereals, primary",40632149.0
+2007,Germany,"Hen eggs in shell, fresh",12759400.0
+2007,Germany,"Meat, Total",7405262.0
+2007,Germany,"Milk, Total",28432372.0
+2007,Germany,Raw milk of cattle,28402772.0
+2007,Germany,Wheat,20828077.0
+2007,Hungary,Barley,1017827.0
+2007,Hungary,"Cereals, primary",9652899.0
+2007,Hungary,"Hen eggs in shell, fresh",3000933.0
+2007,Hungary,"Meat, Total",924696.0
+2007,Hungary,"Milk, Total",1848564.0
+2007,Hungary,Raw milk of cattle,1842233.0
+2007,Hungary,Wheat,3986708.0
+2007,India,Barley,1330000.0
+2007,India,"Cereals, primary",260485904.0
+2007,India,"Hen eggs in shell, fresh",56530000.0
+2007,India,"Meat, Total",5626196.02
+2007,India,"Milk, Total",107944131.59
+2007,India,Raw milk of cattle,46822000.0
+2007,India,Wheat,75806704.0
+2007,Ireland,Barley,1124500.0
+2007,Ireland,"Cereals, primary",2006462.35
+2007,Ireland,"Hen eggs in shell, fresh",626800.0
+2007,Ireland,"Meat, Total",968409.42
+2007,Ireland,"Milk, Total",5224770.0
+2007,Ireland,Raw milk of cattle,5224770.0
+2007,Ireland,Wheat,713400.0
+2007,Italy,Barley,1225282.0
+2007,Italy,"Cereals, primary",20350618.0
+2007,Italy,"Hen eggs in shell, fresh",13524000.0
+2007,Italy,"Meat, Total",3901905.06
+2007,Italy,"Milk, Total",11480846.0
+2007,Italy,Raw milk of cattle,10617750.0
+2007,Italy,Wheat,7170181.0
+2007,Netherlands (Kingdom of the),Barley,260000.0
+2007,Netherlands (Kingdom of the),"Cereals, primary",1547600.0
+2007,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10801300.0
+2007,Netherlands (Kingdom of the),"Meat, Total",2448382.1
+2007,Netherlands (Kingdom of the),"Milk, Total",11220750.0
+2007,Netherlands (Kingdom of the),Raw milk of cattle,11061750.0
+2007,Netherlands (Kingdom of the),Wheat,1018000.0
+2007,New Zealand,Barley,355627.0
+2007,New Zealand,"Cereals, primary",926928.0
+2007,New Zealand,"Hen eggs in shell, fresh",878598.0
+2007,New Zealand,"Meat, Total",1447611.0
+2007,New Zealand,"Milk, Total",15618288.0
+2007,New Zealand,Raw milk of cattle,15618288.0
+2007,New Zealand,Wheat,344434.0
+2007,Poland,Barley,4008096.0
+2007,Poland,"Cereals, primary",27142811.0
+2007,Poland,"Hen eggs in shell, fresh",10380348.0
+2007,Poland,"Meat, Total",3583674.0
+2007,Poland,"Milk, Total",12117311.0
+2007,Poland,Raw milk of cattle,12096005.0
+2007,Poland,Wheat,8317265.0
+2007,Romania,Barley,531420.0
+2007,Romania,"Cereals, primary",7814825.0
+2007,Romania,"Hen eggs in shell, fresh",6537300.0
+2007,Romania,"Meat, Total",1006521.23
+2007,Romania,"Milk, Total",5665956.0
+2007,Romania,Raw milk of cattle,5028254.0
+2007,Romania,Wheat,3044465.0
+2007,Spain,Barley,11945319.0
+2007,Spain,"Cereals, primary",24538959.0
+2007,Spain,"Hen eggs in shell, fresh",13920291.0
+2007,Spain,"Meat, Total",5520576.9
+2007,Spain,"Milk, Total",7046000.0
+2007,Spain,Raw milk of cattle,6143100.0
+2007,Spain,Wheat,6436359.0
+2007,Sweden,Barley,1439000.0
+2007,Sweden,"Cereals, primary",5057600.0
+2007,Sweden,"Hen eggs in shell, fresh",1678000.0
+2007,Sweden,"Meat, Total",526942.0
+2007,Sweden,"Milk, Total",3025000.0
+2007,Sweden,Raw milk of cattle,3025000.0
+2007,Sweden,Wheat,2255700.0
+2007,United States of America,Barley,4574610.0
+2007,United States of America,"Cereals, primary",415130860.0
+2007,United States of America,"Hen eggs in shell, fresh",96496000.0
+2007,United States of America,"Meat, Total",41624756.2
+2007,United States of America,"Milk, Total",84241352.23
+2007,United States of America,Raw milk of cattle,84211262.0
+2007,United States of America,Wheat,55820360.0
+2008,Argentina,Barley,1681880.0
+2008,Argentina,"Cereals, primary",44956952.0
+2008,Argentina,"Hen eggs in shell, fresh",9300096.0
+2008,Argentina,"Meat, Total",4997074.89
+2008,Argentina,"Milk, Total",10320318.0
+2008,Argentina,Raw milk of cattle,10320318.0
+2008,Argentina,Wheat,16486532.0
+2008,Australia,Barley,7160168.0
+2008,Australia,"Cereals, primary",26866214.0
+2008,Australia,"Hen eggs in shell, fresh",2967000.0
+2008,Australia,"Meat, Total",4029762.0
+2008,Australia,"Milk, Total",9223000.0
+2008,Australia,Raw milk of cattle,9223000.0
+2008,Australia,Wheat,13569378.0
+2008,Austria,Barley,967921.0
+2008,Austria,"Cereals, primary",5756463.63
+2008,Austria,"Hen eggs in shell, fresh",1696160.0
+2008,Austria,"Meat, Total",897128.0
+2008,Austria,"Milk, Total",3221095.0
+2008,Austria,Raw milk of cattle,3195948.0
+2008,Austria,Wheat,1689688.0
+2008,Belgium,Barley,328768.0
+2008,Belgium,"Cereals, primary",3113270.0
+2008,Belgium,"Hen eggs in shell, fresh",2723100.0
+2008,Belgium,"Meat, Total",1682125.44
+2008,Belgium,"Milk, Total",2855938.0
+2008,Belgium,Raw milk of cattle,2849228.0
+2008,Belgium,Wheat,1850406.0
+2008,Brazil,Barley,236912.0
+2008,Brazil,"Cereals, primary",79745466.44
+2008,Brazil,"Hen eggs in shell, fresh",38738034.0
+2008,Brazil,"Meat, Total",22858805.46
+2008,Brazil,"Milk, Total",28687634.59
+2008,Brazil,Raw milk of cattle,28440492.0
+2008,Brazil,Wheat,6027131.0
+2008,Canada,Barley,11785800.0
+2008,Canada,"Cereals, primary",56030400.0
+2008,Canada,"Hen eggs in shell, fresh",7823481.0
+2008,Canada,"Meat, Total",4536970.0
+2008,Canada,"Milk, Total",8140000.0
+2008,Canada,Raw milk of cattle,8140000.0
+2008,Canada,Wheat,28619200.0
+2008,China,Barley,2823200.0
+2008,China,"Cereals, primary",480842470.04
+2008,China,"Hen eggs in shell, fresh",488776071.0
+2008,China,"Meat, Total",74750653.34
+2008,China,"Milk, Total",34745557.75
+2008,China,Raw milk of cattle,30421607.0
+2008,China,Wheat,112464292.0
+2008,Denmark,Barley,3396000.0
+2008,Denmark,"Cereals, primary",9105500.0
+2008,Denmark,"Hen eggs in shell, fresh",1431000.0
+2008,Denmark,"Meat, Total",2018239.97
+2008,Denmark,"Milk, Total",4720000.0
+2008,Denmark,Raw milk of cattle,4720000.0
+2008,Denmark,Wheat,5018700.0
+2008,Finland,Barley,2128600.0
+2008,Finland,"Cereals, primary",4229100.0
+2008,Finland,"Hen eggs in shell, fresh",983700.0
+2008,Finland,"Meat, Total",413558.64
+2008,Finland,"Milk, Total",2310908.0
+2008,Finland,Raw milk of cattle,2310908.0
+2008,Finland,Wheat,787500.0
+2008,France,Barley,12170628.7
+2008,France,"Cereals, primary",70418032.1
+2008,France,"Hen eggs in shell, fresh",14228686.0
+2008,France,"Meat, Total",5835821.4
+2008,France,"Milk, Total",24376342.0
+2008,France,Raw milk of cattle,23564860.0
+2008,France,Wheat,39006372.0
+2008,Germany,Barley,11967114.0
+2008,Germany,"Cereals, primary",50104858.0
+2008,Germany,"Hen eggs in shell, fresh",12892680.0
+2008,Germany,"Meat, Total",7678784.0
+2008,Germany,"Milk, Total",28687456.0
+2008,Germany,Raw milk of cattle,28656256.0
+2008,Germany,Wheat,25988564.0
+2008,Hungary,Barley,1467055.0
+2008,Hungary,"Cereals, primary",16840650.0
+2008,Hungary,"Hen eggs in shell, fresh",3038551.0
+2008,Hungary,"Meat, Total",892428.0
+2008,Hungary,"Milk, Total",1845646.0
+2008,Hungary,Raw milk of cattle,1840491.0
+2008,Hungary,Wheat,5630833.0
+2008,India,Barley,1200000.0
+2008,India,"Cereals, primary",266835300.0
+2008,India,"Hen eggs in shell, fresh",58442000.0
+2008,India,"Meat, Total",5956817.34
+2008,India,"Milk, Total",112193852.44
+2008,India,Raw milk of cattle,49810000.0
+2008,India,Wheat,78570200.0
+2008,Ireland,Barley,1294100.0
+2008,Ireland,"Cereals, primary",2463992.68
+2008,Ireland,"Hen eggs in shell, fresh",764000.0
+2008,Ireland,"Meat, Total",914124.54
+2008,Ireland,"Milk, Total",5089960.0
+2008,Ireland,Raw milk of cattle,5089960.0
+2008,Ireland,Wheat,992800.0
+2008,Italy,Barley,1236697.0
+2008,Italy,"Cereals, primary",21613374.0
+2008,Italy,"Hen eggs in shell, fresh",13516800.0
+2008,Italy,"Meat, Total",3929684.33
+2008,Italy,"Milk, Total",12115760.0
+2008,Italy,Raw milk of cattle,11285910.0
+2008,Italy,Wheat,8855440.0
+2008,Netherlands (Kingdom of the),Barley,310200.0
+2008,Netherlands (Kingdom of the),"Cereals, primary",1963010.0
+2008,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10905700.0
+2008,Netherlands (Kingdom of the),"Meat, Total",2473437.9
+2008,Netherlands (Kingdom of the),"Milk, Total",11459910.0
+2008,Netherlands (Kingdom of the),Raw milk of cattle,11285910.0
+2008,Netherlands (Kingdom of the),Wheat,1366162.0
+2008,New Zealand,Barley,408730.0
+2008,New Zealand,"Cereals, primary",999287.0
+2008,New Zealand,"Hen eggs in shell, fresh",1003200.0
+2008,New Zealand,"Meat, Total",1466816.97
+2008,New Zealand,"Milk, Total",15216840.0
+2008,New Zealand,Raw milk of cattle,15216840.0
+2008,New Zealand,Wheat,343350.0
+2008,Poland,Barley,3619460.0
+2008,Poland,"Cereals, primary",27664297.0
+2008,Poland,"Hen eggs in shell, fresh",11044690.0
+2008,Poland,"Meat, Total",3207542.0
+2008,Poland,"Milk, Total",12445264.0
+2008,Poland,Raw milk of cattle,12425282.0
+2008,Poland,Wheat,9274920.0
+2008,Romania,Barley,1209411.0
+2008,Romania,"Cereals, primary",16826441.0
+2008,Romania,"Hen eggs in shell, fresh",6759900.0
+2008,Romania,"Meat, Total",959995.6
+2008,Romania,"Milk, Total",5540269.0
+2008,Romania,Raw milk of cattle,4883436.0
+2008,Romania,Wheat,7180984.0
+2008,Spain,Barley,11261100.0
+2008,Spain,"Cereals, primary",23995338.0
+2008,Spain,"Hen eggs in shell, fresh",13708340.0
+2008,Spain,"Meat, Total",5504622.97
+2008,Spain,"Milk, Total",7272300.0
+2008,Spain,Raw milk of cattle,6339900.0
+2008,Spain,Wheat,6714300.0
+2008,Sweden,Barley,1671600.0
+2008,Sweden,"Cereals, primary",5195000.0
+2008,Sweden,"Hen eggs in shell, fresh",1719000.0
+2008,Sweden,"Meat, Total",531525.0
+2008,Sweden,"Milk, Total",3029000.0
+2008,Sweden,Raw milk of cattle,3029000.0
+2008,Sweden,Wheat,2202200.0
+2008,United States of America,Barley,5205180.0
+2008,United States of America,"Cereals, primary",402399936.0
+2008,United States of America,"Hen eggs in shell, fresh",95583000.0
+2008,United States of America,"Meat, Total",42883179.44
+2008,United States of America,"Milk, Total",86203608.03
+2008,United States of America,Raw milk of cattle,86172596.0
+2008,United States of America,Wheat,68016096.0
+2009,Argentina,Barley,1355801.0
+2009,Argentina,"Cereals, primary",26147049.0
+2009,Argentina,"Hen eggs in shell, fresh",10227300.0
+2009,Argentina,"Meat, Total",5357214.35
+2009,Argentina,"Milk, Total",10366290.0
+2009,Argentina,Raw milk of cattle,10366290.0
+2009,Argentina,Wheat,8508156.0
+2009,Australia,Barley,7996506.0
+2009,Australia,"Cereals, primary",34140448.13
+2009,Australia,"Hen eggs in shell, fresh",2954548.0
+2009,Australia,"Meat, Total",3985874.0
+2009,Australia,"Milk, Total",9388000.0
+2009,Australia,Raw milk of cattle,9388000.0
+2009,Australia,Wheat,21420177.0
+2009,Austria,Barley,835107.0
+2009,Austria,"Cereals, primary",5164152.4
+2009,Austria,"Hen eggs in shell, fresh",1598646.0
+2009,Austria,"Meat, Total",905037.0
+2009,Austria,"Milk, Total",3256926.0
+2009,Austria,Raw milk of cattle,3229809.0
+2009,Austria,Wheat,1523368.0
+2009,Belgium,Barley,452528.0
+2009,Belgium,"Cereals, primary",3255409.0
+2009,Belgium,"Hen eggs in shell, fresh",2574690.0
+2009,Belgium,"Meat, Total",1708183.0
+2009,Belgium,"Milk, Total",2962525.0
+2009,Belgium,Raw milk of cattle,2954385.0
+2009,Belgium,Wheat,1909768.0
+2009,Brazil,Barley,201249.0
+2009,Brazil,"Cereals, primary",70914790.87
+2009,Brazil,"Hen eggs in shell, fresh",40359627.0
+2009,Brazil,"Meat, Total",22610720.0
+2009,Brazil,"Milk, Total",29329180.73
+2009,Brazil,Raw milk of cattle,29085496.0
+2009,Brazil,Wheat,5055525.0
+2009,Canada,Barley,9528200.0
+2009,Canada,"Cereals, primary",49691900.0
+2009,Canada,"Hen eggs in shell, fresh",7859642.0
+2009,Canada,"Meat, Total",4445520.0
+2009,Canada,"Milk, Total",8213300.0
+2009,Canada,Raw milk of cattle,8213300.0
+2009,Canada,Wheat,26949900.0
+2009,China,Barley,2318300.0
+2009,China,"Cereals, primary",484370839.05
+2009,China,"Hen eggs in shell, fresh",496304359.27
+2009,China,"Meat, Total",78309771.35
+2009,China,"Milk, Total",35145860.02
+2009,China,Raw milk of cattle,30272808.0
+2009,China,Wheat,115115364.0
+2009,Denmark,Barley,3393800.0
+2009,Denmark,"Cereals, primary",10163800.0
+2009,Denmark,"Hen eggs in shell, fresh",1306302.0
+2009,Denmark,"Meat, Total",1888236.57
+2009,Denmark,"Milk, Total",4814000.0
+2009,Denmark,Raw milk of cattle,4814000.0
+2009,Denmark,Wheat,5940400.0
+2009,Finland,Barley,2171000.0
+2009,Finland,"Cereals, primary",4260900.0
+2009,Finland,"Hen eggs in shell, fresh",909450.0
+2009,Finland,"Meat, Total",395143.27
+2009,Finland,"Milk, Total",2332023.0
+2009,Finland,Raw milk of cattle,2332023.0
+2009,Finland,Wheat,887000.0
+2009,France,Barley,12879003.9
+2009,France,"Cereals, primary",70373159.2
+2009,France,"Hen eggs in shell, fresh",15502612.0
+2009,France,"Meat, Total",5777096.3
+2009,France,"Milk, Total",23505009.3
+2009,France,Raw milk of cattle,22653085.0
+2009,France,Wheat,38336864.7
+2009,Germany,Barley,12288100.0
+2009,Germany,"Cereals, primary",49750199.0
+2009,Germany,"Hen eggs in shell, fresh",11452850.0
+2009,Germany,"Meat, Total",7854327.0
+2009,Germany,"Milk, Total",29199676.0
+2009,Germany,Raw milk of cattle,29163676.0
+2009,Germany,Wheat,25192350.0
+2009,Hungary,Barley,1063881.0
+2009,Hungary,"Cereals, primary",13590362.0
+2009,Hungary,"Hen eggs in shell, fresh",2962522.0
+2009,Hungary,"Meat, Total",882756.0
+2009,Hungary,"Milk, Total",1762951.0
+2009,Hungary,Raw milk of cattle,1758219.0
+2009,Hungary,Wheat,4419163.0
+2009,India,Barley,1689100.0
+2009,India,"Cereals, primary",250783392.0
+2009,India,"Hen eggs in shell, fresh",61958400.0
+2009,India,"Meat, Total",6399907.14
+2009,India,"Milk, Total",116435582.33
+2009,India,Raw milk of cattle,52200000.0
+2009,India,Wheat,80679400.0
+2009,Ireland,Barley,1227300.0
+2009,Ireland,"Cereals, primary",2066174.9
+2009,Ireland,"Hen eggs in shell, fresh",771600.0
+2009,Ireland,"Meat, Total",884490.2
+2009,Ireland,"Milk, Total",5228300.0
+2009,Ireland,Raw milk of cattle,5228300.0
+2009,Ireland,Wheat,690100.0
+2009,Italy,Barley,1049200.0
+2009,Italy,"Cereals, primary",17705746.0
+2009,Italy,"Hen eggs in shell, fresh",13516800.0
+2009,Italy,"Meat, Total",3971899.87
+2009,Italy,"Milk, Total",11198427.0
+2009,Italy,Raw milk of cattle,10560292.0
+2009,Italy,Wheat,6534746.0
+2009,Netherlands (Kingdom of the),Barley,309619.0
+2009,Netherlands (Kingdom of the),"Cereals, primary",1994422.0
+2009,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10474000.0
+2009,Netherlands (Kingdom of the),"Meat, Total",2532217.9
+2009,Netherlands (Kingdom of the),"Milk, Total",11655570.0
+2009,Netherlands (Kingdom of the),Raw milk of cattle,11468570.0
+2009,Netherlands (Kingdom of the),Wheat,1402040.0
+2009,New Zealand,Barley,435270.0
+2009,New Zealand,"Cereals, primary",1124280.0
+2009,New Zealand,"Hen eggs in shell, fresh",976800.0
+2009,New Zealand,"Meat, Total",1371417.65
+2009,New Zealand,"Milk, Total",16483000.0
+2009,New Zealand,Raw milk of cattle,16483000.0
+2009,New Zealand,Wheat,403463.0
+2009,Poland,Barley,3983900.0
+2009,Poland,"Cereals, primary",29826416.0
+2009,Poland,"Hen eggs in shell, fresh",11486190.0
+2009,Poland,"Meat, Total",3359483.0
+2009,Poland,"Milk, Total",12467155.0
+2009,Poland,Raw milk of cattle,12447173.0
+2009,Poland,Wheat,9789586.0
+2009,Romania,Barley,1182062.0
+2009,Romania,"Cereals, primary",14872952.0
+2009,Romania,"Hen eggs in shell, fresh",6242943.0
+2009,Romania,"Meat, Total",1072552.49
+2009,Romania,"Milk, Total",5282515.0
+2009,Romania,Raw milk of cattle,4682071.0
+2009,Romania,Wheat,5202526.0
+2009,Spain,Barley,7295934.0
+2009,Spain,"Cereals, primary",17894933.0
+2009,Spain,"Hen eggs in shell, fresh",13995587.0
+2009,Spain,"Meat, Total",5309037.98
+2009,Spain,"Milk, Total",7273100.0
+2009,Spain,Raw milk of cattle,6251400.0
+2009,Spain,Wheat,4804772.0
+2009,Sweden,Barley,1680900.0
+2009,Sweden,"Cereals, primary",5241900.0
+2009,Sweden,"Hen eggs in shell, fresh",1772000.0
+2009,Sweden,"Meat, Total",531387.0
+2009,Sweden,"Milk, Total",2974000.0
+2009,Sweden,Raw milk of cattle,2974000.0
+2009,Sweden,Wheat,2277900.0
+2009,United States of America,Barley,4933700.0
+2009,United States of America,"Cereals, primary",418666166.07
+2009,United States of America,"Hen eggs in shell, fresh",96111000.0
+2009,United States of America,"Meat, Total",41856173.78
+2009,United States of America,"Milk, Total",85852535.07
+2009,United States of America,Raw milk of cattle,85820608.0
+2009,United States of America,Wheat,60365728.0
+2010,Argentina,Barley,2964075.0
+2010,Argentina,"Cereals, primary",39769212.0
+2010,Argentina,"Hen eggs in shell, fresh",10813000.0
+2010,Argentina,"Meat, Total",4721922.27
+2010,Argentina,"Milk, Total",10616743.54
+2010,Argentina,Raw milk of cattle,10616743.54
+2010,Argentina,Wheat,9016373.0
+2010,Australia,Barley,7864551.0
+2010,Australia,"Cereals, primary",33464873.64
+2010,Australia,"Hen eggs in shell, fresh",3225353.0
+2010,Australia,"Meat, Total",4047952.0
+2010,Australia,"Milk, Total",9023000.0
+2010,Australia,Raw milk of cattle,9023000.0
+2010,Australia,Wheat,21834010.0
+2010,Austria,Barley,777961.0
+2010,Austria,"Cereals, primary",4866648.45
+2010,Austria,"Hen eggs in shell, fresh",1645964.0
+2010,Austria,"Meat, Total",920059.0
+2010,Austria,"Milk, Total",3285914.0
+2010,Austria,Raw milk of cattle,3257738.0
+2010,Austria,Wheat,1517805.0
+2010,Belgium,Barley,373400.0
+2010,Belgium,"Cereals, primary",3041408.0
+2010,Belgium,"Hen eggs in shell, fresh",2850007.0
+2010,Belgium,"Meat, Total",1816000.0
+2010,Belgium,"Milk, Total",3075120.0
+2010,Belgium,Raw milk of cattle,3066630.0
+2010,Belgium,Wheat,1849584.0
+2010,Brazil,Barley,278558.0
+2010,Brazil,"Cereals, primary",75160152.06
+2010,Brazil,"Hen eggs in shell, fresh",40908592.0
+2010,Brazil,"Meat, Total",23482101.0
+2010,Brazil,"Milk, Total",31883539.21
+2010,Brazil,Raw milk of cattle,31636924.0
+2010,Brazil,Wheat,6171250.0
+2010,Canada,Barley,7627200.0
+2010,Canada,"Cereals, primary",46122200.0
+2010,Canada,"Hen eggs in shell, fresh",8059920.0
+2010,Canada,"Meat, Total",4440630.0
+2010,Canada,"Milk, Total",7911069.0
+2010,Canada,Raw milk of cattle,7911069.0
+2010,Canada,Wheat,23299600.0
+2010,China,Barley,1972200.0
+2010,China,"Cereals, primary",499385217.31
+2010,China,"Hen eggs in shell, fresh",500222580.0
+2010,China,"Meat, Total",80898608.98
+2010,China,"Milk, Total",35788086.94
+2010,China,Raw milk of cattle,30725096.0
+2010,China,Wheat,115186178.0
+2010,Denmark,Barley,2981300.0
+2010,Denmark,"Cereals, primary",8863200.0
+2010,Denmark,"Hen eggs in shell, fresh",1355676.0
+2010,Denmark,"Meat, Total",1993436.87
+2010,Denmark,"Milk, Total",4909400.0
+2010,Denmark,Raw milk of cattle,4909400.0
+2010,Denmark,Wheat,5059900.0
+2010,Finland,Barley,1340200.0
+2010,Finland,"Cereals, primary",2991747.97
+2010,Finland,"Hen eggs in shell, fresh",1037700.0
+2010,Finland,"Meat, Total",386526.91
+2010,Finland,"Milk, Total",2336253.0
+2010,Finland,Raw milk of cattle,2336253.0
+2010,Finland,Wheat,724400.0
+2010,France,Barley,10101597.1
+2010,France,"Cereals, primary",65839202.3
+2010,France,"Hen eggs in shell, fresh",16040462.0
+2010,France,"Meat, Total",5810230.7
+2010,France,"Milk, Total",24205636.2
+2010,France,Raw milk of cattle,23301219.4
+2010,France,Wheat,38207431.0
+2010,Germany,Barley,10326918.0
+2010,Germany,"Cereals, primary",44038739.0
+2010,Germany,"Hen eggs in shell, fresh",10853200.0
+2010,Germany,"Meat, Total",8185291.63
+2010,Germany,"Milk, Total",29646031.21
+2010,Germany,Raw milk of cattle,29616284.0
+2010,Germany,Wheat,23782955.0
+2010,Hungary,Barley,943817.0
+2010,Hungary,"Cereals, primary",12269359.0
+2010,Hungary,"Hen eggs in shell, fresh",2881804.0
+2010,Hungary,"Meat, Total",869810.0
+2010,Hungary,"Milk, Total",1690556.0
+2010,Hungary,Raw milk of cattle,1684896.0
+2010,Hungary,Wheat,3745190.0
+2010,India,Barley,1354700.0
+2010,India,"Cereals, primary",267838308.0
+2010,India,"Hen eggs in shell, fresh",64798200.0
+2010,India,"Meat, Total",6670240.94
+2010,India,"Milk, Total",121857321.68
+2010,India,Raw milk of cattle,54903000.0
+2010,India,Wheat,80803600.0
+2010,Ireland,Barley,1223100.0
+2010,Ireland,"Cereals, primary",2043780.93
+2010,Ireland,"Hen eggs in shell, fresh",834500.0
+2010,Ireland,"Meat, Total",933328.51
+2010,Ireland,"Milk, Total",5327000.0
+2010,Ireland,Raw milk of cattle,5327000.0
+2010,Ireland,Wheat,669200.0
+2010,Italy,Barley,990700.0
+2010,Italy,"Cereals, primary",18502904.0
+2010,Italy,"Hen eggs in shell, fresh",13516800.0
+2010,Italy,"Meat, Total",4066401.95
+2010,Italy,"Milk, Total",11134615.0
+2010,Italy,Raw milk of cattle,10500000.0
+2010,Italy,Wheat,6849858.0
+2010,Netherlands (Kingdom of the),Barley,204444.0
+2010,Netherlands (Kingdom of the),"Cereals, primary",1803153.0
+2010,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10847000.0
+2010,Netherlands (Kingdom of the),"Meat, Total",2553316.1
+2010,Netherlands (Kingdom of the),"Milk, Total",11805073.0
+2010,Netherlands (Kingdom of the),Raw milk of cattle,11626123.0
+2010,Netherlands (Kingdom of the),Wheat,1369553.0
+2010,New Zealand,Barley,308298.0
+2010,New Zealand,"Cereals, primary",1001296.0
+2010,New Zealand,"Hen eggs in shell, fresh",987082.05
+2010,New Zealand,"Meat, Total",1331925.35
+2010,New Zealand,"Milk, Total",17010456.0
+2010,New Zealand,Raw milk of cattle,17010456.0
+2010,New Zealand,Wheat,444890.0
+2010,Poland,Barley,3397171.0
+2010,Poland,"Cereals, primary",27228098.0
+2010,Poland,"Hen eggs in shell, fresh",11742527.0
+2010,Poland,"Meat, Total",3583600.0
+2010,Poland,"Milk, Total",12297835.0
+2010,Poland,Raw milk of cattle,12278718.0
+2010,Poland,Wheat,9408110.0
+2010,Romania,Barley,1311035.0
+2010,Romania,"Cereals, primary",16712883.0
+2010,Romania,"Hen eggs in shell, fresh",6248235.0
+2010,Romania,"Meat, Total",1006687.0
+2010,Romania,"Milk, Total",4616199.0
+2010,Romania,Raw milk of cattle,3964882.0
+2010,Romania,Wheat,5811810.0
+2010,Spain,Barley,8154392.0
+2010,Spain,"Cereals, primary",19880012.93
+2010,Spain,"Hen eggs in shell, fresh",13708870.0
+2010,Spain,"Meat, Total",5447134.24
+2010,Spain,"Milk, Total",7464726.32
+2010,Spain,Raw milk of cattle,6357140.0
+2010,Spain,Wheat,5941197.0
+2010,Sweden,Barley,1232300.0
+2010,Sweden,"Cereals, primary",4279500.0
+2010,Sweden,"Hen eggs in shell, fresh",1873000.0
+2010,Sweden,"Meat, Total",539415.0
+2010,Sweden,"Milk, Total",2902100.0
+2010,Sweden,Raw milk of cattle,2902100.0
+2010,Sweden,Wheat,2143000.0
+2010,United States of America,Barley,3924280.0
+2010,United States of America,"Cereals, primary",401126329.74
+2010,United States of America,"Hen eggs in shell, fresh",97248000.0
+2010,United States of America,"Meat, Total",41952751.58
+2010,United States of America,"Milk, Total",87521069.51
+2010,United States of America,Raw milk of cattle,87487560.0
+2010,United States of America,Wheat,60062408.0
+2011,Argentina,Barley,4085770.0
+2011,Argentina,"Cereals, primary",50916576.0
+2011,Argentina,"Hen eggs in shell, fresh",11419900.0
+2011,Argentina,"Meat, Total",4781299.24
+2011,Argentina,"Milk, Total",11542448.83
+2011,Argentina,Raw milk of cattle,11542448.83
+2011,Argentina,Wheat,16067929.0
+2011,Australia,Barley,7994720.0
+2011,Australia,"Cereals, primary",39973081.87
+2011,Australia,"Hen eggs in shell, fresh",3625757.0
+2011,Australia,"Meat, Total",4094575.0
+2011,Australia,"Milk, Total",9101000.0
+2011,Australia,Raw milk of cattle,9101000.0
+2011,Australia,Wheat,27410076.0
+2011,Austria,Barley,859375.0
+2011,Austria,"Cereals, primary",5712206.55
+2011,Austria,"Hen eggs in shell, fresh",1785922.0
+2011,Austria,"Meat, Total",917991.0
+2011,Austria,"Milk, Total",3337018.0
+2011,Austria,Raw milk of cattle,3307130.0
+2011,Austria,Wheat,1781837.0
+2011,Belgium,Barley,339658.0
+2011,Belgium,"Cereals, primary",2939102.0
+2011,Belgium,"Hen eggs in shell, fresh",2863810.0
+2011,Belgium,"Meat, Total",1789081.0
+2011,Belgium,"Milk, Total",3110090.0
+2011,Belgium,Raw milk of cattle,3101050.0
+2011,Belgium,Wheat,1687749.0
+2011,Brazil,Barley,303872.0
+2011,Brazil,"Cereals, primary",77586276.0
+2011,Brazil,"Hen eggs in shell, fresh",42767222.0
+2011,Brazil,"Meat, Total",24128408.0
+2011,Brazil,"Milk, Total",33327586.17
+2011,Brazil,Raw milk of cattle,33059100.0
+2011,Brazil,Wheat,5690043.0
+2011,Canada,Barley,7891500.0
+2011,Canada,"Cereals, primary",48337200.0
+2011,Canada,"Hen eggs in shell, fresh",8194968.0
+2011,Canada,"Meat, Total",4353612.0
+2011,Canada,"Milk, Total",8018190.0
+2011,Canada,Raw milk of cattle,8018190.0
+2011,Canada,Wheat,25288000.0
+2011,China,Barley,1637100.0
+2011,China,"Cereals, primary",523053411.89
+2011,China,"Hen eggs in shell, fresh",508865074.0
+2011,China,"Meat, Total",81157276.33
+2011,China,"Milk, Total",36324494.6
+2011,China,Raw milk of cattle,31449954.0
+2011,China,Wheat,117414034.0
+2011,Denmark,Barley,3249800.0
+2011,Denmark,"Cereals, primary",8809200.0
+2011,Denmark,"Hen eggs in shell, fresh",1387984.0
+2011,Denmark,"Meat, Total",2048917.92
+2011,Denmark,"Milk, Total",4880500.0
+2011,Denmark,Raw milk of cattle,4880500.0
+2011,Denmark,Wheat,4831000.0
+2011,Finland,Barley,1514300.0
+2011,Finland,"Cereals, primary",3671399.37
+2011,Finland,"Hen eggs in shell, fresh",1059600.0
+2011,Finland,"Meat, Total",391100.0
+2011,Finland,"Milk, Total",2300711.0
+2011,Finland,Raw milk of cattle,2300711.0
+2011,Finland,Wheat,974800.0
+2011,France,Barley,8775155.4
+2011,France,"Cereals, primary",63954886.0
+2011,France,"Hen eggs in shell, fresh",14953535.0
+2011,France,"Meat, Total",5832339.6
+2011,France,"Milk, Total",25289434.5
+2011,France,Raw milk of cattle,24361094.0
+2011,France,Wheat,35992794.3
+2011,Germany,Barley,8733800.0
+2011,Germany,"Cereals, primary",41920400.0
+2011,Germany,"Hen eggs in shell, fresh",12817300.0
+2011,Germany,"Meat, Total",8322638.02
+2011,Germany,"Milk, Total",30354800.61
+2011,Germany,Raw milk of cattle,30323464.0
+2011,Germany,Wheat,22782700.0
+2011,Hungary,Barley,988000.0
+2011,Hungary,"Cereals, primary",13678147.0
+2011,Hungary,"Hen eggs in shell, fresh",2596111.0
+2011,Hungary,"Meat, Total",877578.0
+2011,Hungary,"Milk, Total",1717985.0
+2011,Hungary,Raw milk of cattle,1712478.0
+2011,Hungary,Wheat,4107000.0
+2011,India,Barley,1662900.0
+2011,India,"Cereals, primary",287860000.0
+2011,India,"Hen eggs in shell, fresh",66490740.0
+2011,India,"Meat, Total",7130040.02
+2011,India,"Milk, Total",127914070.92
+2011,India,Raw milk of cattle,57770000.0
+2011,India,Wheat,86874000.0
+2011,Ireland,Barley,1412000.0
+2011,Ireland,"Cereals, primary",2512186.79
+2011,Ireland,"Hen eggs in shell, fresh",839000.0
+2011,Ireland,"Meat, Total",938734.47
+2011,Ireland,"Milk, Total",5536680.0
+2011,Ireland,Raw milk of cattle,5536680.0
+2011,Ireland,Wheat,929200.0
+2011,Italy,Barley,949480.0
+2011,Italy,"Cereals, primary",19521138.3
+2011,Italy,"Hen eggs in shell, fresh",13464000.0
+2011,Italy,"Meat, Total",3961130.83
+2011,Italy,"Milk, Total",11113161.0
+2011,Italy,Raw milk of cattle,10479053.0
+2011,Italy,Wheat,6641806.5
+2011,Netherlands (Kingdom of the),Barley,204702.0
+2011,Netherlands (Kingdom of the),"Cereals, primary",1609679.0
+2011,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11177000.0
+2011,Netherlands (Kingdom of the),"Meat, Total",2659756.06
+2011,Netherlands (Kingdom of the),"Milk, Total",11835428.0
+2011,Netherlands (Kingdom of the),Raw milk of cattle,11641718.0
+2011,Netherlands (Kingdom of the),Wheat,1175275.0
+2011,New Zealand,Barley,367958.0
+2011,New Zealand,"Cereals, primary",999389.0
+2011,New Zealand,"Hen eggs in shell, fresh",964800.0
+2011,New Zealand,"Meat, Total",1299984.73
+2011,New Zealand,"Milk, Total",17339000.0
+2011,New Zealand,Raw milk of cattle,17339000.0
+2011,New Zealand,Wheat,383262.0
+2011,Poland,Barley,3325900.0
+2011,Poland,"Cereals, primary",26767403.0
+2011,Poland,"Hen eggs in shell, fresh",10949215.0
+2011,Poland,"Meat, Total",3652570.0
+2011,Poland,"Milk, Total",12434067.0
+2011,Poland,Raw milk of cattle,12413796.0
+2011,Poland,Wheat,9339200.0
+2011,Romania,Barley,1329692.0
+2011,Romania,"Cereals, primary",20842160.0
+2011,Romania,"Hen eggs in shell, fresh",6389775.0
+2011,Romania,"Meat, Total",997693.0
+2011,Romania,"Milk, Total",4726648.0
+2011,Romania,Raw milk of cattle,4093735.0
+2011,Romania,Wheat,7131590.0
+2011,Spain,Barley,8287073.0
+2011,Spain,"Cereals, primary",22097143.0
+2011,Spain,"Hen eggs in shell, fresh",13814063.0
+2011,Spain,"Meat, Total",5659727.08
+2011,Spain,"Milk, Total",7523100.0
+2011,Spain,Raw milk of cattle,6522000.0
+2011,Spain,Wheat,6876657.0
+2011,Sweden,Barley,1409100.0
+2011,Sweden,"Cereals, primary",4656800.0
+2011,Sweden,"Hen eggs in shell, fresh",1956000.0
+2011,Sweden,"Meat, Total",533917.0
+2011,Sweden,"Milk, Total",2890000.0
+2011,Sweden,Raw milk of cattle,2890000.0
+2011,Sweden,Wheat,2253100.0
+2011,United States of America,Barley,3370110.0
+2011,United States of America,"Cereals, primary",385545255.77
+2011,United States of America,"Hen eggs in shell, fresh",97925000.0
+2011,United States of America,"Meat, Total",42450692.59
+2011,United States of America,"Milk, Total",89053608.56
+2011,United States of America,Raw milk of cattle,89019796.0
+2011,United States of America,Wheat,54418808.0
+2012,Argentina,Barley,5158180.0
+2012,Argentina,"Cereals, primary",47372117.0
+2012,Argentina,"Hen eggs in shell, fresh",11520000.0
+2012,Argentina,"Meat, Total",5017725.78
+2012,Argentina,"Milk, Total",11680200.0
+2012,Argentina,Raw milk of cattle,11680200.0
+2012,Argentina,Wheat,14683475.0
+2012,Australia,Barley,8220863.0
+2012,Australia,"Cereals, primary",43362426.46
+2012,Australia,"Hen eggs in shell, fresh",3792794.0
+2012,Australia,"Meat, Total",4199609.0
+2012,Australia,"Milk, Total",9480132.0
+2012,Australia,Raw milk of cattle,9480132.0
+2012,Australia,Wheat,29905009.0
+2012,Austria,Barley,662466.0
+2012,Austria,"Cereals, primary",4883379.22
+2012,Austria,"Hen eggs in shell, fresh",1845127.0
+2012,Austria,"Meat, Total",901451.0
+2012,Austria,"Milk, Total",3413021.0
+2012,Austria,Raw milk of cattle,3382076.0
+2012,Austria,Wheat,1275498.0
+2012,Belgium,Barley,359100.0
+2012,Belgium,"Cereals, primary",2957908.0
+2012,Belgium,"Hen eggs in shell, fresh",2590267.0
+2012,Belgium,"Meat, Total",1788258.81
+2012,Belgium,"Milk, Total",3081213.0
+2012,Belgium,Raw milk of cattle,3071716.0
+2012,Belgium,Wheat,1834624.0
+2012,Brazil,Barley,265025.0
+2012,Brazil,"Cereals, primary",89908244.0
+2012,Brazil,"Hen eggs in shell, fresh",43759800.0
+2012,Brazil,"Meat, Total",24580836.0
+2012,Brazil,"Milk, Total",33543060.42
+2012,Brazil,Raw milk of cattle,33273554.0
+2012,Brazil,Wheat,4418388.0
+2012,Canada,Barley,8012300.0
+2012,Canada,"Cereals, primary",51846500.0
+2012,Canada,"Hen eggs in shell, fresh",8351826.0
+2012,Canada,"Meat, Total",4310854.0
+2012,Canada,"Milk, Total",8227483.0
+2012,Canada,Raw milk of cattle,8227483.0
+2012,Canada,Wheat,27246000.0
+2012,China,Barley,1625800.0
+2012,China,"Cereals, primary",543459968.0
+2012,China,"Hen eggs in shell, fresh",517843088.0
+2012,China,"Meat, Total",85205327.07
+2012,China,"Milk, Total",36690754.99
+2012,China,Raw milk of cattle,32097549.0
+2012,China,Wheat,121030059.0
+2012,Denmark,Barley,4058700.0
+2012,Denmark,"Cereals, primary",9485400.0
+2012,Denmark,"Hen eggs in shell, fresh",1416479.0
+2012,Denmark,"Meat, Total",1989131.12
+2012,Denmark,"Milk, Total",4995020.0
+2012,Denmark,Raw milk of cattle,4995020.0
+2012,Denmark,Wheat,4525100.0
+2012,Finland,Barley,1581000.0
+2012,Finland,"Cereals, primary",3661920.46
+2012,Finland,"Hen eggs in shell, fresh",1049500.0
+2012,Finland,"Meat, Total",385834.74
+2012,Finland,"Milk, Total",2296694.0
+2012,Finland,Raw milk of cattle,2296694.0
+2012,Finland,Wheat,887100.0
+2012,France,Barley,11341188.8
+2012,France,"Cereals, primary",68341730.6
+2012,France,"Hen eggs in shell, fresh",15000432.0
+2012,France,"Meat, Total",5676336.7
+2012,France,"Milk, Total",24882839.2
+2012,France,Raw milk of cattle,23998422.0
+2012,France,Wheat,37885741.8
+2012,Germany,Barley,10391300.0
+2012,Germany,"Cereals, primary",45396500.0
+2012,Germany,"Hen eggs in shell, fresh",13005300.0
+2012,Germany,"Meat, Total",8155482.39
+2012,Germany,"Milk, Total",30703816.16
+2012,Germany,Raw milk of cattle,30672154.37
+2012,Germany,Wheat,22409300.0
+2012,Hungary,Barley,996110.0
+2012,Hungary,"Cereals, primary",10372740.0
+2012,Hungary,"Hen eggs in shell, fresh",2544977.0
+2012,Hungary,"Meat, Total",862890.0
+2012,Hungary,"Milk, Total",1818484.0
+2012,Hungary,Raw milk of cattle,1812849.0
+2012,Hungary,Wheat,4010990.0
+2012,India,Barley,1620000.0
+2012,India,"Cereals, primary",293290000.0
+2012,India,"Hen eggs in shell, fresh",70105000.0
+2012,India,"Meat, Total",7495840.02
+2012,India,"Milk, Total",132440100.77
+2012,India,Raw milk of cattle,59805248.0
+2012,India,Wheat,94880000.0
+2012,Ireland,Barley,1260700.0
+2012,Ireland,"Cereals, primary",2127500.0
+2012,Ireland,"Hen eggs in shell, fresh",847500.0
+2012,Ireland,"Meat, Total",903493.93
+2012,Ireland,"Milk, Total",5387770.0
+2012,Ireland,Raw milk of cattle,5387770.0
+2012,Ireland,Wheat,707900.0
+2012,Italy,Barley,940234.3
+2012,Italy,"Cereals, primary",18594125.5
+2012,Italy,"Hen eggs in shell, fresh",13411200.0
+2012,Italy,"Meat, Total",4024057.66
+2012,Italy,"Milk, Total",11224148.0
+2012,Italy,Raw milk of cattle,10597572.0
+2012,Italy,Wheat,7654248.3
+2012,Netherlands (Kingdom of the),Barley,205912.0
+2012,Netherlands (Kingdom of the),"Cereals, primary",1730981.0
+2012,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",10854000.0
+2012,Netherlands (Kingdom of the),"Meat, Total",2686363.32
+2012,Netherlands (Kingdom of the),"Milk, Total",11892778.0
+2012,Netherlands (Kingdom of the),Raw milk of cattle,11675448.0
+2012,Netherlands (Kingdom of the),Wheat,1302002.0
+2012,New Zealand,Barley,438789.0
+2012,New Zealand,"Cereals, primary",1168496.0
+2012,New Zealand,"Hen eggs in shell, fresh",1006100.0
+2012,New Zealand,"Meat, Total",1312469.84
+2012,New Zealand,"Milk, Total",19129000.0
+2012,New Zealand,Raw milk of cattle,19129000.0
+2012,New Zealand,Wheat,488614.0
+2012,Poland,Barley,4180200.0
+2012,Poland,"Cereals, primary",28543870.0
+2012,Poland,"Hen eggs in shell, fresh",10066708.0
+2012,Poland,"Meat, Total",3845687.27
+2012,Poland,"Milk, Total",12684840.0
+2012,Poland,Raw milk of cattle,12667773.0
+2012,Poland,Wheat,8607600.0
+2012,Romania,Barley,986361.0
+2012,Romania,"Cereals, primary",12824138.0
+2012,Romania,"Hen eggs in shell, fresh",6545941.0
+2012,Romania,"Meat, Total",989921.41
+2012,Romania,"Milk, Total",4551522.0
+2012,Romania,Raw milk of cattle,3900610.0
+2012,Romania,Wheat,5297748.0
+2012,Spain,Barley,5956300.0
+2012,Spain,"Cereals, primary",17547278.0
+2012,Spain,"Hen eggs in shell, fresh",12127890.0
+2012,Spain,"Meat, Total",5651324.84
+2012,Spain,"Milk, Total",7504842.0
+2012,Spain,Raw milk of cattle,6508700.0
+2012,Spain,Wheat,5189828.0
+2012,Sweden,Barley,1701700.0
+2012,Sweden,"Cereals, primary",5055900.0
+2012,Sweden,"Hen eggs in shell, fresh",2058500.0
+2012,Sweden,"Meat, Total",495539.0
+2012,Sweden,"Milk, Total",2901000.0
+2012,Sweden,Raw milk of cattle,2901000.0
+2012,Sweden,Wheat,2289300.0
+2012,United States of America,Barley,4767940.0
+2012,United States of America,"Cereals, primary",356210124.0
+2012,United States of America,"Hen eggs in shell, fresh",99953000.0
+2012,United States of America,"Meat, Total",42622314.49
+2012,United States of America,"Milk, Total",91043523.24
+2012,United States of America,Raw milk of cattle,91009706.0
+2012,United States of America,Wheat,61677384.0
+2013,Argentina,Barley,4705160.0
+2013,Argentina,"Cereals, primary",50742603.0
+2013,Argentina,"Hen eggs in shell, fresh",10933720.0
+2013,Argentina,"Meat, Total",5344253.01
+2013,Argentina,"Milk, Total",11300130.0
+2013,Argentina,Raw milk of cattle,11300130.0
+2013,Argentina,Wheat,8134409.0
+2013,Australia,Barley,7471592.0
+2013,Australia,"Cereals, primary",35589235.54
+2013,Australia,"Hen eggs in shell, fresh",4256347.0
+2013,Australia,"Meat, Total",4541943.57
+2013,Australia,"Milk, Total",9522000.0
+2013,Australia,Raw milk of cattle,9522000.0
+2013,Australia,Wheat,22855576.0
+2013,Austria,Barley,734050.59
+2013,Austria,"Cereals, primary",4599433.26
+2013,Austria,"Hen eggs in shell, fresh",1851875.0
+2013,Austria,"Meat, Total",903523.0
+2013,Austria,"Milk, Total",3424598.0
+2013,Austria,Raw milk of cattle,3393057.0
+2013,Austria,Wheat,1597706.42
+2013,Belgium,Barley,385614.0
+2013,Belgium,"Cereals, primary",3097497.0
+2013,Belgium,"Hen eggs in shell, fresh",2928010.0
+2013,Belgium,"Meat, Total",1774712.36
+2013,Belgium,"Milk, Total",3483230.0
+2013,Belgium,Raw milk of cattle,3474000.0
+2013,Belgium,Wheat,1803550.0
+2013,Brazil,Barley,330682.0
+2013,Brazil,"Cereals, primary",100901726.0
+2013,Brazil,"Hen eggs in shell, fresh",45602500.0
+2013,Brazil,"Meat, Total",25268198.0
+2013,Brazil,"Milk, Total",35556700.74
+2013,Brazil,Raw milk of cattle,35282893.0
+2013,Brazil,Wheat,5738473.0
+2013,Canada,Barley,10281600.0
+2013,Canada,"Cereals, primary",66535401.0
+2013,Canada,"Hen eggs in shell, fresh",8436080.0
+2013,Canada,"Meat, Total",4309031.47
+2013,Canada,"Milk, Total",8062213.0
+2013,Canada,Raw milk of cattle,8062213.0
+2013,Canada,Wheat,37589100.0
+2013,China,Barley,1699000.0
+2013,China,"Cereals, primary",557095954.66
+2013,China,"Hen eggs in shell, fresh",520527734.0
+2013,China,"Meat, Total",86475127.63
+2013,China,"Milk, Total",34938551.09
+2013,China,Raw milk of cattle,30366206.0
+2013,China,Wheat,121930527.0
+2013,Denmark,Barley,3949900.0
+2013,Denmark,"Cereals, primary",9119687.0
+2013,Denmark,"Hen eggs in shell, fresh",1449179.0
+2013,Denmark,"Meat, Total",1891283.2
+2013,Denmark,"Milk, Total",5104720.0
+2013,Denmark,Raw milk of cattle,5104720.0
+2013,Denmark,Wheat,4145200.0
+2013,Finland,Barley,1904200.0
+2013,Finland,"Cereals, primary",4065778.95
+2013,Finland,"Hen eggs in shell, fresh",1128800.0
+2013,Finland,"Meat, Total",391346.5
+2013,Finland,"Milk, Total",2327800.0
+2013,Finland,Raw milk of cattle,2327800.0
+2013,Finland,Wheat,869400.0
+2013,France,Barley,10315284.9
+2013,France,"Cereals, primary",67537680.9
+2013,France,"Hen eggs in shell, fresh",16711834.0
+2013,France,"Meat, Total",5529044.0
+2013,France,"Milk, Total",24591383.0
+2013,France,Raw milk of cattle,23747341.0
+2013,France,Wheat,38651472.0
+2013,Germany,Barley,10343600.0
+2013,Germany,"Cereals, primary",47757100.0
+2013,Germany,"Hen eggs in shell, fresh",13373800.0
+2013,Germany,"Meat, Total",8183412.29
+2013,Germany,"Milk, Total",31350827.49
+2013,Germany,Raw milk of cattle,31324237.93
+2013,Germany,Wheat,25019100.0
+2013,Hungary,Barley,1062000.0
+2013,Hungary,"Cereals, primary",13609910.0
+2013,Hungary,"Hen eggs in shell, fresh",2605761.0
+2013,Hungary,"Meat, Total",811454.0
+2013,Hungary,"Milk, Total",1778137.0
+2013,Hungary,Raw milk of cattle,1772762.0
+2013,Hungary,Wheat,5058300.0
+2013,India,Barley,1750000.0
+2013,India,"Cereals, primary",295669510.0
+2013,India,"Hen eggs in shell, fresh",73566205.0
+2013,India,"Meat, Total",7958921.99
+2013,India,"Milk, Total",137695104.2
+2013,India,Raw milk of cattle,62194871.65
+2013,India,Wheat,93510000.0
+2013,Ireland,Barley,1662800.0
+2013,Ireland,"Cereals, primary",2403000.0
+2013,Ireland,"Hen eggs in shell, fresh",857000.0
+2013,Ireland,"Meat, Total",926835.37
+2013,Ireland,"Milk, Total",5583670.0
+2013,Ireland,Raw milk of cattle,5583670.0
+2013,Ireland,Wheat,545300.0
+2013,Italy,Barley,875552.0
+2013,Italy,"Cereals, primary",18214664.0
+2013,Italy,"Hen eggs in shell, fresh",13388571.0
+2013,Italy,"Meat, Total",3856587.52
+2013,Italy,"Milk, Total",11003685.0
+2013,Italy,Raw milk of cattle,10397465.0
+2013,Italy,Wheat,7312024.7
+2013,Netherlands (Kingdom of the),Barley,208084.0
+2013,Netherlands (Kingdom of the),"Cereals, primary",1755536.0
+2013,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11290000.0
+2013,Netherlands (Kingdom of the),"Meat, Total",2700169.78
+2013,Netherlands (Kingdom of the),"Milk, Total",12409055.61
+2013,Netherlands (Kingdom of the),Raw milk of cattle,12212690.0
+2013,Netherlands (Kingdom of the),Wheat,1335105.0
+2013,New Zealand,Barley,416478.0
+2013,New Zealand,"Cereals, primary",1103220.91
+2013,New Zealand,"Hen eggs in shell, fresh",1008847.0
+2013,New Zealand,"Meat, Total",1354905.44
+2013,New Zealand,"Milk, Total",19469000.0
+2013,New Zealand,Raw milk of cattle,19469000.0
+2013,New Zealand,Wheat,447799.0
+2013,Poland,Barley,2933579.0
+2013,Poland,"Cereals, primary",28455154.0
+2013,Poland,"Hen eggs in shell, fresh",10600243.0
+2013,Poland,"Meat, Total",3879741.95
+2013,Poland,"Milk, Total",12735332.0
+2013,Poland,Raw milk of cattle,12718433.0
+2013,Poland,Wheat,9485183.0
+2013,Romania,Barley,1542247.0
+2013,Romania,"Cereals, primary",20897076.0
+2013,Romania,"Hen eggs in shell, fresh",6466698.0
+2013,Romania,"Meat, Total",896460.04
+2013,Romania,"Milk, Total",4613635.0
+2013,Romania,Raw milk of cattle,3981053.0
+2013,Romania,Wheat,7296373.0
+2013,Spain,Barley,10005000.0
+2013,Spain,"Cereals, primary",25366791.0
+2013,Spain,"Hen eggs in shell, fresh",12530019.0
+2013,Spain,"Meat, Total",5507220.8
+2013,Spain,"Milk, Total",7631742.0
+2013,Spain,Raw milk of cattle,6559175.0
+2013,Spain,Wheat,7744900.0
+2013,Sweden,Barley,1940100.0
+2013,Sweden,"Cereals, primary",4985200.0
+2013,Sweden,"Hen eggs in shell, fresh",2176620.0
+2013,Sweden,"Meat, Total",504820.0
+2013,Sweden,"Milk, Total",2910000.0
+2013,Sweden,Raw milk of cattle,2910000.0
+2013,Sweden,Wheat,1868600.0
+2013,United States of America,Barley,4719070.0
+2013,United States of America,"Cereals, primary",434308450.0
+2013,United States of America,"Hen eggs in shell, fresh",103333000.0
+2013,United States of America,"Meat, Total",42754378.31
+2013,United States of America,"Milk, Total",91310693.92
+2013,United States of America,Raw milk of cattle,91276872.0
+2013,United States of America,Wheat,58104610.0
+2014,Argentina,Barley,2901492.0
+2014,Argentina,"Cereals, primary",50794075.58
+2014,Argentina,"Hen eggs in shell, fresh",11277580.0
+2014,Argentina,"Meat, Total",5237481.56
+2014,Argentina,"Milk, Total",11340197.0
+2014,Argentina,Raw milk of cattle,11340197.0
+2014,Argentina,Wheat,9188339.0
+2014,Australia,Barley,9174417.0
+2014,Australia,"Cereals, primary",38420401.88
+2014,Australia,"Hen eggs in shell, fresh",4093127.0
+2014,Australia,"Meat, Total",4878967.32
+2014,Australia,"Milk, Total",9542000.0
+2014,Australia,Raw milk of cattle,9542000.0
+2014,Australia,Wheat,25303037.0
+2014,Austria,Barley,845704.92
+2014,Austria,"Cereals, primary",5720308.58
+2014,Austria,"Hen eggs in shell, fresh",1893765.0
+2014,Austria,"Meat, Total",899987.0
+2014,Austria,"Milk, Total",3524888.0
+2014,Austria,Raw milk of cattle,3493861.0
+2014,Austria,Wheat,1804018.24
+2014,Belgium,Barley,399970.0
+2014,Belgium,"Cereals, primary",3162852.0
+2014,Belgium,"Hen eggs in shell, fresh",2562458.0
+2014,Belgium,"Meat, Total",1814780.82
+2014,Belgium,"Milk, Total",3701535.0
+2014,Belgium,Raw milk of cattle,3689440.0
+2014,Belgium,Wheat,1994600.0
+2014,Brazil,Barley,251539.0
+2014,Brazil,"Cereals, primary",101402184.0
+2014,Brazil,"Hen eggs in shell, fresh",47051635.0
+2014,Brazil,"Meat, Total",25894671.7
+2014,Brazil,"Milk, Total",36416517.95
+2014,Brazil,Raw milk of cattle,36178091.0
+2014,Brazil,Wheat,6261895.0
+2014,Canada,Barley,7116800.0
+2014,Canada,"Cereals, primary",51683501.0
+2014,Canada,"Hen eggs in shell, fresh",8461086.0
+2014,Canada,"Meat, Total",4350312.4
+2014,Canada,"Milk, Total",8068606.0
+2014,Canada,Raw milk of cattle,8068606.0
+2014,Canada,Wheat,29442100.0
+2014,China,Barley,1812000.0
+2014,China,"Cereals, primary",562426932.56
+2014,China,"Hen eggs in shell, fresh",484036172.2
+2014,China,"Meat, Total",88014393.25
+2014,China,"Milk, Total",36615662.97
+2014,China,Raw milk of cattle,31962205.0
+2014,China,Wheat,126215211.0
+2014,Denmark,Barley,3547600.0
+2014,Denmark,"Cereals, primary",9796378.0
+2014,Denmark,"Hen eggs in shell, fresh",1449656.0
+2014,Denmark,"Meat, Total",1884947.85
+2014,Denmark,"Milk, Total",5191100.0
+2014,Denmark,Raw milk of cattle,5191100.0
+2014,Denmark,Wheat,5153300.0
+2014,Finland,Barley,1854800.0
+2014,Finland,"Cereals, primary",4130625.78
+2014,Finland,"Hen eggs in shell, fresh",1132179.0
+2014,Finland,"Meat, Total",386974.73
+2014,Finland,"Milk, Total",2400003.0
+2014,Finland,Raw milk of cattle,2400003.0
+2014,Finland,Wheat,1088200.0
+2014,France,Barley,11728556.0
+2014,France,"Cereals, primary",72801345.0
+2014,France,"Hen eggs in shell, fresh",16891040.0
+2014,France,"Meat, Total",5598080.12
+2014,France,"Milk, Total",25827665.0
+2014,France,Raw milk of cattle,24978950.0
+2014,France,Wheat,38950202.0
+2014,Germany,Barley,11562800.0
+2014,Germany,"Cereals, primary",52010400.0
+2014,Germany,"Hen eggs in shell, fresh",13471500.0
+2014,Germany,"Meat, Total",8317017.01
+2014,Germany,"Milk, Total",32419494.77
+2014,Germany,Raw milk of cattle,32394968.5
+2014,Germany,Wheat,27784700.0
+2014,Hungary,Barley,1274710.0
+2014,Hungary,"Cereals, primary",16613380.0
+2014,Hungary,"Hen eggs in shell, fresh",2554114.0
+2014,Hungary,"Meat, Total",894504.19
+2014,Hungary,"Milk, Total",1877111.0
+2014,Hungary,Raw milk of cattle,1871885.0
+2014,Hungary,Wheat,5261890.0
+2014,India,Barley,1830000.0
+2014,India,"Cereals, primary",297113510.0
+2014,India,"Hen eggs in shell, fresh",78863360.0
+2014,India,"Meat, Total",8343971.2
+2014,India,"Milk, Total",146322746.49
+2014,India,Raw milk of cattle,66423450.0
+2014,India,Wheat,95850000.0
+2014,Ireland,Barley,1731200.0
+2014,Ireland,"Cereals, primary",2599817.27
+2014,Ireland,"Hen eggs in shell, fresh",875000.0
+2014,Ireland,"Meat, Total",1005668.39
+2014,Ireland,"Milk, Total",5816220.0
+2014,Ireland,Raw milk of cattle,5816220.0
+2014,Ireland,Wheat,717000.0
+2014,Italy,Barley,846141.6
+2014,Italy,"Cereals, primary",19396843.8
+2014,Italy,"Hen eggs in shell, fresh",13462900.0
+2014,Italy,"Meat, Total",3386830.69
+2014,Italy,"Milk, Total",11639611.0
+2014,Italy,Raw milk of cattle,11044109.0
+2014,Italy,Wheat,7141926.4
+2014,Netherlands (Kingdom of the),Barley,196925.0
+2014,Netherlands (Kingdom of the),"Cereals, primary",1700506.0
+2014,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11726000.0
+2014,Netherlands (Kingdom of the),"Meat, Total",2784183.8
+2014,Netherlands (Kingdom of the),"Milk, Total",12682183.39
+2014,Netherlands (Kingdom of the),Raw milk of cattle,12473023.0
+2014,Netherlands (Kingdom of the),Wheat,1304054.0
+2014,New Zealand,Barley,405747.0
+2014,New Zealand,"Cereals, primary",1097943.0
+2014,New Zealand,"Hen eggs in shell, fresh",1064636.0
+2014,New Zealand,"Meat, Total",1381255.31
+2014,New Zealand,"Milk, Total",21319715.0
+2014,New Zealand,Raw milk of cattle,21319715.0
+2014,New Zealand,Wheat,413497.0
+2014,Poland,Barley,3274826.0
+2014,Poland,"Cereals, primary",31945433.0
+2014,Poland,"Hen eggs in shell, fresh",10825492.0
+2014,Poland,"Meat, Total",4000180.7
+2014,Poland,"Milk, Total",13002257.0
+2014,Poland,Raw milk of cattle,12985520.0
+2014,Poland,Wheat,11628670.0
+2014,Romania,Barley,1712509.0
+2014,Romania,"Cereals, primary",22070736.0
+2014,Romania,"Hen eggs in shell, fresh",6770862.0
+2014,Romania,"Meat, Total",1045969.89
+2014,Romania,"Milk, Total",4803315.0
+2014,Romania,Raw milk of cattle,4129838.0
+2014,Romania,Wheat,7584814.0
+2014,Spain,Barley,6983109.0
+2014,Spain,"Cereals, primary",20581146.05
+2014,Spain,"Hen eggs in shell, fresh",13285374.0
+2014,Spain,"Meat, Total",5721705.52
+2014,Spain,"Milk, Total",7856200.0
+2014,Spain,Raw milk of cattle,6786000.0
+2014,Spain,Wheat,6471400.0
+2014,Sweden,Barley,1574200.0
+2014,Sweden,"Cereals, primary",5775400.0
+2014,Sweden,"Hen eggs in shell, fresh",2125000.0
+2014,Sweden,"Meat, Total",529798.0
+2014,Sweden,"Milk, Total",2973000.0
+2014,Sweden,Raw milk of cattle,2973000.0
+2014,Sweden,Wheat,3086400.0
+2014,United States of America,Barley,3952610.0
+2014,United States of America,"Cereals, primary",442849090.0
+2014,United States of America,"Hen eggs in shell, fresh",106853000.0
+2014,United States of America,"Meat, Total",42825418.8
+2014,United States of America,"Milk, Total",93490183.41
+2014,United States of America,Raw milk of cattle,93464549.0
+2014,United States of America,Wheat,55147120.0
+2015,Argentina,Barley,2901495.0
+2015,Argentina,"Cereals, primary",55980088.03
+2015,Argentina,"Hen eggs in shell, fresh",12911300.0
+2015,Argentina,"Meat, Total",5485180.33
+2015,Argentina,"Milk, Total",12422725.0
+2015,Argentina,Raw milk of cattle,12422725.0
+2015,Argentina,Wheat,13930078.0
+2015,Australia,Barley,8646321.0
+2015,Australia,"Cereals, primary",37195914.48
+2015,Australia,"Hen eggs in shell, fresh",4050585.0
+2015,Australia,"Meat, Total",4967487.82
+2015,Australia,"Milk, Total",9489000.0
+2015,Australia,Raw milk of cattle,9489000.0
+2015,Australia,Wheat,23742560.0
+2015,Austria,Barley,840433.0
+2015,Austria,"Cereals, primary",4853895.01
+2015,Austria,"Hen eggs in shell, fresh",1921291.0
+2015,Austria,"Meat, Total",909621.0
+2015,Austria,"Milk, Total",3568901.0
+2015,Austria,Raw milk of cattle,3537757.0
+2015,Austria,Wheat,1725736.81
+2015,Belgium,Barley,434140.0
+2015,Belgium,"Cereals, primary",3163733.0
+2015,Belgium,"Hen eggs in shell, fresh",2497629.0
+2015,Belgium,"Meat, Total",1850880.08
+2015,Belgium,"Milk, Total",4006912.04
+2015,Belgium,Raw milk of cattle,3988147.04
+2015,Belgium,Wheat,2019347.0
+2015,Brazil,Barley,186285.0
+2015,Brazil,"Cereals, primary",106026684.77
+2015,Brazil,"Hen eggs in shell, fresh",47479736.0
+2015,Brazil,"Meat, Total",26484597.19
+2015,Brazil,"Milk, Total",35900904.48
+2015,Brazil,Raw milk of cattle,35647876.0
+2015,Brazil,Wheat,5508451.0
+2015,Canada,Barley,8256600.0
+2015,Canada,"Cereals, primary",53563000.0
+2015,Canada,"Hen eggs in shell, fresh",8877644.0
+2015,Canada,"Meat, Total",4441226.58
+2015,Canada,"Milk, Total",8430178.0
+2015,Canada,Raw milk of cattle,8430178.0
+2015,Canada,Wheat,27647400.0
+2015,China,Barley,1868000.0
+2015,China,"Cereals, primary",619923474.78
+2015,China,"Hen eggs in shell, fresh",491695650.07
+2015,China,"Meat, Total",88623819.99
+2015,China,"Milk, Total",36480419.36
+2015,China,Raw milk of cattle,32173559.0
+2015,China,Wheat,132646335.0
+2015,Denmark,Barley,3856000.0
+2015,Denmark,"Cereals, primary",10047500.0
+2015,Denmark,"Hen eggs in shell, fresh",1485802.0
+2015,Denmark,"Meat, Total",1871928.87
+2015,Denmark,"Milk, Total",5356270.0
+2015,Denmark,Raw milk of cattle,5356270.0
+2015,Denmark,Wheat,5029300.0
+2015,Finland,Barley,1569000.0
+2015,Finland,"Cereals, primary",3685494.18
+2015,Finland,"Hen eggs in shell, fresh",1205576.0
+2015,Finland,"Meat, Total",400205.37
+2015,Finland,"Milk, Total",2435847.0
+2015,Finland,Raw milk of cattle,2435847.0
+2015,Finland,Wheat,992100.0
+2015,France,Barley,13098233.9
+2015,France,"Cereals, primary",73072833.8
+2015,France,"Hen eggs in shell, fresh",17288803.0
+2015,France,"Meat, Total",5654140.11
+2015,France,"Milk, Total",25934792.0
+2015,France,Raw milk of cattle,25068226.0
+2015,France,Wheat,42750027.4
+2015,Germany,Barley,11629900.0
+2015,Germany,"Cereals, primary",48866800.0
+2015,Germany,"Hen eggs in shell, fresh",12607637.0
+2015,Germany,"Meat, Total",8333571.39
+2015,Germany,"Milk, Total",32707947.21
+2015,Germany,Raw milk of cattle,32684572.0
+2015,Germany,Wheat,26549500.0
+2015,Hungary,Barley,1408563.0
+2015,Hungary,"Cereals, primary",14145172.0
+2015,Hungary,"Hen eggs in shell, fresh",2696496.0
+2015,Hungary,"Meat, Total",988669.52
+2015,Hungary,"Milk, Total",1946650.0
+2015,Hungary,Raw milk of cattle,1941326.0
+2015,Hungary,Wheat,5331426.0
+2015,India,Barley,1613000.0
+2015,India,"Cereals, primary",285997000.0
+2015,India,"Hen eggs in shell, fresh",82800620.0
+2015,India,"Meat, Total",8695300.45
+2015,India,"Milk, Total",155490924.37
+2015,India,Raw milk of cattle,73645390.0
+2015,India,Wheat,86530000.0
+2015,Ireland,Barley,1739200.0
+2015,Ireland,"Cereals, primary",2635748.65
+2015,Ireland,"Hen eggs in shell, fresh",902050.0
+2015,Ireland,"Meat, Total",1010721.94
+2015,Ireland,"Milk, Total",6585120.0
+2015,Ireland,Raw milk of cattle,6585120.0
+2015,Ireland,Wheat,696600.0
+2015,Italy,Barley,955130.7
+2015,Italy,"Cereals, primary",17694873.4
+2015,Italy,"Hen eggs in shell, fresh",13799800.0
+2015,Italy,"Meat, Total",3691960.9
+2015,Italy,"Milk, Total",11785180.0
+2015,Italy,Raw milk of cattle,11159203.0
+2015,Italy,Wheat,7394494.7
+2015,Netherlands (Kingdom of the),Barley,229233.0
+2015,Netherlands (Kingdom of the),"Cereals, primary",1671654.0
+2015,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11857600.0
+2015,Netherlands (Kingdom of the),"Meat, Total",2913981.02
+2015,Netherlands (Kingdom of the),"Milk, Total",13551243.05
+2015,Netherlands (Kingdom of the),Raw milk of cattle,13330873.0
+2015,Netherlands (Kingdom of the),Wheat,1300085.0
+2015,New Zealand,Barley,437144.0
+2015,New Zealand,"Cereals, primary",1114618.0
+2015,New Zealand,"Hen eggs in shell, fresh",1083768.58
+2015,New Zealand,"Meat, Total",1430711.83
+2015,New Zealand,"Milk, Total",21938825.0
+2015,New Zealand,Raw milk of cattle,21938825.0
+2015,New Zealand,Wheat,413533.0
+2015,Poland,Barley,2960662.0
+2015,Poland,"Cereals, primary",28002726.0
+2015,Poland,"Hen eggs in shell, fresh",11056260.0
+2015,Poland,"Meat, Total",4167207.89
+2015,Poland,"Milk, Total",13252886.0
+2015,Poland,Raw milk of cattle,13236229.0
+2015,Poland,Wheat,10957787.0
+2015,Romania,Barley,1626330.0
+2015,Romania,"Cereals, primary",19332821.0
+2015,Romania,"Hen eggs in shell, fresh",6702308.0
+2015,Romania,"Meat, Total",1084139.34
+2015,Romania,"Milk, Total",4676627.0
+2015,Romania,Raw milk of cattle,4005994.0
+2015,Romania,Wheat,7962421.0
+2015,Spain,Barley,6705106.0
+2015,Spain,"Cereals, primary",20149310.35
+2015,Spain,"Hen eggs in shell, fresh",13585140.0
+2015,Spain,"Meat, Total",6061642.22
+2015,Spain,"Milk, Total",7865000.0
+2015,Spain,Raw milk of cattle,6825000.0
+2015,Spain,Wheat,6362694.0
+2015,Sweden,Barley,1672300.0
+2015,Sweden,"Cereals, primary",6162400.0
+2015,Sweden,"Hen eggs in shell, fresh",2130000.0
+2015,Sweden,"Meat, Total",549520.71
+2015,Sweden,"Milk, Total",2933000.0
+2015,Sweden,Raw milk of cattle,2933000.0
+2015,Sweden,Wheat,3300400.0
+2015,United States of America,Barley,4665770.0
+2015,United States of America,"Cereals, primary",431870370.62
+2015,United States of America,"Hen eggs in shell, fresh",102964787.0
+2015,United States of America,"Meat, Total",43312999.52
+2015,United States of America,"Milk, Total",94644861.32
+2015,United States of America,Raw milk of cattle,94618978.5
+2015,United States of America,Wheat,55839540.0
+2016,Argentina,Barley,4938723.0
+2016,Argentina,"Cereals, primary",61148032.97
+2016,Argentina,"Hen eggs in shell, fresh",13532400.0
+2016,Argentina,"Meat, Total",5396171.7
+2016,Argentina,"Milk, Total",10600967.49
+2016,Argentina,Raw milk of cattle,10600967.49
+2016,Argentina,Wheat,11314952.0
+2016,Australia,Barley,8992274.0
+2016,Australia,"Cereals, primary",35229824.87
+2016,Australia,"Hen eggs in shell, fresh",4181024.0
+2016,Australia,"Meat, Total",4697339.82
+2016,Australia,"Milk, Total",9680907.0
+2016,Australia,Raw milk of cattle,9680907.0
+2016,Australia,Wheat,22274514.0
+2016,Austria,Barley,859701.77
+2016,Austria,"Cereals, primary",5701697.09
+2016,Austria,"Hen eggs in shell, fresh",2096539.0
+2016,Austria,"Meat, Total",904770.0
+2016,Austria,"Milk, Total",3659959.0
+2016,Austria,Raw milk of cattle,3627606.0
+2016,Austria,Wheat,1970363.6
+2016,Belgium,Barley,345559.0
+2016,Belgium,"Cereals, primary",2287774.0
+2016,Belgium,"Hen eggs in shell, fresh",2608539.0
+2016,Belgium,"Meat, Total",1805539.33
+2016,Belgium,"Milk, Total",3906695.0
+2016,Belgium,Raw milk of cattle,3881626.0
+2016,Belgium,Wheat,1400074.0
+2016,Brazil,Barley,379687.0
+2016,Brazil,"Cereals, primary",84166681.6
+2016,Brazil,"Hen eggs in shell, fresh",48374374.85
+2016,Brazil,"Meat, Total",26749885.42
+2016,Brazil,"Milk, Total",34947614.65
+2016,Brazil,Raw milk of cattle,34690813.0
+2016,Brazil,Wheat,6834421.0
+2016,Canada,Barley,8839400.0
+2016,Canada,"Cereals, primary",58905767.63
+2016,Canada,"Hen eggs in shell, fresh",9488144.0
+2016,Canada,"Meat, Total",4605732.72
+2016,Canada,"Milk, Total",8733086.0
+2016,Canada,Raw milk of cattle,8733086.0
+2016,Canada,Wheat,32139900.0
+2016,China,Barley,1324598.0
+2016,China,"Cereals, primary",616456117.48
+2016,China,"Hen eggs in shell, fresh",493045909.18
+2016,China,"Meat, Total",87041307.31
+2016,China,"Milk, Total",35364890.42
+2016,China,Raw milk of cattle,31018548.0
+2016,China,Wheat,133274638.0
+2016,Denmark,Barley,3949600.0
+2016,Denmark,"Cereals, primary",9154326.0
+2016,Denmark,"Hen eggs in shell, fresh",1476716.0
+2016,Denmark,"Meat, Total",1868369.54
+2016,Denmark,"Milk, Total",5454960.0
+2016,Denmark,Raw milk of cattle,5454960.0
+2016,Denmark,Wheat,4201500.0
+2016,Finland,Barley,1580700.0
+2016,Finland,"Cereals, primary",3566470.36
+2016,Finland,"Hen eggs in shell, fresh",1224475.0
+2016,Finland,"Meat, Total",406546.28
+2016,Finland,"Milk, Total",2429595.0
+2016,Finland,Raw milk of cattle,2429595.0
+2016,Finland,Wheat,823900.0
+2016,France,Barley,10439229.0
+2016,France,"Cereals, primary",54616263.89
+2016,France,"Hen eggs in shell, fresh",14421247.0
+2016,France,"Meat, Total",5664372.68
+2016,France,"Milk, Total",26572025.0
+2016,France,Raw milk of cattle,25627060.0
+2016,France,Wheat,29316331.0
+2016,Germany,Barley,10730500.0
+2016,Germany,"Cereals, primary",45364400.0
+2016,Germany,"Hen eggs in shell, fresh",12796985.0
+2016,Germany,"Meat, Total",8366515.9
+2016,Germany,"Milk, Total",32692340.0
+2016,Germany,Raw milk of cattle,32672340.0
+2016,Germany,Wheat,24463800.0
+2016,Hungary,Barley,1594233.0
+2016,Hungary,"Cereals, primary",16643885.0
+2016,Hungary,"Hen eggs in shell, fresh",2667593.0
+2016,Hungary,"Meat, Total",1016028.94
+2016,Hungary,"Milk, Total",1923796.0
+2016,Hungary,Raw milk of cattle,1918232.0
+2016,Hungary,Wheat,5603184.0
+2016,India,Barley,1440000.0
+2016,India,"Cereals, primary",295359000.0
+2016,India,"Hen eggs in shell, fresh",87490400.0
+2016,India,"Meat, Total",8999016.13
+2016,India,"Milk, Total",165126132.66
+2016,India,Raw milk of cattle,78098880.0
+2016,India,Wheat,92290000.0
+2016,Ireland,Barley,1479900.0
+2016,Ireland,"Cereals, primary",2312985.31
+2016,Ireland,"Hen eggs in shell, fresh",944000.0
+2016,Ireland,"Meat, Total",1044896.18
+2016,Ireland,"Milk, Total",6851430.0
+2016,Ireland,Raw milk of cattle,6851430.0
+2016,Ireland,Wheat,647700.0
+2016,Italy,Barley,988284.9
+2016,Italy,"Cereals, primary",18219221.0
+2016,Italy,"Hen eggs in shell, fresh",14044800.0
+2016,Italy,"Meat, Total",3838804.52
+2016,Italy,"Milk, Total",11428884.0
+2016,Italy,Raw milk of cattle,10773150.0
+2016,Italy,Wheat,8037872.1
+2016,Netherlands (Kingdom of the),Barley,236231.0
+2016,Netherlands (Kingdom of the),"Cereals, primary",1355219.0
+2016,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11488000.0
+2016,Netherlands (Kingdom of the),"Meat, Total",2985882.05
+2016,Netherlands (Kingdom of the),"Milk, Total",14559462.33
+2016,Netherlands (Kingdom of the),Raw milk of cattle,14324294.0
+2016,Netherlands (Kingdom of the),Wheat,1016479.0
+2016,New Zealand,Barley,364186.0
+2016,New Zealand,"Cereals, primary",1096490.0
+2016,New Zealand,"Hen eggs in shell, fresh",1135291.87
+2016,New Zealand,"Meat, Total",1440570.68
+2016,New Zealand,"Milk, Total",21175530.0
+2016,New Zealand,Raw milk of cattle,21175530.0
+2016,New Zealand,Wheat,459349.0
+2016,Poland,Barley,3441090.0
+2016,Poland,"Cereals, primary",29849223.0
+2016,Poland,"Hen eggs in shell, fresh",11188936.0
+2016,Poland,"Meat, Total",4261392.66
+2016,Poland,"Milk, Total",13251555.0
+2016,Poland,Raw milk of cattle,13244169.0
+2016,Poland,Wheat,10827902.0
+2016,Romania,Barley,1817269.0
+2016,Romania,"Cereals, primary",21764816.0
+2016,Romania,"Hen eggs in shell, fresh",6365069.0
+2016,Romania,"Meat, Total",1127512.71
+2016,Romania,"Milk, Total",4585750.0
+2016,Romania,Raw milk of cattle,3954331.0
+2016,Romania,Wheat,8431131.0
+2016,Spain,Barley,9176159.0
+2016,Spain,"Cereals, primary",24056790.0
+2016,Spain,"Hen eggs in shell, fresh",14014003.08
+2016,Spain,"Meat, Total",6550746.95
+2016,Spain,"Milk, Total",8152750.0
+2016,Spain,Raw milk of cattle,7097328.0
+2016,Spain,Wheat,7873135.0
+2016,Sweden,Barley,1530400.0
+2016,Sweden,"Cereals, primary",5447300.0
+2016,Sweden,"Hen eggs in shell, fresh",2354217.0
+2016,Sweden,"Meat, Total",545921.03
+2016,Sweden,"Milk, Total",2862000.0
+2016,Sweden,Raw milk of cattle,2862000.0
+2016,Sweden,Wheat,2834500.0
+2016,United States of America,Barley,4352610.0
+2016,United States of America,"Cereals, primary",503466147.24
+2016,United States of America,"Hen eggs in shell, fresh",108158456.0
+2016,United States of America,"Meat, Total",44668813.66
+2016,United States of America,"Milk, Total",96391952.85
+2016,United States of America,Raw milk of cattle,96366267.0
+2016,United States of America,Wheat,62831507.0
+2017,Argentina,Barley,3741158.0
+2017,Argentina,"Cereals, primary",76397452.56
+2017,Argentina,"Hen eggs in shell, fresh",13800100.0
+2017,Argentina,"Meat, Total",5696939.88
+2017,Argentina,"Milk, Total",10400401.93
+2017,Argentina,Raw milk of cattle,10400401.93
+2017,Argentina,Wheat,18395106.0
+2017,Australia,Barley,13505990.0
+2017,Australia,"Cereals, primary",50049458.35
+2017,Australia,"Hen eggs in shell, fresh",4373896.0
+2017,Australia,"Meat, Total",4463378.69
+2017,Australia,"Milk, Total",9015779.0
+2017,Australia,Raw milk of cattle,9015779.0
+2017,Australia,Wheat,31818743.54
+2017,Austria,Barley,782029.0
+2017,Austria,"Cereals, primary",4874849.22
+2017,Austria,"Hen eggs in shell, fresh",2152818.0
+2017,Austria,"Meat, Total",892822.0
+2017,Austria,"Milk, Total",3747784.0
+2017,Austria,Raw milk of cattle,3712727.0
+2017,Austria,Wheat,1437143.0
+2017,Belgium,Barley,381128.0
+2017,Belgium,"Cereals, primary",2764392.0
+2017,Belgium,"Hen eggs in shell, fresh",2333791.0
+2017,Belgium,"Meat, Total",1794958.0
+2017,Belgium,"Milk, Total",4058282.0
+2017,Belgium,Raw milk of cattle,4025417.0
+2017,Belgium,Wheat,1702721.0
+2017,Brazil,Barley,302731.0
+2017,Brazil,"Cereals, primary",117977043.93
+2017,Brazil,"Hen eggs in shell, fresh",53456565.79
+2017,Brazil,"Meat, Total",27526518.78
+2017,Brazil,"Milk, Total",34576745.08
+2017,Brazil,Raw milk of cattle,34311513.47
+2017,Brazil,Wheat,4342812.0
+2017,Canada,Barley,7891300.0
+2017,Canada,"Cereals, primary",56770935.0
+2017,Canada,"Hen eggs in shell, fresh",9847810.0
+2017,Canada,"Meat, Total",4789236.88
+2017,Canada,"Milk, Total",9262710.0
+2017,Canada,Raw milk of cattle,9262710.0
+2017,Canada,Wheat,30377235.0
+2017,China,Barley,1085200.0
+2017,China,"Cereals, primary",616017835.47
+2017,China,"Hen eggs in shell, fresh",565776546.46
+2017,China,"Meat, Total",87421013.75
+2017,China,"Milk, Total",35046187.6
+2017,China,Raw milk of cattle,30772631.48
+2017,China,Wheat,134246679.0
+2017,Denmark,Barley,3992300.0
+2017,Denmark,"Cereals, primary",10027261.0
+2017,Denmark,"Hen eggs in shell, fresh",1505630.0
+2017,Denmark,"Meat, Total",1813655.76
+2017,Denmark,"Milk, Total",5557160.0
+2017,Denmark,Raw milk of cattle,5557160.0
+2017,Denmark,Wheat,4834100.0
+2017,Finland,Barley,1460100.0
+2017,Finland,"Cereals, primary",3421642.54
+2017,Finland,"Hen eggs in shell, fresh",1241010.0
+2017,Finland,"Meat, Total",400807.59
+2017,Finland,"Milk, Total",2405761.0
+2017,Finland,Raw milk of cattle,2405761.0
+2017,Finland,Wheat,802000.0
+2017,France,Barley,12086796.0
+2017,France,"Cereals, primary",68730244.14
+2017,France,"Hen eggs in shell, fresh",15508805.0
+2017,France,"Meat, Total",5563378.46
+2017,France,"Milk, Total",26509065.0
+2017,France,Raw milk of cattle,25539489.0
+2017,France,Wheat,38677896.0
+2017,Germany,Barley,10853400.0
+2017,Germany,"Cereals, primary",45556800.0
+2017,Germany,"Hen eggs in shell, fresh",12913093.0
+2017,Germany,"Meat, Total",8248595.1
+2017,Germany,"Milk, Total",32616198.0
+2017,Germany,Raw milk of cattle,32598198.0
+2017,Germany,Wheat,24481600.0
+2017,Hungary,Barley,1416376.0
+2017,Hungary,"Cereals, primary",14017280.0
+2017,Hungary,"Hen eggs in shell, fresh",2576355.0
+2017,Hungary,"Meat, Total",1005761.97
+2017,Hungary,"Milk, Total",1972989.0
+2017,Hungary,Raw milk of cattle,1967496.0
+2017,Hungary,Wheat,5246258.0
+2017,India,Barley,1747450.0
+2017,India,"Cereals, primary",311418745.0
+2017,India,"Hen eggs in shell, fresh",100064498.0
+2017,India,"Meat, Total",9405078.78
+2017,India,"Milk, Total",176068938.17
+2017,India,Raw milk of cattle,83633570.0
+2017,India,Wheat,98510220.0
+2017,Ireland,Barley,1505811.0
+2017,Ireland,"Cereals, primary",2394645.57
+2017,Ireland,"Hen eggs in shell, fresh",986050.0
+2017,Ireland,"Meat, Total",1126747.89
+2017,Ireland,"Milk, Total",7478160.0
+2017,Ireland,Raw milk of cattle,7478160.0
+2017,Ireland,Wheat,681679.0
+2017,Italy,Barley,984281.0
+2017,Italy,"Cereals, primary",16251718.0
+2017,Italy,"Hen eggs in shell, fresh",13721700.0
+2017,Italy,"Meat, Total",3643617.65
+2017,Italy,"Milk, Total",12028628.0
+2017,Italy,Raw milk of cattle,11380094.0
+2017,Italy,Wheat,6966465.0
+2017,Netherlands (Kingdom of the),Barley,204316.0
+2017,Netherlands (Kingdom of the),"Cereals, primary",1392686.0
+2017,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",11545000.0
+2017,Netherlands (Kingdom of the),"Meat, Total",3007300.28
+2017,Netherlands (Kingdom of the),"Milk, Total",14544331.09
+2017,Netherlands (Kingdom of the),Raw milk of cattle,14297361.0
+2017,Netherlands (Kingdom of the),Wheat,1054151.0
+2017,New Zealand,Barley,297598.9
+2017,New Zealand,"Cereals, primary",936995.3
+2017,New Zealand,"Hen eggs in shell, fresh",1178763.17
+2017,New Zealand,"Meat, Total",1391561.82
+2017,New Zealand,"Milk, Total",21461603.0
+2017,New Zealand,Raw milk of cattle,21461603.0
+2017,New Zealand,Wheat,405182.3
+2017,Poland,Barley,3793032.0
+2017,Poland,"Cereals, primary",31924964.0
+2017,Poland,"Hen eggs in shell, fresh",11592721.0
+2017,Poland,"Meat, Total",4318920.81
+2017,Poland,"Milk, Total",13312335.0
+2017,Poland,Raw milk of cattle,13304646.0
+2017,Poland,Wheat,11665702.0
+2017,Romania,Barley,1906703.0
+2017,Romania,"Cereals, primary",27138884.0
+2017,Romania,"Hen eggs in shell, fresh",6174963.0
+2017,Romania,"Meat, Total",1126915.03
+2017,Romania,"Milk, Total",4439226.0
+2017,Romania,Raw milk of cattle,3814132.0
+2017,Romania,Wheat,10034955.0
+2017,Spain,Barley,5785944.0
+2017,Spain,"Cereals, primary",16653669.0
+2017,Spain,"Hen eggs in shell, fresh",14354140.76
+2017,Spain,"Meat, Total",6666927.7
+2017,Spain,"Milk, Total",8086554.0
+2017,Spain,Raw milk of cattle,7018786.0
+2017,Spain,Wheat,4875957.0
+2017,Sweden,Barley,1635200.0
+2017,Sweden,"Cereals, primary",5949600.0
+2017,Sweden,"Hen eggs in shell, fresh",2324762.0
+2017,Sweden,"Meat, Total",552297.49
+2017,Sweden,"Milk, Total",2816660.0
+2017,Sweden,Raw milk of cattle,2816660.0
+2017,Sweden,Wheat,3298600.0
+2017,United States of America,Barley,3119070.0
+2017,United States of America,"Cereals, primary",440271775.02
+2017,United States of America,"Hen eggs in shell, fresh",113592356.0
+2017,United States of America,"Meat, Total",45825731.56
+2017,United States of America,"Milk, Total",97787289.27
+2017,United States of America,Raw milk of cattle,97761519.0
+2017,United States of America,Wheat,47379810.0
+2018,Argentina,Barley,5061069.0
+2018,Argentina,"Cereals, primary",70592010.0
+2018,Argentina,"Hen eggs in shell, fresh",13987150.0
+2018,Argentina,"Meat, Total",5931324.42
+2018,Argentina,"Milk, Total",10842363.56
+2018,Argentina,Raw milk of cattle,10842363.56
+2018,Argentina,Wheat,18518045.0
+2018,Australia,Barley,9253852.0
+2018,Australia,"Cereals, primary",33860810.45
+2018,Australia,"Hen eggs in shell, fresh",4574399.0
+2018,Australia,"Meat, Total",4750857.11
+2018,Australia,"Milk, Total",9289000.0
+2018,Australia,Raw milk of cattle,9289000.0
+2018,Australia,Wheat,20941134.0
+2018,Austria,Barley,691030.0
+2018,Austria,"Cereals, primary",4787200.0
+2018,Austria,"Hen eggs in shell, fresh",2185407.0
+2018,Austria,"Meat, Total",875061.0
+2018,Austria,"Milk, Total",3859990.0
+2018,Austria,Raw milk of cattle,3821190.0
+2018,Austria,Wheat,1367060.0
+2018,Belgium,Barley,324120.0
+2018,Belgium,"Cereals, primary",2431020.0
+2018,Belgium,"Hen eggs in shell, fresh",0.0
+2018,Belgium,"Meat, Total",1825048.0
+2018,Belgium,"Milk, Total",4236000.0
+2018,Belgium,Raw milk of cattle,4195000.0
+2018,Belgium,Wheat,1661860.0
+2018,Brazil,Barley,330374.0
+2018,Brazil,"Cereals, primary",103259697.62
+2018,Brazil,"Hen eggs in shell, fresh",56193113.42
+2018,Brazil,"Meat, Total",27701328.37
+2018,Brazil,"Milk, Total",35197169.72
+2018,Brazil,Raw milk of cattle,34925135.97
+2018,Brazil,Wheat,5469236.0
+2018,Canada,Barley,8379700.0
+2018,Canada,"Cereals, primary",58726900.0
+2018,Canada,"Hen eggs in shell, fresh",10180732.0
+2018,Canada,"Meat, Total",4909555.23
+2018,Canada,"Milk, Total",9524584.0
+2018,Canada,Raw milk of cattle,9524584.0
+2018,Canada,Wheat,32351900.0
+2018,China,Barley,2021000.0
+2018,China,"Cereals, primary",612080566.61
+2018,China,"Hen eggs in shell, fresh",571534557.66
+2018,China,"Meat, Total",88127122.07
+2018,China,"Milk, Total",35477437.05
+2018,China,Raw milk of cattle,31165043.1
+2018,China,Wheat,131446596.0
+2018,Denmark,Barley,3445170.0
+2018,Denmark,"Cereals, primary",6923900.0
+2018,Denmark,"Hen eggs in shell, fresh",1310800.0
+2018,Denmark,"Meat, Total",1862831.0
+2018,Denmark,"Milk, Total",5615200.0
+2018,Denmark,Raw milk of cattle,5615200.0
+2018,Denmark,Wheat,2623930.0
+2018,Finland,Barley,1353190.0
+2018,Finland,"Cereals, primary",2768190.0
+2018,Finland,"Hen eggs in shell, fresh",1322998.0
+2018,Finland,"Meat, Total",391590.0
+2018,Finland,"Milk, Total",2397880.0
+2018,Finland,Raw milk of cattle,2397880.0
+2018,Finland,Wheat,501600.0
+2018,France,Barley,11042820.0
+2018,France,"Cereals, primary",61839480.0
+2018,France,"Hen eggs in shell, fresh",15351217.0
+2018,France,"Meat, Total",5468071.08
+2018,France,"Milk, Total",26022500.0
+2018,France,Raw milk of cattle,25055100.0
+2018,France,Wheat,35424140.0
+2018,Germany,Barley,9583600.0
+2018,Germany,"Cereals, primary",37948100.0
+2018,Germany,"Hen eggs in shell, fresh",13171862.0
+2018,Germany,"Meat, Total",8024938.0
+2018,Germany,"Milk, Total",33109650.0
+2018,Germany,Raw milk of cattle,33086810.0
+2018,Germany,Wheat,20263500.0
+2018,Hungary,Barley,1145540.0
+2018,Hungary,"Cereals, primary",14885530.0
+2018,Hungary,"Hen eggs in shell, fresh",2539100.0
+2018,Hungary,"Meat, Total",1030277.0
+2018,Hungary,"Milk, Total",1953760.0
+2018,Hungary,Raw milk of cattle,1948830.0
+2018,Hungary,Wheat,5258430.0
+2018,India,Barley,1780810.0
+2018,India,"Cereals, primary",321556400.0
+2018,India,"Hen eggs in shell, fresh",108554566.0
+2018,India,"Meat, Total",9718020.55
+2018,India,"Milk, Total",187757240.45
+2018,India,Raw milk of cattle,89833590.0
+2018,India,Wheat,99869520.0
+2018,Ireland,Barley,1181560.0
+2018,Ireland,"Cereals, primary",1784900.0
+2018,Ireland,"Hen eggs in shell, fresh",0.0
+2018,Ireland,"Meat, Total",1142851.79
+2018,Ireland,"Milk, Total",7831250.0
+2018,Ireland,Raw milk of cattle,7831250.0
+2018,Ireland,Wheat,485480.0
+2018,Italy,Barley,1040990.0
+2018,Italy,"Cereals, primary",16548350.0
+2018,Italy,"Hen eggs in shell, fresh",13886400.0
+2018,Italy,"Meat, Total",3661613.04
+2018,Italy,"Milk, Total",13131640.0
+2018,Italy,Raw milk of cattle,12339750.0
+2018,Italy,Wheat,7104650.0
+2018,Netherlands (Kingdom of the),Barley,247500.0
+2018,Netherlands (Kingdom of the),"Cereals, primary",1315250.0
+2018,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",0.0
+2018,Netherlands (Kingdom of the),"Meat, Total",3063301.44
+2018,Netherlands (Kingdom of the),"Milk, Total",14426200.0
+2018,Netherlands (Kingdom of the),Raw milk of cattle,14090000.0
+2018,Netherlands (Kingdom of the),Wheat,961920.0
+2018,New Zealand,Barley,379704.28
+2018,New Zealand,"Cereals, primary",977780.71
+2018,New Zealand,"Hen eggs in shell, fresh",1167717.41
+2018,New Zealand,"Meat, Total",1459611.13
+2018,New Zealand,"Milk, Total",21947466.0
+2018,New Zealand,Raw milk of cattle,21947466.0
+2018,New Zealand,Wheat,371026.79
+2018,Poland,Barley,2991560.0
+2018,Poland,"Cereals, primary",26281580.0
+2018,Poland,"Hen eggs in shell, fresh",10139592.0
+2018,Poland,"Meat, Total",5222629.41
+2018,Poland,"Milk, Total",14179210.0
+2018,Poland,Raw milk of cattle,14171150.0
+2018,Poland,Wheat,9637620.0
+2018,Romania,Barley,1870710.0
+2018,Romania,"Cereals, primary",31552790.0
+2018,Romania,"Hen eggs in shell, fresh",5482137.0
+2018,Romania,"Meat, Total",1037841.0
+2018,Romania,"Milk, Total",4443300.0
+2018,Romania,Raw milk of cattle,3797600.0
+2018,Romania,Wheat,10143670.0
+2018,Spain,Barley,9554160.0
+2018,Spain,"Cereals, primary",25348920.0
+2018,Spain,"Hen eggs in shell, fresh",14025478.86
+2018,Spain,"Meat, Total",6957687.59
+2018,Spain,"Milk, Total",8417530.0
+2018,Spain,Raw milk of cattle,7335620.0
+2018,Spain,Wheat,8322510.0
+2018,Sweden,Barley,1094400.0
+2018,Sweden,"Cereals, primary",3260100.0
+2018,Sweden,"Hen eggs in shell, fresh",2439790.0
+2018,Sweden,"Meat, Total",546158.44
+2018,Sweden,"Milk, Total",2760230.0
+2018,Sweden,Raw milk of cattle,2760230.0
+2018,Sweden,Wheat,1620300.0
+2018,United States of America,Barley,3342660.0
+2018,United States of America,"Cereals, primary",439710828.46
+2018,United States of America,"Hen eggs in shell, fresh",116592171.0
+2018,United States of America,"Meat, Total",46858457.0
+2018,United States of America,"Milk, Total",98713534.8
+2018,United States of America,Raw milk of cattle,98687302.0
+2018,United States of America,Wheat,51305540.0
+2019,Argentina,Barley,3784823.0
+2019,Argentina,"Cereals, primary",83616966.37
+2019,Argentina,"Hen eggs in shell, fresh",14005000.0
+2019,Argentina,"Meat, Total",6149203.26
+2019,Argentina,"Milk, Total",10650132.74
+2019,Argentina,Raw milk of cattle,10650132.74
+2019,Argentina,Wheat,19459727.0
+2019,Australia,Barley,8818946.12
+2019,Australia,"Cereals, primary",29236107.03
+2019,Australia,"Hen eggs in shell, fresh",4514305.0
+2019,Australia,"Meat, Total",4886839.0
+2019,Australia,"Milk, Total",8845000.0
+2019,Australia,Raw milk of cattle,8845000.0
+2019,Australia,Wheat,17597560.79
+2019,Austria,Barley,828130.0
+2019,Austria,"Cereals, primary",5399310.0
+2019,Austria,"Hen eggs in shell, fresh",2215770.0
+2019,Austria,"Meat, Total",871680.0
+2019,Austria,"Milk, Total",3820050.0
+2019,Austria,Raw milk of cattle,3781340.0
+2019,Austria,Wheat,1596880.0
+2019,Belgium,Barley,401060.0
+2019,Belgium,"Cereals, primary",2814390.0
+2019,Belgium,"Hen eggs in shell, fresh",0.0
+2019,Belgium,"Meat, Total",1755393.0
+2019,Belgium,"Milk, Total",4337000.0
+2019,Belgium,Raw milk of cattle,4293000.0
+2019,Belgium,Wheat,1902380.0
+2019,Brazil,Barley,405615.0
+2019,Brazil,"Cereals, primary",121202015.51
+2019,Brazil,"Hen eggs in shell, fresh",58415033.12
+2019,Brazil,"Meat, Total",28178436.27
+2019,Brazil,"Milk, Total",36249992.56
+2019,Brazil,Raw milk of cattle,35966212.59
+2019,Brazil,Wheat,5590815.0
+2019,Canada,Barley,10382600.0
+2019,Canada,"Cereals, primary",61473900.0
+2019,Canada,"Hen eggs in shell, fresh",10456756.0
+2019,Canada,"Meat, Total",5029335.2
+2019,Canada,"Milk, Total",9512006.0
+2019,Canada,Raw milk of cattle,9512006.0
+2019,Canada,Wheat,32669800.0
+2019,China,Barley,2011000.0
+2019,China,"Cereals, primary",615396189.32
+2019,China,"Hen eggs in shell, fresh",605640174.11
+2019,China,"Meat, Total",80130081.5
+2019,China,"Milk, Total",36794950.44
+2019,China,Raw milk of cattle,32444333.11
+2019,China,Wheat,133601131.0
+2019,Denmark,Barley,3624560.0
+2019,Denmark,"Cereals, primary",9517830.0
+2019,Denmark,"Hen eggs in shell, fresh",1404488.0
+2019,Denmark,"Meat, Total",1786224.0
+2019,Denmark,"Milk, Total",5615000.0
+2019,Denmark,Raw milk of cattle,5615000.0
+2019,Denmark,Wheat,4642090.0
+2019,Finland,Barley,1701960.0
+2019,Finland,"Cereals, primary",4036110.0
+2019,Finland,"Hen eggs in shell, fresh",1335716.0
+2019,Finland,"Meat, Total",397560.0
+2019,Finland,"Milk, Total",2374360.0
+2019,Finland,Raw milk of cattle,2374360.0
+2019,Finland,Wheat,914180.0
+2019,France,Barley,13565420.0
+2019,France,"Cereals, primary",70378890.0
+2019,France,"Hen eggs in shell, fresh",14251191.0
+2019,France,"Meat, Total",5422424.5
+2019,France,"Milk, Total",26036290.0
+2019,France,Raw milk of cattle,25062000.0
+2019,France,Wheat,40604960.0
+2019,Germany,Barley,11591500.0
+2019,Germany,"Cereals, primary",44302400.0
+2019,Germany,"Hen eggs in shell, fresh",13449961.0
+2019,Germany,"Meat, Total",7919216.0
+2019,Germany,"Milk, Total",33102570.0
+2019,Germany,Raw milk of cattle,33080180.0
+2019,Germany,Wheat,23062600.0
+2019,Hungary,Barley,1383260.0
+2019,Hungary,"Cereals, primary",15650010.0
+2019,Hungary,"Hen eggs in shell, fresh",2577600.0
+2019,Hungary,"Meat, Total",1032210.0
+2019,Hungary,"Milk, Total",1967370.0
+2019,Hungary,Raw milk of cattle,1962780.0
+2019,Hungary,Wheat,5377710.0
+2019,India,Barley,1633070.0
+2019,India,"Cereals, primary",324960800.0
+2019,India,"Hen eggs in shell, fresh",120674171.55
+2019,India,"Meat, Total",10031428.35
+2019,India,"Milk, Total",198446959.07
+2019,India,Raw milk of cattle,96646932.08
+2019,India,Wheat,103596230.0
+2019,Ireland,Barley,1479600.0
+2019,Ireland,"Cereals, primary",2267990.0
+2019,Ireland,"Hen eggs in shell, fresh",0.0
+2019,Ireland,"Meat, Total",1147379.49
+2019,Ireland,"Milk, Total",8244870.0
+2019,Ireland,Raw milk of cattle,8244870.0
+2019,Ireland,Wheat,595360.0
+2019,Italy,Barley,1104990.0
+2019,Italy,"Cereals, primary",16363450.0
+2019,Italy,"Hen eggs in shell, fresh",13527400.0
+2019,Italy,"Meat, Total",3690036.02
+2019,Italy,"Milk, Total",13300100.0
+2019,Italy,Raw milk of cattle,12494400.0
+2019,Italy,Wheat,6739470.0
+2019,Netherlands (Kingdom of the),Barley,242370.0
+2019,Netherlands (Kingdom of the),"Cereals, primary",1541910.0
+2019,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",0.0
+2019,Netherlands (Kingdom of the),"Meat, Total",3121942.39
+2019,Netherlands (Kingdom of the),"Milk, Total",14943800.0
+2019,Netherlands (Kingdom of the),Raw milk of cattle,14555000.0
+2019,Netherlands (Kingdom of the),Wheat,1130530.0
+2019,New Zealand,Barley,383651.0
+2019,New Zealand,"Cereals, primary",1017127.15
+2019,New Zealand,"Hen eggs in shell, fresh",1183415.9
+2019,New Zealand,"Meat, Total",1464466.12
+2019,New Zealand,"Milk, Total",21786167.0
+2019,New Zealand,Raw milk of cattle,21786167.0
+2019,New Zealand,Wheat,398092.0
+2019,Poland,Barley,3311570.0
+2019,Poland,"Cereals, primary",28450920.0
+2019,Poland,"Hen eggs in shell, fresh",10292659.0
+2019,Poland,"Meat, Total",5130374.25
+2019,Poland,"Milk, Total",14511490.0
+2019,Poland,Raw milk of cattle,14502760.0
+2019,Poland,Wheat,10807490.0
+2019,Romania,Barley,1879950.0
+2019,Romania,"Cereals, primary",30411970.0
+2019,Romania,"Hen eggs in shell, fresh",5165779.0
+2019,Romania,"Meat, Total",1034576.0
+2019,Romania,"Milk, Total",4339600.0
+2019,Romania,Raw milk of cattle,3663200.0
+2019,Romania,Wheat,10297110.0
+2019,Spain,Barley,7744150.0
+2019,Spain,"Cereals, primary",20589030.0
+2019,Spain,"Hen eggs in shell, fresh",12872028.0
+2019,Spain,"Meat, Total",7160475.0
+2019,Spain,"Milk, Total",8559680.0
+2019,Spain,Raw milk of cattle,7460360.0
+2019,Spain,Wheat,6041170.0
+2019,Sweden,Barley,1546500.0
+2019,Sweden,"Cereals, primary",6147700.0
+2019,Sweden,"Hen eggs in shell, fresh",2589059.0
+2019,Sweden,"Meat, Total",546890.0
+2019,Sweden,"Milk, Total",2704390.0
+2019,Sweden,Raw milk of cattle,2704390.0
+2019,Sweden,Wheat,3476800.0
+2019,United States of America,Barley,3755720.0
+2019,United States of America,"Cereals, primary",420874104.16
+2019,United States of America,"Hen eggs in shell, fresh",119912870.0
+2019,United States of America,"Meat, Total",48190808.95
+2019,United States of America,"Milk, Total",99109436.13
+2019,United States of America,Raw milk of cattle,99083289.0
+2019,United States of America,Wheat,52580890.0
+2020,Argentina,Barley,3612804.0
+2020,Argentina,"Cereals, primary",85702826.46
+2020,Argentina,"Hen eggs in shell, fresh",15735000.0
+2020,Argentina,"Meat, Total",6217124.84
+2020,Argentina,"Milk, Total",11446583.21
+2020,Argentina,Raw milk of cattle,11446583.21
+2020,Argentina,Wheat,19776942.0
+2020,Australia,Barley,10127175.29
+2020,Australia,"Cereals, primary",26612704.79
+2020,Australia,"Hen eggs in shell, fresh",4550129.76
+2020,Australia,"Meat, Total",4545021.05
+2020,Australia,"Milk, Total",9099000.0
+2020,Australia,Raw milk of cattle,9099000.0
+2020,Australia,Wheat,14480217.44
+2020,Austria,Barley,864860.0
+2020,Austria,"Cereals, primary",5649770.0
+2020,Austria,"Hen eggs in shell, fresh",134271.0
+2020,Austria,"Meat, Total",871848.17
+2020,Austria,"Milk, Total",3852260.0
+2020,Austria,Raw milk of cattle,3815470.0
+2020,Austria,Wheat,1652740.0
+2020,Belgium,Barley,329470.0
+2020,Belgium,"Cereals, primary",2565850.0
+2020,Belgium,"Hen eggs in shell, fresh",0.0
+2020,Belgium,"Meat, Total",1808772.83
+2020,Belgium,"Milk, Total",4502000.0
+2020,Belgium,Raw milk of cattle,4457000.0
+2020,Belgium,Wheat,1741480.0
+2020,Brazil,Barley,387146.0
+2020,Brazil,"Cereals, primary",125585547.54
+2020,Brazil,"Hen eggs in shell, fresh",60464907.05
+2020,Brazil,"Meat, Total",28573123.16
+2020,Brazil,"Milk, Total",36667942.98
+2020,Brazil,Raw milk of cattle,36376167.01
+2020,Brazil,Wheat,6344079.0
+2020,Canada,Barley,10740600.0
+2020,Canada,"Cereals, primary",65314300.0
+2020,Canada,"Hen eggs in shell, fresh",10675692.0
+2020,Canada,"Meat, Total",5109802.3
+2020,Canada,"Milk, Total",9640572.0
+2020,Canada,Raw milk of cattle,9640572.0
+2020,Canada,Wheat,35437200.0
+2020,China,Barley,2036000.0
+2020,China,"Cereals, primary",618603160.3
+2020,China,"Hen eggs in shell, fresh",634930933.09
+2020,China,"Meat, Total",80124893.94
+2020,China,"Milk, Total",39212387.46
+2020,China,Raw milk of cattle,34837214.58
+2020,China,Wheat,134256000.0
+2020,Denmark,Barley,4156500.0
+2020,Denmark,"Cereals, primary",9467690.0
+2020,Denmark,"Hen eggs in shell, fresh",1525187.0
+2020,Denmark,"Meat, Total",1885654.7
+2020,Denmark,"Milk, Total",5666000.0
+2020,Denmark,Raw milk of cattle,5666000.0
+2020,Denmark,Wheat,4070410.0
+2020,Finland,Barley,1397970.0
+2020,Finland,"Cereals, primary",3415550.0
+2020,Finland,"Hen eggs in shell, fresh",1339965.0
+2020,Finland,"Meat, Total",409152.0
+2020,Finland,"Milk, Total",2406520.0
+2020,Finland,Raw milk of cattle,2406520.0
+2020,Finland,Wheat,686620.0
+2020,France,Barley,10277230.0
+2020,France,"Cereals, primary",57085160.0
+2020,France,"Hen eggs in shell, fresh",15121211.0
+2020,France,"Meat, Total",5398440.36
+2020,France,"Milk, Total",26288520.0
+2020,France,Raw milk of cattle,25234840.0
+2020,France,Wheat,30181140.0
+2020,Germany,Barley,10769200.0
+2020,Germany,"Cereals, primary",43265100.0
+2020,Germany,"Hen eggs in shell, fresh",13903529.0
+2020,Germany,"Meat, Total",7822682.52
+2020,Germany,"Milk, Total",33188890.0
+2020,Germany,Raw milk of cattle,33164910.0
+2020,Germany,Wheat,22172100.0
+2020,Hungary,Barley,1483950.0
+2020,Hungary,"Cereals, primary",15566640.0
+2020,Hungary,"Hen eggs in shell, fresh",2540600.0
+2020,Hungary,"Meat, Total",1013495.3
+2020,Hungary,"Milk, Total",2019000.0
+2020,Hungary,Raw milk of cattle,2014330.0
+2020,Hungary,Wheat,5121480.0
+2020,India,Barley,1721830.0
+2020,India,"Cereals, primary",342108890.0
+2020,India,"Hen eggs in shell, fresh",128761319.41
+2020,India,"Meat, Total",9639302.51
+2020,India,"Milk, Total",209968277.07
+2020,India,Raw milk of cattle,108306663.52
+2020,India,Wheat,107860510.0
+2020,Ireland,Barley,1347460.0
+2020,Ireland,"Cereals, primary",1892640.0
+2020,Ireland,"Hen eggs in shell, fresh",995318.0
+2020,Ireland,"Meat, Total",1188596.27
+2020,Ireland,"Milk, Total",8561470.0
+2020,Ireland,Raw milk of cattle,8561470.0
+2020,Ireland,Wheat,364920.0
+2020,Italy,Barley,1123730.0
+2020,Italy,"Cereals, primary",16945440.0
+2020,Italy,"Hen eggs in shell, fresh",12371629.0
+2020,Italy,"Meat, Total",0.0
+2020,Italy,"Milk, Total",13509520.0
+2020,Italy,Raw milk of cattle,12712480.0
+2020,Italy,Wheat,6716180.0
+2020,Netherlands (Kingdom of the),Barley,246190.0
+2020,Netherlands (Kingdom of the),"Cereals, primary",1364440.0
+2020,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",0.0
+2020,Netherlands (Kingdom of the),"Meat, Total",3123602.05
+2020,Netherlands (Kingdom of the),"Milk, Total",14932000.0
+2020,Netherlands (Kingdom of the),Raw milk of cattle,14522000.0
+2020,Netherlands (Kingdom of the),Wheat,931830.0
+2020,New Zealand,Barley,337666.0
+2020,New Zealand,"Cereals, primary",1018704.8
+2020,New Zealand,"Hen eggs in shell, fresh",1285386.43
+2020,New Zealand,"Meat, Total",1479277.15
+2020,New Zealand,"Milk, Total",21871305.0
+2020,New Zealand,Raw milk of cattle,21871305.0
+2020,New Zealand,Wheat,453749.0
+2020,Poland,Barley,2948350.0
+2020,Poland,"Cereals, primary",35031300.0
+2020,Poland,"Hen eggs in shell, fresh",9969711.0
+2020,Poland,"Meat, Total",5252424.88
+2020,Poland,"Milk, Total",14830870.0
+2020,Poland,Raw milk of cattle,14821820.0
+2020,Poland,Wheat,12515060.0
+2020,Romania,Barley,1141010.0
+2020,Romania,"Cereals, primary",18153430.0
+2020,Romania,"Hen eggs in shell, fresh",4957853.0
+2020,Romania,"Meat, Total",980689.08
+2020,Romania,"Milk, Total",4362500.0
+2020,Romania,Raw milk of cattle,3679600.0
+2020,Romania,Wheat,6392370.0
+2020,Spain,Barley,11465350.0
+2020,Spain,"Cereals, primary",27320900.0
+2020,Spain,"Hen eggs in shell, fresh",13648278.0
+2020,Spain,"Meat, Total",7499232.0
+2020,Spain,"Milk, Total",8686220.0
+2020,Spain,Raw milk of cattle,7606070.0
+2020,Spain,Wheat,8143510.0
+2020,Sweden,Barley,1513500.0
+2020,Sweden,"Cereals, primary",5954500.0
+2020,Sweden,"Hen eggs in shell, fresh",2577947.0
+2020,Sweden,"Meat, Total",567460.0
+2020,Sweden,"Milk, Total",2772740.0
+2020,Sweden,Raw milk of cattle,2772740.0
+2020,Sweden,Wheat,3214300.0
+2020,United States of America,Barley,3719010.0
+2020,United States of America,"Cereals, primary",433259129.21
+2020,United States of America,"Hen eggs in shell, fresh",118393184.0
+2020,United States of America,"Meat, Total",47063682.79
+2020,United States of America,"Milk, Total",101317740.5
+2020,United States of America,Raw milk of cattle,101291379.0
+2020,United States of America,Wheat,49751180.0
+2021,Argentina,Barley,4036130.0
+2021,Argentina,"Cereals, primary",87692513.88
+2021,Argentina,"Hen eggs in shell, fresh",14928375.0
+2021,Argentina,"Meat, Total",6142203.01
+2021,Argentina,"Milk, Total",11899905.14
+2021,Argentina,Raw milk of cattle,11899905.14
+2021,Argentina,Wheat,17644277.0
+2021,Australia,Barley,14648580.55
+2021,Australia,"Cereals, primary",51077697.91
+2021,Australia,"Hen eggs in shell, fresh",5075162.41
+2021,Australia,"Meat, Total",4373104.74
+2021,Australia,"Milk, Total",9067000.0
+2021,Australia,Raw milk of cattle,9067000.0
+2021,Australia,Wheat,31922554.7
+2021,Austria,Barley,742530.0
+2021,Austria,"Cereals, primary",5316150.0
+2021,Austria,"Hen eggs in shell, fresh",138718.0
+2021,Austria,"Meat, Total",874226.63
+2021,Austria,"Milk, Total",3867490.0
+2021,Austria,Raw milk of cattle,3830140.0
+2021,Austria,Wheat,1547600.0
+2021,Belgium,Barley,300070.0
+2021,Belgium,"Cereals, primary",2452580.0
+2021,Belgium,"Hen eggs in shell, fresh",0.0
+2021,Belgium,"Meat, Total",1845865.49
+2021,Belgium,"Milk, Total",4481000.0
+2021,Belgium,Raw milk of cattle,4438000.0
+2021,Belgium,Wheat,1629180.0
+2021,Brazil,Barley,452827.0
+2021,Brazil,"Cereals, primary",112039454.26
+2021,Brazil,"Hen eggs in shell, fresh",61159736.57
+2021,Brazil,"Meat, Total",29303617.88
+2021,Brazil,"Milk, Total",36527082.66
+2021,Brazil,Raw milk of cattle,36238557.98
+2021,Brazil,Wheat,7878413.0
+2021,Canada,Barley,6848137.0
+2021,Canada,"Cereals, primary",47546138.0
+2021,Canada,"Hen eggs in shell, fresh",10785517.0
+2021,Canada,"Meat, Total",5169914.14
+2021,Canada,"Milk, Total",9807284.0
+2021,Canada,Raw milk of cattle,9807284.0
+2021,Canada,Wheat,22422100.0
+2021,China,Barley,2134000.0
+2021,China,"Cereals, primary",634366162.97
+2021,China,"Hen eggs in shell, fresh",624403107.03
+2021,China,"Meat, Total",92548872.66
+2021,China,"Milk, Total",41695545.68
+2021,China,Raw milk of cattle,37276274.0
+2021,China,Wheat,136949000.0
+2021,Denmark,Barley,3462170.0
+2021,Denmark,"Cereals, primary",8640070.0
+2021,Denmark,"Hen eggs in shell, fresh",93000.0
+2021,Denmark,"Meat, Total",2011353.6
+2021,Denmark,"Milk, Total",5644000.0
+2021,Denmark,Raw milk of cattle,5644000.0
+2021,Denmark,Wheat,4047090.0
+2021,Finland,Barley,1045500.0
+2021,Finland,"Cereals, primary",2648990.0
+2021,Finland,"Hen eggs in shell, fresh",1370004.0
+2021,Finland,"Meat, Total",410998.0
+2021,Finland,"Milk, Total",2314850.0
+2021,Finland,Raw milk of cattle,2314850.0
+2021,Finland,Wheat,687160.0
+2021,France,Barley,11321320.0
+2021,France,"Cereals, primary",66877140.0
+2021,France,"Hen eggs in shell, fresh",15609168.0
+2021,France,"Meat, Total",5363832.17
+2021,France,"Milk, Total",25829080.0
+2021,France,Raw milk of cattle,24760620.0
+2021,France,Wheat,36559450.0
+2021,Germany,Barley,10411100.0
+2021,Germany,"Cereals, primary",42359400.0
+2021,Germany,"Hen eggs in shell, fresh",14025026.0
+2021,Germany,"Meat, Total",7632098.27
+2021,Germany,"Milk, Total",0.0
+2021,Germany,Raw milk of cattle,32506910.0
+2021,Germany,Wheat,21459200.0
+2021,Hungary,Barley,1711630.0
+2021,Hungary,"Cereals, primary",13980870.0
+2021,Hungary,"Hen eggs in shell, fresh",2532600.0
+2021,Hungary,"Meat, Total",1056643.04
+2021,Hungary,"Milk, Total",2085000.0
+2021,Hungary,Raw milk of cattle,2080230.0
+2021,Hungary,Wheat,5290140.0
+2021,India,Barley,1656340.0
+2021,India,"Cereals, primary",355110300.0
+2021,India,"Hen eggs in shell, fresh",128710000.0
+2021,India,"Meat, Total",10229893.44
+2021,India,"Milk, Total",221100000.0
+2021,India,Raw milk of cattle,108339000.0
+2021,India,Wheat,109586500.0
+2021,Ireland,Barley,1506410.0
+2021,Ireland,"Cereals, primary",2363950.0
+2021,Ireland,"Hen eggs in shell, fresh",999253.0
+2021,Ireland,"Meat, Total",1159212.78
+2021,Ireland,"Milk, Total",9039990.0
+2021,Ireland,Raw milk of cattle,9039990.0
+2021,Ireland,Wheat,628080.0
+2021,Italy,Barley,1091970.0
+2021,Italy,"Cereals, primary",16568150.0
+2021,Italy,"Hen eggs in shell, fresh",0.0
+2021,Italy,"Meat, Total",0.0
+2021,Italy,"Milk, Total",13997970.0
+2021,Italy,Raw milk of cattle,13202450.0
+2021,Italy,Wheat,7294570.0
+2021,Netherlands (Kingdom of the),Barley,196590.0
+2021,Netherlands (Kingdom of the),"Cereals, primary",1336080.0
+2021,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",0.0
+2021,Netherlands (Kingdom of the),"Meat, Total",3048467.37
+2021,Netherlands (Kingdom of the),"Milk, Total",14607880.0
+2021,Netherlands (Kingdom of the),Raw milk of cattle,14217250.0
+2021,Netherlands (Kingdom of the),Wheat,947250.0
+2021,New Zealand,Barley,325057.0
+2021,New Zealand,"Cereals, primary",995732.55
+2021,New Zealand,"Hen eggs in shell, fresh",1282017.79
+2021,New Zealand,"Meat, Total",1495211.64
+2021,New Zealand,"Milk, Total",21886376.0
+2021,New Zealand,Raw milk of cattle,21886376.0
+2021,New Zealand,Wheat,422831.0
+2021,Poland,Barley,2961650.0
+2021,Poland,"Cereals, primary",33996290.0
+2021,Poland,"Hen eggs in shell, fresh",9271681.0
+2021,Poland,"Meat, Total",5102137.0
+2021,Poland,"Milk, Total",14890270.0
+2021,Poland,Raw milk of cattle,14881110.0
+2021,Poland,Wheat,11893550.0
+2021,Romania,Barley,1981030.0
+2021,Romania,"Cereals, primary",27791090.0
+2021,Romania,"Hen eggs in shell, fresh",5439156.0
+2021,Romania,"Meat, Total",983443.22
+2021,Romania,"Milk, Total",4299700.0
+2021,Romania,Raw milk of cattle,3637000.0
+2021,Romania,Wheat,10433750.0
+2021,Spain,Barley,9275920.0
+2021,Spain,"Cereals, primary",25510560.0
+2021,Spain,"Hen eggs in shell, fresh",13342142.0
+2021,Spain,"Meat, Total",7645763.35
+2021,Spain,"Milk, Total",8702590.0
+2021,Spain,Raw milk of cattle,7623090.0
+2021,Spain,Wheat,8564630.0
+2021,Sweden,Barley,1060400.0
+2021,Sweden,"Cereals, primary",4980300.0
+2021,Sweden,"Hen eggs in shell, fresh",2214942.0
+2021,Sweden,"Meat, Total",581060.0
+2021,Sweden,"Milk, Total",2782220.0
+2021,Sweden,Raw milk of cattle,2782220.0
+2021,Sweden,Wheat,3027800.0
+2021,United States of America,Barley,2614650.0
+2021,United States of America,"Cereals, primary",451637220.61
+2021,United States of America,"Hen eggs in shell, fresh",118034746.0
+2021,United States of America,"Meat, Total",47234140.98
+2021,United States of America,"Milk, Total",102670862.55
+2021,United States of America,Raw milk of cattle,102644900.0
+2021,United States of America,Wheat,44803690.0
+2022,Argentina,Barley,5279608.0
+2022,Argentina,"Cereals, primary",91584182.57
+2022,Argentina,"Hen eggs in shell, fresh",16132636.94
+2022,Argentina,"Meat, Total",6339573.72
+2022,Argentina,"Milk, Total",11904142.0
+2022,Argentina,Raw milk of cattle,11904142.0
+2022,Argentina,Wheat,22150287.0
+2022,Australia,Barley,14377284.33
+2022,Australia,"Cereals, primary",56306820.81
+2022,Australia,"Hen eggs in shell, fresh",4261537.63
+2022,Australia,"Meat, Total",4471332.26
+2022,Australia,"Milk, Total",8450000.0
+2022,Australia,Raw milk of cattle,8450000.0
+2022,Australia,Wheat,36237477.23
+2022,Austria,Barley,767120.0
+2022,Austria,"Cereals, primary",5205750.0
+2022,Austria,"Hen eggs in shell, fresh",0.0
+2022,Austria,"Meat, Total",0.0
+2022,Austria,"Milk, Total",3980300.0
+2022,Austria,Raw milk of cattle,3942500.0
+2022,Austria,Wheat,1712530.0
+2022,Belgium,Barley,373000.0
+2022,Belgium,"Cereals, primary",2779540.0
+2022,Belgium,"Hen eggs in shell, fresh",0.0
+2022,Belgium,"Meat, Total",1724322.92
+2022,Belgium,"Milk, Total",4618000.0
+2022,Belgium,Raw milk of cattle,4572000.0
+2022,Belgium,Wheat,1851870.0
+2022,Brazil,Barley,521996.0
+2022,Brazil,"Cereals, primary",135485143.44
+2022,Brazil,"Hen eggs in shell, fresh",61981177.78
+2022,Brazil,"Meat, Total",30397943.22
+2022,Brazil,"Milk, Total",35944054.06
+2022,Brazil,Raw milk of cattle,35647494.54
+2022,Brazil,Wheat,10343182.0
+2022,Canada,Barley,9986681.0
+2022,Canada,"Cereals, primary",65040432.0
+2022,Canada,"Hen eggs in shell, fresh",11022262.0
+2022,Canada,"Meat, Total",5213635.73
+2022,Canada,"Milk, Total",9742541.0
+2022,Canada,Raw milk of cattle,9742541.0
+2022,Canada,Wheat,34334787.0
+2022,China,Barley,1960000.0
+2022,China,"Cereals, primary",635092927.32
+2022,China,"Hen eggs in shell, fresh",621844039.56
+2022,China,"Meat, Total",94676558.86
+2022,China,"Milk, Total",40389520.75
+2022,China,Raw milk of cattle,36076655.0
+2022,China,Wheat,137726000.0
+2022,Denmark,Barley,4122600.0
+2022,Denmark,"Cereals, primary",9464200.0
+2022,Denmark,"Hen eggs in shell, fresh",1513183.0
+2022,Denmark,"Meat, Total",1882619.24
+2022,Denmark,"Milk, Total",5664000.0
+2022,Denmark,Raw milk of cattle,5664000.0
+2022,Denmark,Wheat,4165400.0
+2022,Finland,Barley,1467600.0
+2022,Finland,"Cereals, primary",3684010.0
+2022,Finland,"Hen eggs in shell, fresh",1348459.0
+2022,Finland,"Meat, Total",403712.0
+2022,Finland,"Milk, Total",2258630.0
+2022,Finland,Raw milk of cattle,2258630.0
+2022,Finland,Wheat,864180.0
+2022,France,Barley,11285440.0
+2022,France,"Cereals, primary",59927490.0
+2022,France,"Hen eggs in shell, fresh",15364094.0
+2022,France,"Meat, Total",5106483.29
+2022,France,"Milk, Total",25028850.0
+2022,France,Raw milk of cattle,23967960.0
+2022,France,Wheat,34632380.0
+2022,Germany,Barley,11207100.0
+2022,Germany,"Cereals, primary",43479000.0
+2022,Germany,"Hen eggs in shell, fresh",14210513.0
+2022,Germany,"Meat, Total",7026647.56
+2022,Germany,"Milk, Total",0.0
+2022,Germany,Raw milk of cattle,32399050.0
+2022,Germany,Wheat,22587300.0
+2022,Hungary,Barley,1590740.0
+2022,Hungary,"Cereals, primary",9060660.0
+2022,Hungary,"Hen eggs in shell, fresh",2429700.0
+2022,Hungary,"Meat, Total",960508.89
+2022,Hungary,"Milk, Total",2044900.0
+2022,Hungary,Raw milk of cattle,2040340.0
+2022,Hungary,Wheat,4354710.0
+2022,India,Barley,1371360.0
+2022,India,"Cereals, primary",355088430.0
+2022,India,"Hen eggs in shell, fresh",126048496.65
+2022,India,"Meat, Total",10644195.41
+2022,India,"Milk, Total",213779228.65
+2022,India,Raw milk of cattle,108371300.0
+2022,India,Wheat,107742070.0
+2022,Ireland,Barley,1549860.0
+2022,Ireland,"Cereals, primary",2485680.0
+2022,Ireland,"Hen eggs in shell, fresh",1014821.0
+2022,Ireland,"Meat, Total",1184997.81
+2022,Ireland,"Milk, Total",9108280.0
+2022,Ireland,Raw milk of cattle,9108280.0
+2022,Ireland,Wheat,701240.0
+2022,Italy,Barley,1158410.0
+2022,Italy,"Cereals, primary",14300570.0
+2022,Italy,"Hen eggs in shell, fresh",0.0
+2022,Italy,"Meat, Total",0.0
+2022,Italy,"Milk, Total",13971690.0
+2022,Italy,Raw milk of cattle,13181870.0
+2022,Italy,Wheat,6609520.0
+2022,Netherlands (Kingdom of the),Barley,283230.0
+2022,Netherlands (Kingdom of the),"Cereals, primary",1638280.0
+2022,Netherlands (Kingdom of the),"Hen eggs in shell, fresh",0.0
+2022,Netherlands (Kingdom of the),"Meat, Total",2999508.02
+2022,Netherlands (Kingdom of the),"Milk, Total",14978960.0
+2022,Netherlands (Kingdom of the),Raw milk of cattle,14533740.0
+2022,Netherlands (Kingdom of the),Wheat,1162860.0
+2022,New Zealand,Barley,329728.0
+2022,New Zealand,"Cereals, primary",967398.93
+2022,New Zealand,"Hen eggs in shell, fresh",1115222.59
+2022,New Zealand,"Meat, Total",1456139.56
+2022,New Zealand,"Milk, Total",21051000.0
+2022,New Zealand,Raw milk of cattle,21051000.0
+2022,New Zealand,Wheat,402557.0
+2022,Poland,Barley,2782010.0
+2022,Poland,"Cereals, primary",34987760.0
+2022,Poland,"Hen eggs in shell, fresh",10078836.0
+2022,Poland,"Meat, Total",5090999.77
+2022,Poland,"Milk, Total",15218080.0
+2022,Poland,Raw milk of cattle,15208490.0
+2022,Poland,Wheat,13195120.0
+2022,Romania,Barley,1706650.0
+2022,Romania,"Cereals, primary",18860480.0
+2022,Romania,"Hen eggs in shell, fresh",5531635.0
+2022,Romania,"Meat, Total",965262.32
+2022,Romania,"Milk, Total",4261900.0
+2022,Romania,Raw milk of cattle,3621800.0
+2022,Romania,Wheat,8684240.0
+2022,Spain,Barley,7029720.0
+2022,Spain,"Cereals, primary",19292230.0
+2022,Spain,"Hen eggs in shell, fresh",13477253.0
+2022,Spain,"Meat, Total",7562136.68
+2022,Spain,"Milk, Total",8483000.0
+2022,Spain,Raw milk of cattle,7454970.0
+2022,Spain,Wheat,6508800.0
+2022,Sweden,Barley,1509500.0
+2022,Sweden,"Cereals, primary",5823200.0
+2022,Sweden,"Hen eggs in shell, fresh",2519990.0
+2022,Sweden,"Meat, Total",569567.77
+2022,Sweden,"Milk, Total",2764840.0
+2022,Sweden,Raw milk of cattle,2764840.0
+2022,Sweden,Wheat,3228700.0
+2022,United States of America,Barley,3795650.0
+2022,United States of America,"Cereals, primary",410940914.66
+2022,United States of America,"Hen eggs in shell, fresh",116042457.0
+2022,United States of America,"Meat, Total",47530725.03
+2022,United States of America,"Milk, Total",102747317.15
+2022,United States of America,Raw milk of cattle,102721557.0
+2022,United States of America,Wheat,44902320.0

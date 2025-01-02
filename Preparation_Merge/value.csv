@@ -1,0 +1,3263 @@
+Area,Item,Year,GPV (1000 USD),GPV_Const (1000 USD)
+Argentina,Barley,2000,70117.0,96771.0
+Argentina,Barley,2001,58334.0,70995.0
+Argentina,Barley,2002,61207.0,73645.0
+Argentina,Barley,2003,110923.0,134672.0
+Argentina,Barley,2004,1993701.0,119825.0
+Argentina,Barley,2005,1993701.0,107075.0
+Argentina,Barley,2006,1993701.0,169899.0
+Argentina,Barley,2007,1993701.0,197497.0
+Argentina,Barley,2008,1993701.0,225272.0
+Argentina,Barley,2009,1993701.0,181597.0
+Argentina,Barley,2010,1993701.0,397010.0
+Argentina,Barley,2011,1993701.0,547251.0
+Argentina,Barley,2012,1993701.0,690890.0
+Argentina,Barley,2013,1993701.0,630212.0
+Argentina,Barley,2014,1993701.0,388628.0
+Argentina,Barley,2015,1993701.0,388628.0
+Argentina,Barley,2016,1993701.0,661496.0
+Argentina,Barley,2017,1993701.0,501093.0
+Argentina,Barley,2018,1993701.0,677883.0
+Argentina,Barley,2019,1993701.0,506942.0
+Argentina,Barley,2020,1993701.0,483901.0
+Argentina,Barley,2021,1993701.0,540602.0
+Argentina,Barley,2022,1993701.0,707154.0
+Argentina,"Cereals, primary",2000,3522037.0,6251729.0
+Argentina,"Cereals, primary",2001,3703242.0,6094476.0
+Argentina,"Cereals, primary",2002,3576798.0,5820045.0
+Argentina,"Cereals, primary",2003,3273498.0,5299854.0
+Argentina,"Cereals, primary",2004,3310845.0,5682477.0
+Argentina,"Cereals, primary",2005,3564711.0,6858922.0
+Argentina,"Cereals, primary",2006,3354928.0,5314076.0
+Argentina,"Cereals, primary",2007,5666182.0,6804490.0
+Argentina,"Cereals, primary",2008,7458060.0,7318901.0
+Argentina,"Cereals, primary",2009,3493501.0,4251263.0
+Argentina,"Cereals, primary",2010,5864364.0,6201876.0
+Argentina,"Cereals, primary",2011,10046546.0,8173592.0
+Argentina,"Cereals, primary",2012,9779384.0,7567948.0
+Argentina,"Cereals, primary",2013,10921870.0,7757840.0
+Argentina,"Cereals, primary",2014,8017487.0,7840480.0
+Argentina,"Cereals, primary",2015,8570697.0,8804552.0
+Argentina,"Cereals, primary",2016,9284823.0,9397554.0
+Argentina,"Cereals, primary",2017,11767160.0,11942109.0
+Argentina,"Cereals, primary",2018,10458404.0,11093429.0
+Argentina,"Cereals, primary",2019,8800091.0,13020060.0
+Argentina,"Cereals, primary",2020,7346926.0,13330144.0
+Argentina,"Cereals, primary",2021,6423221.0,13528837.0
+Argentina,"Cereals, primary",2022,5836036.0,14271875.0
+Argentina,"Hen eggs in shell, fresh",2000,243361.0,369664.0
+Argentina,"Hen eggs in shell, fresh",2001,251622.0,341375.0
+Argentina,"Hen eggs in shell, fresh",2002,113218.0,288554.0
+Argentina,"Hen eggs in shell, fresh",2003,198788.0,342601.0
+Argentina,"Hen eggs in shell, fresh",2004,1993701.0,402234.0
+Argentina,"Hen eggs in shell, fresh",2005,1993701.0,439615.0
+Argentina,"Hen eggs in shell, fresh",2006,268298.0,473319.0
+Argentina,"Hen eggs in shell, fresh",2007,350246.0,500510.0
+Argentina,"Hen eggs in shell, fresh",2008,543855.0,529275.0
+Argentina,"Hen eggs in shell, fresh",2009,444746.0,573603.0
+Argentina,"Hen eggs in shell, fresh",2010,429285.0,626406.0
+Argentina,"Hen eggs in shell, fresh",2011,464370.0,668129.0
+Argentina,"Hen eggs in shell, fresh",2012,605549.0,678418.0
+Argentina,"Hen eggs in shell, fresh",2013,626611.0,638945.0
+Argentina,"Hen eggs in shell, fresh",2014,576034.0,718648.0
+Argentina,"Hen eggs in shell, fresh",2015,1031921.0,864983.0
+Argentina,"Hen eggs in shell, fresh",2016,911763.0,906819.0
+Argentina,"Hen eggs in shell, fresh",2017,756729.0,919257.0
+Argentina,"Hen eggs in shell, fresh",2018,1115484.0,937348.0
+Argentina,"Hen eggs in shell, fresh",2019,913454.0,938478.0
+Argentina,"Hen eggs in shell, fresh",2020,1150841.0,987098.0
+Argentina,"Hen eggs in shell, fresh",2021,1993701.0,1000667.0
+Argentina,"Hen eggs in shell, fresh",2022,1993701.0,950959.0
+Argentina,"Meat, Total",2000,6505490.0,4934871.2727272725
+Argentina,"Meat, Total",2001,5584106.0,4565285.7272727275
+Argentina,"Meat, Total",2002,3320214.0,4479173.545454546
+Argentina,"Meat, Total",2003,5071259.0,4748893.7272727275
+Argentina,"Meat, Total",2004,12648546.0,5307444.636363637
+Argentina,"Meat, Total",2005,16876259.0,5552397.0
+Argentina,"Meat, Total",2006,18909211.0,5465251.363636363
+Argentina,"Meat, Total",2007,22854979.0,5774916.181818182
+Argentina,"Meat, Total",2008,25243241.0,5630952.7272727275
+Argentina,"Meat, Total",2009,26318755.0,6031077.090909091
+Argentina,"Meat, Total",2010,20403559.0,4937620.545454546
+Argentina,"Meat, Total",2011,21294979.0,4767505.818181818
+Argentina,"Meat, Total",2012,22586607.0,4908694.090909091
+Argentina,"Meat, Total",2013,23786501.0,5253953.818181818
+Argentina,"Meat, Total",2014,18634958.0,5039605.909090909
+Argentina,"Meat, Total",2015,13206324.0,5167416.454545454
+Argentina,"Meat, Total",2016,6831122.0,5020363.181818182
+Argentina,"Meat, Total",2017,4597687.0,5362629.181818182
+Argentina,"Meat, Total",2018,3902856.4,5704508.090909091
+Argentina,"Meat, Total",2019,4709497.0,5859762.636363637
+Argentina,"Meat, Total",2020,2501780.5,5888877.2727272725
+Argentina,"Meat, Total",2021,6140389.0,5639698.363636363
+Argentina,"Meat, Total",2022,5307388.0,5866911.545454546
+Argentina,"Milk, Total",2000,1569591.0,3467487.0
+Argentina,"Milk, Total",2001,1495363.0,3346687.0
+Argentina,"Milk, Total",2002,826734.0,3012549.0
+Argentina,"Milk, Total",2003,1300008.0,2808391.0
+Argentina,"Milk, Total",2004,1502863.0,3235463.0
+Argentina,"Milk, Total",2005,1623531.0,3394724.0
+Argentina,"Milk, Total",2006,1569408.0,3595013.0
+Argentina,"Milk, Total",2007,2177595.0,3365054.0
+Argentina,"Milk, Total",2008,2796909.0,3535659.0
+Argentina,"Milk, Total",2009,2284709.0,3551408.0
+Argentina,"Milk, Total",2010,3512579.0,3637212.0
+Argentina,"Milk, Total",2011,4236047.0,3954351.0
+Argentina,"Milk, Total",2012,4059836.0,4001544.0
+Argentina,"Milk, Total",2013,4346719.0,3871335.0
+Argentina,"Milk, Total",2014,4293557.0,3885061.0
+Argentina,"Milk, Total",2015,4806782.0,4255927.0
+Argentina,"Milk, Total",2016,2779866.0,3631807.0
+Argentina,"Milk, Total",2017,3409719.0,3563095.0
+Argentina,"Milk, Total",2018,2755455.0,3714507.0
+Argentina,"Milk, Total",2019,3144968.0,3648651.0
+Argentina,"Milk, Total",2020,2896127.0,3921508.0
+Argentina,"Milk, Total",2021,2985816.0,4076813.0
+Argentina,"Milk, Total",2022,2900877.0,4078264.0
+Argentina,Raw milk of cattle,2000,1569591.0,3467487.0
+Argentina,Raw milk of cattle,2001,1495363.0,3346687.0
+Argentina,Raw milk of cattle,2002,826734.0,3012549.0
+Argentina,Raw milk of cattle,2003,1300008.0,2808391.0
+Argentina,Raw milk of cattle,2004,1993701.0,3235463.0
+Argentina,Raw milk of cattle,2005,1993701.0,3394724.0
+Argentina,Raw milk of cattle,2006,1569408.0,3595013.0
+Argentina,Raw milk of cattle,2007,2177595.0,3365054.0
+Argentina,Raw milk of cattle,2008,2796909.0,3535659.0
+Argentina,Raw milk of cattle,2009,2284709.0,3551408.0
+Argentina,Raw milk of cattle,2010,3512579.0,3637212.0
+Argentina,Raw milk of cattle,2011,4236047.0,3954351.0
+Argentina,Raw milk of cattle,2012,4059836.0,4001544.0
+Argentina,Raw milk of cattle,2013,4346719.0,3871335.0
+Argentina,Raw milk of cattle,2014,4293557.0,3885061.0
+Argentina,Raw milk of cattle,2015,1993701.0,4255927.0
+Argentina,Raw milk of cattle,2016,2779866.0,3631807.0
+Argentina,Raw milk of cattle,2017,3409719.0,3563095.0
+Argentina,Raw milk of cattle,2018,2755455.0,3714507.0
+Argentina,Raw milk of cattle,2019,3144968.0,3648651.0
+Argentina,Raw milk of cattle,2020,1993701.0,3921508.0
+Argentina,Raw milk of cattle,2021,1993701.0,4076813.0
+Argentina,Raw milk of cattle,2022,1993701.0,4078264.0
+Argentina,Wheat,2000,1672532.0,2950987.0
+Argentina,Wheat,2001,1970873.0,3078333.0
+Argentina,Wheat,2002,1994419.0,2941294.0
+Argentina,Wheat,2003,1607251.0,2363861.0
+Argentina,Wheat,2004,1585093.0,2804476.0
+Argentina,Wheat,2005,1628559.0,3076912.0
+Argentina,Wheat,2006,1420350.0,2425429.0
+Argentina,Wheat,2007,2262215.0,2795472.0
+Argentina,Wheat,2008,3176008.0,3143137.0
+Argentina,Wheat,2009,1265638.0,1622069.0
+Argentina,Wheat,2010,1447925.0,1718960.0
+Argentina,Wheat,2011,3573136.0,3063330.0
+Argentina,Wheat,2012,3141280.0,2799386.0
+Argentina,Wheat,2013,2920390.0,1550815.0
+Argentina,Wheat,2014,1809728.0,1751745.0
+Argentina,Wheat,2015,1993701.0,2655752.0
+Argentina,Wheat,2016,1993701.0,2157181.0
+Argentina,Wheat,2017,1993701.0,3507004.0
+Argentina,Wheat,2018,1993701.0,3530442.0
+Argentina,Wheat,2019,1993701.0,3709972.0
+Argentina,Wheat,2020,1993701.0,3770449.0
+Argentina,Wheat,2021,1993701.0,3363859.0
+Argentina,Wheat,2022,1993701.0,4222924.0
+Australia,Barley,2000,502897.0,1074338.0
+Australia,Barley,2001,694040.0,1436499.0
+Australia,Barley,2002,935669.0,1763885.0
+Australia,Barley,2003,639168.0,823347.0
+Australia,Barley,2004,1290285.0,2211698.0
+Australia,Barley,2005,939766.0,1648846.0
+Australia,Barley,2006,1063840.0,2019948.0
+Australia,Barley,2007,869146.0,906899.0
+Australia,Barley,2008,1879829.0,1525370.0
+Australia,Barley,2009,1440643.0,1703540.0
+Australia,Barley,2010,1240830.0,1675429.0
+Australia,Barley,2011,1781253.0,1703160.0
+Australia,Barley,2012,1787512.0,1751336.0
+Australia,Barley,2013,1990803.0,1591715.0
+Australia,Barley,2014,2208086.0,1954477.0
+Australia,Barley,2015,1818787.0,1841974.0
+Australia,Barley,2016,1691214.0,1915674.0
+Australia,Barley,2017,2039213.0,2877256.0
+Australia,Barley,2018,1700857.0,1971399.0
+Australia,Barley,2019,2096674.0,1878749.0
+Australia,Barley,2020,2069015.0,2157448.0
+Australia,Barley,2021,2800781.0,3120668.0
+Australia,Barley,2022,3022596.0,3062873.0
+Australia,"Cereals, primary",2000,3794961.0,8330335.0
+Australia,"Cereals, primary",2001,3851176.0,8156764.0
+Australia,"Cereals, primary",2002,5046696.0,8998047.0
+Australia,"Cereals, primary",2003,2935550.0,4078516.0
+Australia,"Cereals, primary",2004,6188889.0,9790243.0
+Australia,"Cereals, primary",2005,4792618.0,7958850.0
+Australia,"Cereals, primary",2006,5664697.0,9404728.0
+Australia,"Cereals, primary",2007,3588514.0,4114900.0
+Australia,"Cereals, primary",2008,7679063.0,6159179.0
+Australia,"Cereals, primary",2009,6969270.0,7894632.0
+Australia,"Cereals, primary",2010,6341114.0,7745644.0
+Australia,"Cereals, primary",2011,10072152.0,9335470.0
+Australia,"Cereals, primary",2012,9972093.0,10149787.0
+Australia,"Cereals, primary",2013,10171439.0,8338810.0
+Australia,"Cereals, primary",2014,10416637.0,8948289.0
+Australia,"Cereals, primary",2015,8274337.0,8659289.0
+Australia,"Cereals, primary",2016,7170598.0,8151140.0
+Australia,"Cereals, primary",2017,8621478.0,11576952.0
+Australia,"Cereals, primary",2018,6774926.0,7848151.0
+Australia,"Cereals, primary",2019,7132439.0,6721697.0
+Australia,"Cereals, primary",2020,6028608.0,6062765.0
+Australia,"Cereals, primary",2021,11302362.0,11774992.0
+Australia,"Cereals, primary",2022,13580845.0,13052492.0
+Australia,"Hen eggs in shell, fresh",2000,216059.0,375098.0
+Australia,"Hen eggs in shell, fresh",2001,181227.0,369852.0
+Australia,"Hen eggs in shell, fresh",2002,196373.0,365917.0
+Australia,"Hen eggs in shell, fresh",2003,199926.0,342047.0
+Australia,"Hen eggs in shell, fresh",2004,255885.0,346244.0
+Australia,"Hen eggs in shell, fresh",2005,259842.0,363557.0
+Australia,"Hen eggs in shell, fresh",2006,293196.0,449331.0
+Australia,"Hen eggs in shell, fresh",2007,332168.0,424149.0
+Australia,"Hen eggs in shell, fresh",2008,386378.0,419690.0
+Australia,"Hen eggs in shell, fresh",2009,361476.0,417927.0
+Australia,"Hen eggs in shell, fresh",2010,406207.0,456413.0
+Australia,"Hen eggs in shell, fresh",2011,644515.0,538253.0
+Australia,"Hen eggs in shell, fresh",2012,660195.0,563135.0
+Australia,"Hen eggs in shell, fresh",2013,687531.0,631961.0
+Australia,"Hen eggs in shell, fresh",2014,619646.0,607727.0
+Australia,"Hen eggs in shell, fresh",2015,518812.0,601411.0
+Australia,"Hen eggs in shell, fresh",2016,693864.0,620779.0
+Australia,"Hen eggs in shell, fresh",2017,628075.0,649415.0
+Australia,"Hen eggs in shell, fresh",2018,618876.0,679184.0
+Australia,"Hen eggs in shell, fresh",2019,578908.0,670263.0
+Australia,"Hen eggs in shell, fresh",2020,617534.0,632931.0
+Australia,"Hen eggs in shell, fresh",2021,709493.0,705964.0
+Australia,"Hen eggs in shell, fresh",2022,563637.0,592788.0
+Australia,"Meat, Total",2000,1411500.0,2254951.090909091
+Australia,"Meat, Total",2001,1526246.0,2352807.5454545454
+Australia,"Meat, Total",2002,1937999.5,2362487.272727273
+Australia,"Meat, Total",2003,2031006.0,2269894.1818181816
+Australia,"Meat, Total",2004,2575794.5,2326998.8181818184
+Australia,"Meat, Total",2005,2848856.3333333335,2346955.4545454546
+Australia,"Meat, Total",2006,2923341.5,2447668.4545454546
+Australia,"Meat, Total",2007,3176298.0,2481400.909090909
+Australia,"Meat, Total",2008,3098762.5,2418913.4545454546
+Australia,"Meat, Total",2009,3054458.1666666665,2385024.0
+Australia,"Meat, Total",2010,3640625.1666666665,2400315.909090909
+Australia,"Meat, Total",2011,4457364.0,2412422.272727273
+Australia,"Meat, Total",2012,4558079.833333333,2472888.1818181816
+Australia,"Meat, Total",2013,4951623.6,2695265.4545454546
+Australia,"Meat, Total",2014,4828438.4,2909799.1818181816
+Australia,"Meat, Total",2015,4000959.4,2964321.1818181816
+Australia,"Meat, Total",2016,9634106.0,2766192.909090909
+Australia,"Meat, Total",2017,9480832.0,2600592.909090909
+Australia,"Meat, Total",2018,10052799.0,2797588.272727273
+Australia,"Meat, Total",2019,10023336.0,2880058.090909091
+Australia,"Meat, Total",2020,6132494.6,2650781.4545454546
+Australia,"Meat, Total",2021,6662085.4,2524225.090909091
+Australia,"Meat, Total",2022,6841175.8,2574112.727272727
+Australia,"Milk, Total",2000,1597367.0,3383268.0
+Australia,"Milk, Total",2001,1538354.0,3289696.0
+Australia,"Milk, Total",2002,1959535.0,3515517.0
+Australia,"Milk, Total",2003,1761634.0,3221388.0
+Australia,"Milk, Total",2004,2008086.0,3142787.0
+Australia,"Milk, Total",2005,2366447.0,3158694.0
+Australia,"Milk, Total",2006,2438681.0,3146842.0
+Australia,"Milk, Total",2007,2581981.0,2989016.0
+Australia,"Milk, Total",2008,3728809.0,2876729.0
+Australia,"Milk, Total",2009,3023900.0,2928194.0
+Australia,"Milk, Total",2010,3004468.0,2814347.0
+Australia,"Milk, Total",2011,3933433.0,2838676.0
+Australia,"Milk, Total",2012,4004856.0,2956931.0
+Australia,"Milk, Total",2013,3575887.0,2969990.0
+Australia,"Milk, Total",2014,3234100.0,2976228.0
+Australia,"Milk, Total",2015,2666150.0,2959697.0
+Australia,"Milk, Total",2016,3057411.0,3019554.0
+Australia,"Milk, Total",2017,2494353.0,2812095.0
+Australia,"Milk, Total",2018,2782903.0,2897315.0
+Australia,"Milk, Total",2019,2327657.0,2758828.0
+Australia,"Milk, Total",2020,2377271.0,2838053.0
+Australia,"Milk, Total",2021,2728741.0,2828071.0
+Australia,"Milk, Total",2022,2358483.0,2635624.0
+Australia,Raw milk of cattle,2000,1597367.0,3383268.0
+Australia,Raw milk of cattle,2001,1538354.0,3289696.0
+Australia,Raw milk of cattle,2002,1959535.0,3515517.0
+Australia,Raw milk of cattle,2003,1761634.0,3221388.0
+Australia,Raw milk of cattle,2004,2008086.0,3142787.0
+Australia,Raw milk of cattle,2005,2366447.0,3158694.0
+Australia,Raw milk of cattle,2006,2438681.0,3146842.0
+Australia,Raw milk of cattle,2007,2581981.0,2989016.0
+Australia,Raw milk of cattle,2008,3728809.0,2876729.0
+Australia,Raw milk of cattle,2009,3023900.0,2928194.0
+Australia,Raw milk of cattle,2010,3004468.0,2814347.0
+Australia,Raw milk of cattle,2011,3933433.0,2838676.0
+Australia,Raw milk of cattle,2012,4004856.0,2956931.0
+Australia,Raw milk of cattle,2013,3575887.0,2969990.0
+Australia,Raw milk of cattle,2014,3234100.0,2976228.0
+Australia,Raw milk of cattle,2015,2666150.0,2959697.0
+Australia,Raw milk of cattle,2016,1993701.0,3019554.0
+Australia,Raw milk of cattle,2017,1993701.0,2812095.0
+Australia,Raw milk of cattle,2018,1993701.0,2897315.0
+Australia,Raw milk of cattle,2019,1993701.0,2758828.0
+Australia,Raw milk of cattle,2020,1993701.0,2838053.0
+Australia,Raw milk of cattle,2021,1993701.0,2828071.0
+Australia,Raw milk of cattle,2022,1993701.0,2635624.0
+Australia,Wheat,2000,2798942.0,5909846.0
+Australia,Wheat,2001,2652869.0,5277492.0
+Australia,Wheat,2002,3458886.0,5800595.0
+Australia,Wheat,2003,1747903.0,2418634.0
+Australia,Wheat,2004,4150966.0,6238047.0
+Australia,Wheat,2005,3295385.0,5229060.0
+Australia,Wheat,2006,3844518.0,6003743.0
+Australia,Wheat,2007,2191309.0,2583276.0
+Australia,Wheat,2008,4438901.0,3239202.0
+Australia,Wheat,2009,4694330.0,5113299.0
+Australia,Wheat,2010,4366163.0,5212087.0
+Australia,Wheat,2011,7266278.0,6543173.0
+Australia,Wheat,2012,7028815.0,7138749.0
+Australia,Wheat,2013,6906254.0,5455949.0
+Australia,Wheat,2014,7207521.0,6040193.0
+Australia,Wheat,2015,5351078.0,5667685.0
+Australia,Wheat,2016,4586661.0,5317242.0
+Australia,Wheat,2017,5633328.0,7595584.0
+Australia,Wheat,2018,4255781.0,4998945.0
+Australia,Wheat,2019,4306092.0,4200787.0
+Australia,Wheat,2020,3405093.0,3456633.0
+Australia,Wheat,2021,7399922.0,7620365.0
+Australia,Wheat,2022,9117273.0,8650398.0
+Austria,Barley,2000,76795.0,111474.0
+Austria,Barley,2001,86841.0,132048.0
+Austria,Barley,2002,71337.0,112351.0
+Austria,Barley,2003,88631.0,115081.0
+Austria,Barley,2004,99999.0,131309.0
+Austria,Barley,2005,88608.0,114730.0
+Austria,Barley,2006,99765.0,119220.0
+Austria,Barley,2007,164283.0,105776.0
+Austria,Barley,2008,178641.0,126246.0
+Austria,Barley,2009,92815.0,108923.0
+Austria,Barley,2010,124794.0,101470.0
+Austria,Barley,2011,187805.0,112088.0
+Austria,Barley,2012,155757.0,86405.0
+Austria,Barley,2013,136487.0,95742.0
+Austria,Barley,2014,124711.0,110305.0
+Austria,Barley,2015,110032.0,109618.0
+Austria,Barley,2016,97064.0,112131.0
+Austria,Barley,2017,102479.0,102000.0
+Austria,"Cereals, primary",2000,443719.0,654774.0
+Austria,"Cereals, primary",2001,444054.0,702900.0
+Austria,"Cereals, primary",2002,431066.0,694695.0
+Austria,"Cereals, primary",2003,538863.0,619762.0
+Austria,"Cereals, primary",2004,565846.0,775151.0
+Austria,"Cereals, primary",2005,510818.0,715463.0
+Austria,"Cereals, primary",2006,605295.0,650459.0
+Austria,"Cereals, primary",2007,1223394.0,695795.0
+Austria,"Cereals, primary",2008,951263.0,840928.0
+Austria,"Cereals, primary",2009,636736.0,754545.0
+Austria,"Cereals, primary",2010,1082757.0,710414.0
+Austria,"Cereals, primary",2011,1227509.0,835968.0
+Austria,"Cereals, primary",2012,1311837.0,714427.0
+Austria,"Cereals, primary",2013,887878.0,671206.0
+Austria,"Cereals, primary",2014,906480.0,834665.0
+Austria,"Cereals, primary",2015,721387.0,705386.0
+Austria,"Cereals, primary",2016,734189.0,832656.0
+Austria,"Cereals, primary",2017,750136.0,709381.0
+Austria,"Cereals, primary",2018,807479.0,696559.0
+Austria,"Cereals, primary",2019,797939.0,784984.0
+Austria,"Cereals, primary",2020,859332.0,820064.0
+Austria,"Cereals, primary",2021,1292805.0,773887.0
+Austria,"Cereals, primary",2022,1539508.0,758634.0
+Austria,"Hen eggs in shell, fresh",2000,108832.0,223798.0
+Austria,"Hen eggs in shell, fresh",2001,109352.0,223988.0
+Austria,"Hen eggs in shell, fresh",2002,119568.0,228827.0
+Austria,"Hen eggs in shell, fresh",2003,149506.0,221397.0
+Austria,"Hen eggs in shell, fresh",2004,171508.0,226365.0
+Austria,"Hen eggs in shell, fresh",2005,172747.0,232167.0
+Austria,"Hen eggs in shell, fresh",2006,175065.0,235657.0
+Austria,"Hen eggs in shell, fresh",2007,227336.0,246973.0
+Austria,"Hen eggs in shell, fresh",2008,275215.0,249690.0
+Austria,"Hen eggs in shell, fresh",2009,265084.0,239033.0
+Austria,"Hen eggs in shell, fresh",2010,258435.0,246106.0
+Austria,"Hen eggs in shell, fresh",2011,292707.0,267034.0
+Austria,"Hen eggs in shell, fresh",2012,299275.0,278017.0
+Austria,"Hen eggs in shell, fresh",2013,320047.0,279034.0
+Austria,"Hen eggs in shell, fresh",2014,321405.0,285346.0
+Austria,"Hen eggs in shell, fresh",2015,269363.0,289494.0
+Austria,"Hen eggs in shell, fresh",2016,297946.0,315899.0
+Austria,"Hen eggs in shell, fresh",2017,320272.0,324380.0
+Austria,"Meat, Total",2000,339258.125,370692.35294117645
+Austria,"Meat, Total",2001,344441.625,373968.23529411765
+Austria,"Meat, Total",2002,335753.375,373408.64705882355
+Austria,"Meat, Total",2003,391205.125,374406.5882352941
+Austria,"Meat, Total",2004,454001.125,374691.5882352941
+Austria,"Meat, Total",2005,472893.875,367545.5882352941
+Austria,"Meat, Total",2006,503025.0,374607.82352941175
+Austria,"Meat, Total",2007,534292.875,382377.1176470588
+Austria,"Meat, Total",2008,639149.0,388525.4117647059
+Austria,"Meat, Total",2009,587198.0,398286.76470588235
+Austria,"Meat, Total",2010,508286.55555555556,406168.5294117647
+Austria,"Meat, Total",2011,583596.7777777778,404584.4705882353
+Austria,"Meat, Total",2012,582766.0,398339.29411764705
+Austria,"Meat, Total",2013,610441.0,401015.76470588235
+Austria,"Meat, Total",2014,579571.5555555555,397449.0588235294
+Austria,"Meat, Total",2015,476158.1111111111,404713.76470588235
+Austria,"Meat, Total",2016,536666.25,405163.17647058825
+Austria,"Meat, Total",2017,569895.625,399002.70588235295
+Austria,"Meat, Total",2018,2293932.0,2194903.0
+Austria,"Meat, Total",2019,2265817.0,2193946.0
+Austria,"Meat, Total",2020,2216027.0,2167908.0
+Austria,"Meat, Total",2021,2291142.0,2141357.0
+Austria,"Meat, Total",2022,2423140.0,2102476.0
+Austria,"Milk, Total",2000,880842.0,1367539.0
+Austria,"Milk, Total",2001,1002944.0,1395169.0
+Austria,"Milk, Total",2002,994808.0,1391825.0
+Austria,"Milk, Total",2003,1102934.0,1364640.0
+Austria,"Milk, Total",2004,1170261.0,1325536.0
+Austria,"Milk, Total",2005,1158867.0,1316949.0
+Austria,"Milk, Total",2006,1200577.0,1330033.0
+Austria,"Milk, Total",2007,1492615.0,1336307.0
+Austria,"Milk, Total",2008,1853735.0,1353291.0
+Austria,"Milk, Total",2009,1331260.0,1369790.0
+Austria,"Milk, Total",2010,1400615.0,1382466.0
+Austria,"Milk, Total",2011,1661741.0,1405104.0
+Austria,"Milk, Total",2012,1508350.0,1437190.0
+Austria,"Milk, Total",2013,1732253.0,1442470.0
+Austria,"Milk, Total",2014,1870151.0,1483979.0
+Austria,"Milk, Total",2015,1354212.0,1501948.0
+Austria,"Milk, Total",2016,1291087.0,1540441.0
+Austria,"Milk, Total",2017,1601919.0,1578837.0
+Austria,"Milk, Total",2018,1864846.0,1627588.0
+Austria,"Milk, Total",2019,1608866.0,1610695.0
+Austria,"Milk, Total",2020,1685168.0,1622722.0
+Austria,"Milk, Total",2021,1842423.0,1628978.0
+Austria,"Milk, Total",2022,2124903.0,1676496.0
+Austria,Raw milk of cattle,2000,863738.0,1341894.0
+Austria,Raw milk of cattle,2001,983832.0,1369457.0
+Austria,Raw milk of cattle,2002,975950.0,1366401.0
+Austria,Raw milk of cattle,2003,1082704.0,1340536.0
+Austria,Raw milk of cattle,2004,1149131.0,1302119.0
+Austria,Raw milk of cattle,2005,1138435.0,1292297.0
+Austria,Raw milk of cattle,2006,1180342.0,1305993.0
+Austria,Raw milk of cattle,2007,1459640.0,1309484.0
+Austria,Raw milk of cattle,2008,1821040.0,1326451.0
+Austria,Raw milk of cattle,2009,1301257.0,1340505.0
+Austria,Raw milk of cattle,2010,1369072.0,1352096.0
+Austria,Raw milk of cattle,2011,1624992.0,1372596.0
+Austria,Raw milk of cattle,2012,1473041.0,1403702.0
+Austria,Raw milk of cattle,2013,1694399.0,1408259.0
+Austria,Raw milk of cattle,2014,1833431.0,1450097.0
+Austria,Raw milk of cattle,2015,1322788.0,1468316.0
+Austria,Raw milk of cattle,2016,1256823.0,1505607.0
+Austria,Raw milk of cattle,2017,1564436.0,1540936.0
+Austria,Wheat,2000,133710.0,200728.0
+Austria,Wheat,2001,144481.0,230589.0
+Austria,Wheat,2002,132272.0,219264.0
+Austria,Wheat,2003,145225.0,182140.0
+Austria,Wheat,2004,187803.0,262777.0
+Austria,Wheat,2005,148180.0,222148.0
+Austria,Wheat,2006,183931.0,213469.0
+Austria,Wheat,2007,361998.0,213933.0
+Austria,Wheat,2008,334126.0,258322.0
+Austria,Wheat,2009,192590.0,232895.0
+Austria,Wheat,2010,370241.0,232044.0
+Austria,Wheat,2011,389397.0,272410.0
+Austria,Wheat,2012,345775.0,195000.0
+Austria,Wheat,2013,314048.0,244260.0
+Austria,Wheat,2014,323546.0,275801.0
+Austria,Wheat,2015,262318.0,263833.0
+Austria,Wheat,2016,250815.0,301232.0
+Austria,Wheat,2017,235409.0,219713.0
+Belgium,Barley,2000,31760.0,52610.0
+Belgium,Barley,2001,32233.0,58180.0
+Belgium,Barley,2002,28381.0,54077.0
+Belgium,Barley,2003,32711.0,42741.0
+Belgium,Barley,2004,34814.0,48093.0
+Belgium,Barley,2005,35263.0,47599.0
+Belgium,Barley,2006,50418.0,57967.0
+Belgium,Barley,2007,92050.0,59088.0
+Belgium,Barley,2008,63615.0,51879.0
+Belgium,Barley,2009,54318.0,71408.0
+Belgium,Barley,2010,72966.0,58922.0
+Belgium,Barley,2011,82034.0,53597.0
+Belgium,Barley,2012,99711.0,56665.0
+Belgium,Barley,2013,88718.0,60849.0
+Belgium,Barley,2014,73864.0,63115.0
+Belgium,Barley,2015,68568.0,68507.0
+Belgium,Barley,2016,45192.0,54529.0
+Belgium,Barley,2017,56941.0,60141.0
+Belgium,"Cereals, primary",2000,244631.0,420729.0
+Belgium,"Cereals, primary",2001,216333.0,391671.0
+Belgium,"Cereals, primary",2002,231558.0,438196.0
+Belgium,"Cereals, primary",2003,309388.0,424546.0
+Belgium,"Cereals, primary",2004,373615.0,489320.0
+Belgium,"Cereals, primary",2005,304967.0,462631.0
+Belgium,"Cereals, primary",2006,383055.0,445473.0
+Belgium,"Cereals, primary",2007,627620.0,448101.0
+Belgium,"Cereals, primary",2008,705499.0,513102.0
+Belgium,"Cereals, primary",2009,459072.0,536941.0
+Belgium,"Cereals, primary",2010,594973.0,503684.0
+Belgium,"Cereals, primary",2011,751038.0,484000.0
+Belgium,"Cereals, primary",2012,801884.0,491720.0
+Belgium,"Cereals, primary",2013,753164.0,511159.0
+Belgium,"Cereals, primary",2014,641292.0,527798.0
+Belgium,"Cereals, primary",2015,508724.0,528675.0
+Belgium,"Cereals, primary",2016,313554.0,380844.0
+Belgium,"Cereals, primary",2017,413816.0,460501.0
+Belgium,"Cereals, primary",2018,461582.0,407569.0
+Belgium,"Cereals, primary",2019,466973.0,471286.0
+Belgium,"Cereals, primary",2020,484612.0,429101.0
+Belgium,"Cereals, primary",2021,617327.0,408355.0
+Belgium,"Cereals, primary",2022,819379.0,466937.0
+Belgium,"Hen eggs in shell, fresh",2000,113349.0,118688.0
+Belgium,"Hen eggs in shell, fresh",2001,111650.0,129903.0
+Belgium,"Hen eggs in shell, fresh",2002,118693.0,119972.0
+Belgium,"Hen eggs in shell, fresh",2003,199870.0,118749.0
+Belgium,"Hen eggs in shell, fresh",2004,115636.0,126572.0
+Belgium,"Hen eggs in shell, fresh",2005,103534.0,109894.0
+Belgium,"Hen eggs in shell, fresh",2006,149510.0,118566.0
+Belgium,"Hen eggs in shell, fresh",2007,193752.0,106465.0
+Belgium,"Hen eggs in shell, fresh",2008,189273.0,98642.0
+Belgium,"Hen eggs in shell, fresh",2009,189654.0,93258.0
+Belgium,"Hen eggs in shell, fresh",2010,174342.0,103231.0
+Belgium,"Hen eggs in shell, fresh",2011,97026.0,103731.0
+Belgium,"Hen eggs in shell, fresh",2012,147095.0,93823.0
+Belgium,"Hen eggs in shell, fresh",2013,109772.0,106056.0
+Belgium,"Hen eggs in shell, fresh",2014,103041.0,92818.0
+Belgium,"Hen eggs in shell, fresh",2015,95255.0,90468.0
+Belgium,"Hen eggs in shell, fresh",2016,79080.0,94486.0
+Belgium,"Hen eggs in shell, fresh",2017,108158.0,84536.0
+Belgium,"Meat, Total",2000,1876178.0,2315039.6666666665
+Belgium,"Meat, Total",2001,2031166.0,2347607.6666666665
+Belgium,"Meat, Total",2002,2450147.0,2368234.3333333335
+Belgium,"Meat, Total",2003,3185789.0,2289450.6666666665
+Belgium,"Meat, Total",2004,3754791.0,2333066.6666666665
+Belgium,"Meat, Total",2005,3637617.0,2228412.0
+Belgium,"Meat, Total",2006,3919549.0,2265014.3333333335
+Belgium,"Meat, Total",2007,4123910.0,2318366.3333333335
+Belgium,"Meat, Total",2008,4523001.0,2265254.3333333335
+Belgium,"Meat, Total",2009,3968967.0,2249016.0
+Belgium,"Meat, Total",2010,4075263.0,2386649.6666666665
+Belgium,"Meat, Total",2011,4545454.0,2364556.6666666665
+Belgium,"Meat, Total",2012,4455436.0,2341173.3333333335
+Belgium,"Meat, Total",2013,4559139.0,2345900.3333333335
+Belgium,"Meat, Total",2014,4411713.0,2366084.6666666665
+Belgium,"Meat, Total",2015,3448003.0,2427141.6666666665
+Belgium,"Meat, Total",2016,3428281.0,2354086.0
+Belgium,"Meat, Total",2017,3747303.0,2369408.6666666665
+Belgium,"Meat, Total",2018,3685800.0,4010134.0
+Belgium,"Meat, Total",2019,3501072.0,3749894.0
+Belgium,"Meat, Total",2020,3726117.0,3852762.0
+Belgium,"Meat, Total",2021,3916633.0,3772767.0
+Belgium,"Meat, Total",2022,3276170.0,3579140.0
+Belgium,"Milk, Total",2000,1019290.0,1267502.0
+Belgium,"Milk, Total",2001,1047566.0,1269220.0
+Belgium,"Milk, Total",2002,946744.0,1191912.0
+Belgium,"Milk, Total",2003,1036117.0,1168204.0
+Belgium,"Milk, Total",2004,1090415.0,1051384.0
+Belgium,"Milk, Total",2005,1038304.0,1039358.0
+Belgium,"Milk, Total",2006,917171.0,974739.0
+Belgium,"Milk, Total",2007,1279350.0,989069.0
+Belgium,"Milk, Total",2008,1292106.0,978965.0
+Belgium,"Milk, Total",2009,932121.0,1015096.0
+Belgium,"Milk, Total",2010,1189154.0,1053662.0
+Belgium,"Milk, Total",2011,1377359.0,1065488.0
+Belgium,"Milk, Total",2012,1136041.0,1055410.0
+Belgium,"Milk, Total",2013,1648309.0,1193630.0
+Belgium,"Milk, Total",2014,1719174.0,1267653.0
+Belgium,"Milk, Total",2015,1163041.0,1370286.0
+Belgium,"Milk, Total",2016,1060354.0,1333686.0
+Belgium,"Milk, Total",2017,1478463.0,1383091.0
+Belgium,"Milk, Total",2018,1475828.0,1441358.0
+Belgium,"Milk, Total",2019,1453017.0,1475030.0
+Belgium,"Milk, Total",2020,1458556.0,1531379.0
+Belgium,"Milk, Total",2021,1740569.0,1524850.0
+Belgium,"Milk, Total",2022,2359960.0,1570891.0
+Belgium,Raw milk of cattle,2000,1019290.0,1267502.0
+Belgium,Raw milk of cattle,2001,1047566.0,1269220.0
+Belgium,Raw milk of cattle,2002,946744.0,1191912.0
+Belgium,Raw milk of cattle,2003,1036117.0,1168204.0
+Belgium,Raw milk of cattle,2004,1090415.0,1051384.0
+Belgium,Raw milk of cattle,2005,1038304.0,1039358.0
+Belgium,Raw milk of cattle,2006,917171.0,974739.0
+Belgium,Raw milk of cattle,2007,1279350.0,989069.0
+Belgium,Raw milk of cattle,2008,1292106.0,978965.0
+Belgium,Raw milk of cattle,2009,932121.0,1015096.0
+Belgium,Raw milk of cattle,2010,1189154.0,1053662.0
+Belgium,Raw milk of cattle,2011,1377359.0,1065488.0
+Belgium,Raw milk of cattle,2012,1136041.0,1055410.0
+Belgium,Raw milk of cattle,2013,1648309.0,1193630.0
+Belgium,Raw milk of cattle,2014,1719174.0,1267653.0
+Belgium,Raw milk of cattle,2015,1163041.0,1370286.0
+Belgium,Raw milk of cattle,2016,1060354.0,1333686.0
+Belgium,Raw milk of cattle,2017,1478463.0,1383091.0
+Belgium,Wheat,2000,171989.0,302625.0
+Belgium,Wheat,2001,141635.0,261329.0
+Belgium,Wheat,2002,156056.0,300347.0
+Belgium,Wheat,2003,207360.0,294137.0
+Belgium,Wheat,2004,261298.0,343055.0
+Belgium,Wheat,2005,202330.0,317097.0
+Belgium,Wheat,2006,253954.0,298009.0
+Belgium,Wheat,2007,386239.0,282836.0
+Belgium,Wheat,2008,463753.0,331800.0
+Belgium,Wheat,2009,293178.0,342444.0
+Belgium,Wheat,2010,382025.0,331652.0
+Belgium,Wheat,2011,465978.0,302633.0
+Belgium,Wheat,2012,526341.0,328970.0
+Belgium,Wheat,2013,475975.0,323398.0
+Belgium,Wheat,2014,436771.0,357655.0
+Belgium,Wheat,2015,345954.0,362093.0
+Belgium,Wheat,2016,206705.0,251050.0
+Belgium,Wheat,2017,271930.0,305318.0
+Brazil,Barley,2000,29219.0,52214.0
+Brazil,Barley,2001,28266.0,54983.0
+Brazil,Barley,2002,1993701.0,45157.0
+Brazil,Barley,2003,1993701.0,63751.0
+Brazil,Barley,2004,1993701.0,73322.0
+Brazil,Barley,2005,1993701.0,60231.0
+Brazil,Barley,2006,1993701.0,37466.0
+Brazil,Barley,2007,1993701.0,43491.0
+Brazil,Barley,2008,1993701.0,43737.0
+Brazil,Barley,2009,1993701.0,37154.0
+Brazil,Barley,2010,1993701.0,51426.0
+Brazil,Barley,2011,1993701.0,56099.0
+Brazil,Barley,2012,1993701.0,48928.0
+Brazil,Barley,2013,1993701.0,61049.0
+Brazil,Barley,2014,1993701.0,46438.0
+Brazil,Barley,2015,1993701.0,34391.0
+Brazil,Barley,2016,1993701.0,70096.0
+Brazil,Barley,2017,1993701.0,55889.0
+Brazil,Barley,2018,69540.0,60992.0
+Brazil,Barley,2019,90743.0,74883.0
+Brazil,Barley,2020,89410.0,71473.0
+Brazil,Barley,2021,133902.0,83599.0
+Brazil,Barley,2022,177432.0,96368.0
+Brazil,"Cereals, primary",2000,5394217.0,9103048.0
+Brazil,"Cereals, primary",2001,4643495.0,10822866.0
+Brazil,"Cereals, primary",2002,5075488.0,9798963.0
+Brazil,"Cereals, primary",2003,7979243.0,12594431.0
+Brazil,"Cereals, primary",2004,8184071.0,12292496.0
+Brazil,"Cereals, primary",2005,7717564.0,10906187.0
+Brazil,"Cereals, primary",2006,8161367.0,11235297.0
+Brazil,"Cereals, primary",2007,12941720.0,12998032.0
+Brazil,"Cereals, primary",2008,18997354.0,14866323.0
+Brazil,"Cereals, primary",2009,13690958.0,13416497.0
+Brazil,"Cereals, primary",2010,15195366.0,14029803.0
+Brazil,"Cereals, primary",2011,20502359.0,14644555.0
+Brazil,"Cereals, primary",2012,21093305.0,16462523.0
+Brazil,"Cereals, primary",2013,22134531.0,18375343.0
+Brazil,"Cereals, primary",2014,20887287.0,18510950.0
+Brazil,"Cereals, primary",2015,16026032.0,19290883.0
+Brazil,"Cereals, primary",2016,16037609.0,15506649.0
+Brazil,"Cereals, primary",2017,22458112.0,21283181.0
+Brazil,"Cereals, primary",2018,14128112.0,18732447.0
+Brazil,"Cereals, primary",2019,15784714.0,21577560.0
+Brazil,"Cereals, primary",2020,18113722.0,22418169.0
+Brazil,"Cereals, primary",2021,27968108.0,20250475.0
+Brazil,"Cereals, primary",2022,33788772.0,24150476.0
+Brazil,"Hen eggs in shell, fresh",2000,1490156.0,3405216.0
+Brazil,"Hen eggs in shell, fresh",2001,1247901.0,3472169.0
+Brazil,"Hen eggs in shell, fresh",2002,552838.0,3491022.0
+Brazil,"Hen eggs in shell, fresh",2003,775595.0,3544379.0
+Brazil,"Hen eggs in shell, fresh",2004,885721.0,3645398.0
+Brazil,"Hen eggs in shell, fresh",2005,1120931.0,3778490.0
+Brazil,"Hen eggs in shell, fresh",2006,1217259.0,3971170.0
+Brazil,"Hen eggs in shell, fresh",2007,1497020.0,4013694.0
+Brazil,"Hen eggs in shell, fresh",2008,1879375.0,4161411.0
+Brazil,"Hen eggs in shell, fresh",2009,1761457.0,4335606.0
+Brazil,"Hen eggs in shell, fresh",2010,2001453.0,4394514.0
+Brazil,"Hen eggs in shell, fresh",2011,4473878.0,4594239.0
+Brazil,"Hen eggs in shell, fresh",2012,4751014.0,4700867.0
+Brazil,"Hen eggs in shell, fresh",2013,5503911.0,4898710.0
+Brazil,"Hen eggs in shell, fresh",2014,5975728.0,5054483.0
+Brazil,"Hen eggs in shell, fresh",2015,4479569.0,5100479.0
+Brazil,"Hen eggs in shell, fresh",2016,4788969.0,5097508.0
+Brazil,"Hen eggs in shell, fresh",2017,1993701.0,6503136.0
+Brazil,"Hen eggs in shell, fresh",2018,3841393.0,6836044.0
+Brazil,"Hen eggs in shell, fresh",2019,3845721.0,7106347.0
+Brazil,"Hen eggs in shell, fresh",2020,3455180.0,7355720.0
+Brazil,"Hen eggs in shell, fresh",2021,4202672.0,7440248.0
+Brazil,"Hen eggs in shell, fresh",2022,5229983.0,7540178.0
+Brazil,"Meat, Total",2000,8681144.0,11278664.857142856
+Brazil,"Meat, Total",2001,7606515.0,11681274.714285715
+Brazil,"Meat, Total",2002,7247910.666666667,12544118.714285715
+Brazil,"Meat, Total",2003,8352551.0,13170761.857142856
+Brazil,"Meat, Total",2004,10172065.666666666,14247277.142857144
+Brazil,"Meat, Total",2005,12553876.0,14476538.142857144
+Brazil,"Meat, Total",2006,14238640.666666666,15088568.57142857
+Brazil,"Meat, Total",2007,37775443.0,15932414.0
+Brazil,"Meat, Total",2008,43915055.0,16356414.285714285
+Brazil,"Meat, Total",2009,42255506.0,16176419.857142856
+Brazil,"Meat, Total",2010,52449089.0,16775361.714285715
+Brazil,"Meat, Total",2011,59185366.0,17100652.285714287
+Brazil,"Meat, Total",2012,54823551.0,17431334.0
+Brazil,"Meat, Total",2013,53668221.0,18001310.714285713
+Brazil,"Meat, Total",2014,52555545.0,18377355.85714286
+Brazil,"Meat, Total",2015,39212787.0,18558267.14285714
+Brazil,"Meat, Total",2016,39127996.0,18619971.14285714
+Brazil,"Meat, Total",2017,45851915.0,19155839.0
+Brazil,"Meat, Total",2018,42103921.0,19472964.57142857
+Brazil,"Meat, Total",2019,41286181.0,19866545.85714286
+Brazil,"Meat, Total",2020,32905325.0,19974132.42857143
+Brazil,"Meat, Total",2021,33011540.0,20263631.14285714
+Brazil,"Meat, Total",2022,37171086.0,21124433.85714286
+Brazil,"Milk, Total",2000,3509779.0,7738775.0
+Brazil,"Milk, Total",2001,2759513.0,8022817.0
+Brazil,"Milk, Total",2002,2689681.0,8460958.0
+Brazil,"Milk, Total",2003,3433679.0,8697362.0
+Brazil,"Milk, Total",2004,4007275.0,9173957.0
+Brazil,"Milk, Total",2005,5355910.0,9619576.0
+Brazil,"Milk, Total",2006,5875378.0,9921379.0
+Brazil,"Milk, Total",2007,7871588.0,9898440.0
+Brazil,"Milk, Total",2008,10539886.0,10763360.0
+Brazil,"Milk, Total",2009,10092810.0,11004783.0
+Brazil,"Milk, Total",2010,13584623.0,11964687.0
+Brazil,"Milk, Total",2011,16008693.0,12505725.0
+Brazil,"Milk, Total",2012,14971015.0,12586636.0
+Brazil,"Milk, Total",2013,16726088.0,13343183.0
+Brazil,"Milk, Total",2014,16998836.0,13669210.0
+Brazil,"Milk, Total",2015,11764322.0,13474229.0
+Brazil,"Milk, Total",2016,11585391.0,13115602.0
+Brazil,"Milk, Total",2017,12528655.0,12975523.0
+Brazil,"Milk, Total",2018,10841746.0,13208184.0
+Brazil,"Milk, Total",2019,11026303.0,13602980.0
+Brazil,"Milk, Total",2020,11318440.0,13759439.0
+Brazil,"Milk, Total",2021,13040238.0,13706752.0
+Brazil,"Milk, Total",2022,16030604.0,13486958.0
+Brazil,Raw milk of cattle,2000,3464620.0,7660479.0
+Brazil,Raw milk of cattle,2001,2726923.0,7948334.0
+Brazil,Raw milk of cattle,2002,2655238.0,8387703.0
+Brazil,Raw milk of cattle,2003,3398133.0,8624145.0
+Brazil,Raw milk of cattle,2004,3964922.0,9097259.0
+Brazil,Raw milk of cattle,2005,5300173.0,9541438.0
+Brazil,Raw milk of cattle,2006,5808180.0,9842692.0
+Brazil,Raw milk of cattle,2007,7796479.0,9824538.0
+Brazil,Raw milk of cattle,2008,10456200.0,10690280.0
+Brazil,Raw milk of cattle,2009,10012777.0,10932726.0
+Brazil,Raw milk of cattle,2010,13487570.0,11891763.0
+Brazil,Raw milk of cattle,2011,15892258.0,12426334.0
+Brazil,Raw milk of cattle,2012,14864391.0,12506943.0
+Brazil,Raw milk of cattle,2013,16623348.0,13262218.0
+Brazil,Raw milk of cattle,2014,16913180.0,13598707.0
+Brazil,Raw milk of cattle,2015,11697275.0,13399409.0
+Brazil,Raw milk of cattle,2016,11517886.0,13039666.0
+Brazil,Raw milk of cattle,2017,1993701.0,12897094.0
+Brazil,Raw milk of cattle,2018,10768034.0,13127744.0
+Brazil,Raw milk of cattle,2019,10952475.0,13519066.0
+Brazil,Raw milk of cattle,2020,11258316.0,13673161.0
+Brazil,Raw milk of cattle,2021,12981489.0,13621436.0
+Brazil,Raw milk of cattle,2022,15965453.0,13399266.0
+Brazil,Wheat,2000,204710.0,345224.0
+Brazil,Wheat,2001,359643.0,673448.0
+Brazil,Wheat,2002,396130.0,621250.0
+Brazil,Wheat,2003,909778.0,1230934.0
+Brazil,Wheat,2004,815605.0,1163991.0
+Brazil,Wheat,2005,661769.0,931935.0
+Brazil,Wheat,2006,388382.0,497064.0
+Brazil,Wheat,2007,933275.0,822968.0
+Brazil,Wheat,2008,1673582.0,1205655.0
+Brazil,Wheat,2009,1080943.0,1011297.0
+Brazil,Wheat,2010,1438253.0,1234485.0
+Brazil,Wheat,2011,1394594.0,1138225.0
+Brazil,Wheat,2012,1993701.0,883846.0
+Brazil,Wheat,2013,1993701.0,1147913.0
+Brazil,Wheat,2014,1993701.0,1252617.0
+Brazil,Wheat,2015,1993701.0,1101900.0
+Brazil,Wheat,2016,1993701.0,1367144.0
+Brazil,Wheat,2017,1993701.0,868728.0
+Brazil,Wheat,2018,1048754.0,1094055.0
+Brazil,Wheat,2019,1028801.0,1118376.0
+Brazil,Wheat,2020,1313975.0,1269057.0
+Brazil,Wheat,2021,2039961.0,1575982.0
+Brazil,Wheat,2022,3039682.0,2069030.0
+Canada,Barley,2000,944200.0,2246973.0
+Canada,Barley,2001,889328.0,1842203.0
+Canada,Barley,2002,718551.0,1268443.0
+Canada,Barley,2003,1137328.0,2066177.0
+Canada,Barley,2004,1187144.0,2132846.0
+Canada,Barley,2005,876928.0,1983524.0
+Canada,Barley,2006,843891.0,1626060.0
+Canada,Barley,2007,1675931.0,1853108.0
+Canada,Barley,2008,2441108.0,2001903.0
+Canada,Barley,2009,1567056.0,1618433.0
+Canada,Barley,2010,1081019.0,1295535.0
+Canada,Barley,2011,1539598.0,1340428.0
+Canada,Barley,2012,1801909.0,1360947.0
+Canada,Barley,2013,2439508.0,1746404.0
+Canada,Barley,2014,1203879.0,1208840.0
+Canada,Barley,2015,1437754.0,1402443.0
+Canada,Barley,2016,1469793.0,1501436.0
+Canada,Barley,2017,1174026.0,1340394.0
+Canada,Barley,2018,1373727.0,1423352.0
+Canada,Barley,2019,1761952.0,1763559.0
+Canada,Barley,2020,1728071.0,1824368.0
+Canada,Barley,2021,1470692.0,1163205.0
+Canada,Barley,2022,2880631.0,1696310.0
+Canada,"Cereals, primary",2000,4228250.0,8908463.0
+Canada,"Cereals, primary",2001,4144189.0,7506833.0
+Canada,"Cereals, primary",2002,3852840.0,6196988.0
+Canada,"Cereals, primary",2003,5446654.0,8518936.0
+Canada,"Cereals, primary",2004,5557597.0,8833830.0
+Canada,"Cereals, primary",2005,4670327.0,8854131.0
+Canada,"Cereals, primary",2006,5064802.0,8411733.0
+Canada,"Cereals, primary",2007,7836968.0,8191656.0
+Canada,"Cereals, primary",2008,13305884.0,9696606.0
+Canada,"Cereals, primary",2009,8788664.0,8645941.0
+Canada,"Cereals, primary",2010,7729171.0,7952607.0
+Canada,"Cereals, primary",2011,11102528.0,8342895.0
+Canada,"Cereals, primary",2012,12900034.0,8949096.0
+Canada,"Cereals, primary",2013,16150580.0,11529342.0
+Canada,"Cereals, primary",2014,9465447.0,8962386.0
+Canada,"Cereals, primary",2015,9144963.0,9221357.0
+Canada,"Cereals, primary",2016,9697584.0,10187062.0
+Canada,"Cereals, primary",2017,9403698.0,9787792.0
+Canada,"Cereals, primary",2018,10259652.0,10161310.0
+Canada,"Cereals, primary",2019,10634070.0,10625708.0
+Canada,"Cereals, primary",2020,11293329.0,11320212.0
+Canada,"Cereals, primary",2021,11168752.0,8128674.0
+Canada,"Cereals, primary",2022,20372730.0,11209929.0
+Canada,"Hen eggs in shell, fresh",2000,395534.0,683935.0
+Canada,"Hen eggs in shell, fresh",2001,407249.0,707701.0
+Canada,"Hen eggs in shell, fresh",2002,416086.0,719529.0
+Canada,"Hen eggs in shell, fresh",2003,471662.0,721806.0
+Canada,"Hen eggs in shell, fresh",2004,504625.0,692531.0
+Canada,"Hen eggs in shell, fresh",2005,519717.0,733285.0
+Canada,"Hen eggs in shell, fresh",2006,564438.0,733931.0
+Canada,"Hen eggs in shell, fresh",2007,621636.0,731772.0
+Canada,"Hen eggs in shell, fresh",2008,738908.0,769564.0
+Canada,"Hen eggs in shell, fresh",2009,700130.0,775127.0
+Canada,"Hen eggs in shell, fresh",2010,811822.0,829229.0
+Canada,"Hen eggs in shell, fresh",2011,941361.0,843114.0
+Canada,"Hen eggs in shell, fresh",2012,1011620.0,859258.0
+Canada,"Hen eggs in shell, fresh",2013,1046201.0,868717.0
+Canada,"Hen eggs in shell, fresh",2014,952319.0,870498.0
+Canada,"Hen eggs in shell, fresh",2015,886073.0,913346.0
+Canada,"Hen eggs in shell, fresh",2016,913555.0,976158.0
+Canada,"Hen eggs in shell, fresh",2017,987154.0,1013166.0
+Canada,"Hen eggs in shell, fresh",2018,1065579.0,1058380.0
+Canada,"Hen eggs in shell, fresh",2019,1095148.0,1087075.0
+Canada,"Hen eggs in shell, fresh",2020,1125976.0,1109834.0
+Canada,"Hen eggs in shell, fresh",2021,1331257.0,1121252.0
+Canada,"Hen eggs in shell, fresh",2022,1493850.0,1145865.0
+Canada,"Meat, Total",2000,6547556.0,11866842.0
+Canada,"Meat, Total",2001,6904255.0,12134154.0
+Canada,"Meat, Total",2002,6357875.0,12511491.0
+Canada,"Meat, Total",2003,6603752.0,12065205.0
+Canada,"Meat, Total",2004,7883664.0,13735361.0
+Canada,"Meat, Total",2005,8751966.0,13650214.0
+Canada,"Meat, Total",2006,8464750.0,12863091.0
+Canada,"Meat, Total",2007,8873375.0,12606670.0
+Canada,"Meat, Total",2008,9305736.0,12869924.0
+Canada,"Meat, Total",2009,8335192.0,12468440.0
+Canada,"Meat, Total",2010,9783402.0,12432873.0
+Canada,"Meat, Total",2011,10623163.0,10800807.0
+Canada,"Meat, Total",2012,10381044.0,10203206.0
+Canada,"Meat, Total",2013,10431937.0,10189811.0
+Canada,"Meat, Total",2014,13260492.0,11678564.0
+Canada,"Meat, Total",2015,11721588.0,11644279.0
+Canada,"Meat, Total",2016,10495780.0,12297264.0
+Canada,"Meat, Total",2017,11462156.0,12982609.0
+Canada,"Meat, Total",2018,13349108.0,13514990.0
+Canada,"Meat, Total",2019,12960929.0,13913178.0
+Canada,"Meat, Total",2020,13056277.0,13939148.0
+Canada,"Meat, Total",2021,14796997.0,14250811.0
+Canada,"Meat, Total",2022,15950763.0,14481509.0
+Canada,"Milk, Total",2000,2950951.0,4987010.0
+Canada,"Milk, Total",2001,2868084.0,4953400.0
+Canada,"Milk, Total",2002,2847004.0,4866627.0
+Canada,"Milk, Total",2003,3289889.0,4726079.0
+Canada,"Milk, Total",2004,3645657.0,4830574.0
+Canada,"Milk, Total",2005,4122661.0,4770077.0
+Canada,"Milk, Total",2006,4617337.0,4913680.0
+Canada,"Milk, Total",2007,5204504.0,4977232.0
+Canada,"Milk, Total",2008,5337002.0,4974177.0
+Canada,"Milk, Total",2009,5116589.0,5018969.0
+Canada,"Milk, Total",2010,5534147.0,4834282.0
+Canada,"Milk, Total",2011,6070836.0,4899742.0
+Canada,"Milk, Total",2012,6117070.0,5027636.0
+Canada,"Milk, Total",2013,5906388.0,4926643.0
+Canada,"Milk, Total",2014,5678020.0,4930550.0
+Canada,"Milk, Total",2015,4870478.0,5151499.0
+Canada,"Milk, Total",2016,4818690.0,5336599.0
+Canada,"Milk, Total",2017,5226696.0,5660241.0
+Canada,"Milk, Total",2018,5302322.0,5820266.0
+Canada,"Milk, Total",2019,5441614.0,5812580.0
+Canada,"Milk, Total",2020,5492056.0,5891144.0
+Canada,"Milk, Total",2021,6102779.0,5993018.0
+Canada,"Milk, Total",2022,6499794.0,5953455.0
+Canada,Raw milk of cattle,2000,2950951.0,4987010.0
+Canada,Raw milk of cattle,2001,2868084.0,4953400.0
+Canada,Raw milk of cattle,2002,2847004.0,4866627.0
+Canada,Raw milk of cattle,2003,3289889.0,4726079.0
+Canada,Raw milk of cattle,2004,3645657.0,4830574.0
+Canada,Raw milk of cattle,2005,4122661.0,4770077.0
+Canada,Raw milk of cattle,2006,4617337.0,4913680.0
+Canada,Raw milk of cattle,2007,5204504.0,4977232.0
+Canada,Raw milk of cattle,2008,5337002.0,4974177.0
+Canada,Raw milk of cattle,2009,5116589.0,5018969.0
+Canada,Raw milk of cattle,2010,5534147.0,4834282.0
+Canada,Raw milk of cattle,2011,6070836.0,4899742.0
+Canada,Raw milk of cattle,2012,6117070.0,5027636.0
+Canada,Raw milk of cattle,2013,5906388.0,4926643.0
+Canada,Raw milk of cattle,2014,5678020.0,4930550.0
+Canada,Raw milk of cattle,2015,4870478.0,5151499.0
+Canada,Raw milk of cattle,2016,4818690.0,5336599.0
+Canada,Raw milk of cattle,2017,5226696.0,5660241.0
+Canada,Raw milk of cattle,2018,5302322.0,5820266.0
+Canada,Raw milk of cattle,2019,5441614.0,5812580.0
+Canada,Raw milk of cattle,2020,5492056.0,5891144.0
+Canada,Raw milk of cattle,2021,6102779.0,5993018.0
+Canada,Raw milk of cattle,2022,6499794.0,5953455.0
+Canada,Wheat,2000,2430024.0,4849812.0
+Canada,Wheat,2001,2077939.0,3770518.0
+Canada,Wheat,2002,1820603.0,2917198.0
+Canada,Wheat,2003,2813012.0,4212522.0
+Canada,Wheat,2004,2915997.0,4531797.0
+Canada,Wheat,2005,2528490.0,4705901.0
+Canada,Wheat,2006,2717189.0,4617679.0
+Canada,Wheat,2007,3589562.0,3671861.0
+Canada,Wheat,2008,7839300.0,5230643.0
+Canada,Wheat,2009,5158934.0,4925550.0
+Canada,Wheat,2010,4125614.0,4258396.0
+Canada,Wheat,2011,5994938.0,4621810.0
+Canada,Wheat,2012,6916977.0,4979668.0
+Canada,Wheat,2013,9502571.0,6870044.0
+Canada,Wheat,2014,5667987.0,5381042.0
+Canada,Wheat,2015,5016929.0,5053030.0
+Canada,Wheat,2016,5602840.0,5874111.0
+Canada,Wheat,2017,5488768.0,5551954.0
+Canada,Wheat,2018,6137988.0,5912857.0
+Canada,Wheat,2019,5885420.0,5970959.0
+Canada,Wheat,2020,6445348.0,6476748.0
+Canada,Wheat,2021,5758074.0,4098018.0
+Canada,Wheat,2022,11722667.0,6275263.0
+China,Barley,2000,1993701.0,1075046.0
+China,Barley,2001,1993701.0,1175400.0
+China,Barley,2002,1993701.0,1349699.0
+China,Barley,2003,1993701.0,1320243.0
+China,Barley,2004,1993701.0,1308989.0
+China,Barley,2005,1993701.0,1399307.0
+China,Barley,2006,1993701.0,1271529.0
+China,Barley,2007,651843.0,1131562.0
+China,Barley,2008,714940.0,1147041.0
+China,Barley,2009,672069.0,941905.0
+China,Barley,2010,611736.0,801287.0
+China,Barley,2011,570068.0,665139.0
+China,Barley,2012,592386.0,660548.0
+China,Barley,2013,684179.0,690289.0
+China,Barley,2014,1993701.0,736200.0
+China,Barley,2015,1993701.0,758952.0
+China,Barley,2016,1993701.0,538173.0
+China,Barley,2017,1993701.0,440907.0
+China,Barley,2018,1993701.0,821115.0
+China,Barley,2019,1993701.0,817052.0
+China,Barley,2020,1993701.0,827209.0
+China,Barley,2021,1993701.0,867025.0
+China,Barley,2022,1993701.0,796331.0
+China,"Cereals, primary",2000,95539375.0,179735421.0
+China,"Cereals, primary",2001,58240840.0,174541217.0
+China,"Cereals, primary",2002,55064366.0,174059539.0
+China,"Cereals, primary",2003,71740764.0,164236280.0
+China,"Cereals, primary",2004,99719584.0,180328622.0
+China,"Cereals, primary",2005,103403544.0,186592625.0
+China,"Cereals, primary",2006,120253503.0,195292588.0
+China,"Cereals, primary",2007,97185089.0,198544578.0
+China,"Cereals, primary",2008,119520557.0,207770142.0
+China,"Cereals, primary",2009,129680868.0,209471590.0
+China,"Cereals, primary",2010,142531026.0,215301832.0
+China,"Cereals, primary",2011,185093724.0,225196573.0
+China,"Cereals, primary",2012,216818065.0,233281328.0
+China,"Cereals, primary",2013,257487888.0,238399690.0
+China,"Cereals, primary",2014,243886733.0,240750512.0
+China,"Cereals, primary",2015,275588195.0,262851242.0
+China,"Cereals, primary",2016,242779035.0,261358903.0
+China,"Cereals, primary",2017,243879802.0,261526487.0
+China,"Cereals, primary",2018,251745612.0,259817586.0
+China,"Cereals, primary",2019,248764117.0,260811479.0
+China,"Cereals, primary",2020,249749079.0,262436734.0
+China,"Cereals, primary",2021,266509222.0,268583049.0
+China,"Cereals, primary",2022,252373537.0,268295118.0
+China,"Hen eggs in shell, fresh",2000,8537698.0,18472766.0
+China,"Hen eggs in shell, fresh",2001,9625142.0,18710777.0
+China,"Hen eggs in shell, fresh",2002,10147175.0,19226626.0
+China,"Hen eggs in shell, fresh",2003,10208143.0,19750718.0
+China,"Hen eggs in shell, fresh",2004,13050162.0,20067891.0
+China,"Hen eggs in shell, fresh",2005,13988754.0,20639697.0
+China,"Hen eggs in shell, fresh",2006,13181241.0,20520072.0
+China,"Hen eggs in shell, fresh",2007,18177863.0,21411346.0
+China,"Hen eggs in shell, fresh",2008,21746616.0,22874302.0
+China,"Hen eggs in shell, fresh",2009,22528166.0,23216238.0
+China,"Hen eggs in shell, fresh",2010,23587509.0,23387086.0
+China,"Hen eggs in shell, fresh",2011,32140299.0,23799291.0
+China,"Hen eggs in shell, fresh",2012,30631281.0,24220602.0
+China,"Hen eggs in shell, fresh",2013,33223823.0,24346113.0
+China,"Hen eggs in shell, fresh",2014,26832975.0,24497515.0
+China,"Hen eggs in shell, fresh",2015,23591529.0,25785494.0
+China,"Hen eggs in shell, fresh",2016,26480121.0,26754522.0
+China,"Hen eggs in shell, fresh",2017,29368654.0,26456599.0
+China,"Hen eggs in shell, fresh",2018,35386302.0,26738618.0
+China,"Hen eggs in shell, fresh",2019,44058045.0,28336514.0
+China,"Hen eggs in shell, fresh",2020,43683184.0,29701565.0
+China,"Hen eggs in shell, fresh",2021,32888772.0,29194498.0
+China,"Hen eggs in shell, fresh",2022,48259216.0,29077525.0
+China,"Meat, Total",2000,20496159.166666668,23575494.2
+China,"Meat, Total",2001,21976133.166666668,23885167.68
+China,"Meat, Total",2002,22299313.0,24370598.96
+China,"Meat, Total",2003,35981609.25,25282525.44
+China,"Meat, Total",2004,38970801.4,26030212.48
+China,"Meat, Total",2005,40544784.8,27242502.84
+China,"Meat, Total",2006,40395058.0,27969368.28
+China,"Meat, Total",2007,57311068.4,27530983.68
+China,"Meat, Total",2008,58842782.71428572,28848607.28
+China,"Meat, Total",2009,53740231.0,30079424.8
+China,"Meat, Total",2010,59485847.428571425,30952767.2
+China,"Meat, Total",2011,80615747.42857143,30871952.12
+China,"Meat, Total",2012,83536326.85714285,32233664.08
+China,"Meat, Total",2013,63794002.4,32706288.0
+China,"Meat, Total",2014,93788712.0,33340656.08
+China,"Meat, Total",2015,156704544.0,33607304.2
+China,"Meat, Total",2016,107214247.2,33132519.84
+China,"Meat, Total",2017,78593370.2,33370008.68
+China,"Meat, Total",2018,74860910.8,33613236.28
+China,"Meat, Total",2019,115128810.0,31800958.96
+China,"Meat, Total",2020,130693272.6,31811843.4
+China,"Meat, Total",2021,116803162.6,36129025.72
+China,"Meat, Total",2022,138761738.2,36975445.72
+China,"Milk, Total",2000,3327110.0,6622423.0
+China,"Milk, Total",2001,3131072.0,7763817.0
+China,"Milk, Total",2002,4738323.0,9287110.0
+China,"Milk, Total",2003,6390654.0,11765416.0
+China,"Milk, Total",2004,13858767.0,14505291.0
+China,"Milk, Total",2005,17273645.0,17319329.0
+China,"Milk, Total",2006,18414386.0,18392458.0
+China,"Milk, Total",2007,23022587.0,18436544.0
+China,"Milk, Total",2008,13659270.0,18824042.0
+China,"Milk, Total",2009,14474706.0,18908467.0
+China,"Milk, Total",2010,17263875.0,19219793.0
+China,"Milk, Total",2011,18985038.0,19556417.0
+China,"Milk, Total",2012,23093396.0,19847981.0
+China,"Milk, Total",2013,19119442.0,18879627.0
+China,"Milk, Total",2014,20329074.0,19790766.0
+China,"Milk, Total",2015,20076469.0,19720253.0
+China,"Milk, Total",2016,18241488.0,19104903.0
+China,"Milk, Total",2017,16794692.0,18924198.0
+China,"Milk, Total",2018,17522249.0,19153141.0
+China,"Milk, Total",2019,18970421.0,19864508.0
+China,"Milk, Total",2020,23111178.0,21167420.0
+China,"Milk, Total",2021,26643550.0,22496318.0
+China,"Milk, Total",2022,21600639.0,21805423.0
+China,Raw milk of cattle,2000,2430143.0,4517196.0
+China,Raw milk of cattle,2001,2361860.0,5598362.0
+China,Raw milk of cattle,2002,3781716.0,7095278.0
+China,Raw milk of cattle,2003,5365427.0,9532333.0
+China,Raw milk of cattle,2004,12236204.0,12339660.0
+China,Raw milk of cattle,2005,15592995.0,15029449.0
+China,Raw milk of cattle,2006,16472455.0,16073265.0
+China,Raw milk of cattle,2007,20770453.0,16086807.0
+China,Raw milk of cattle,2008,10959536.0,16433209.0
+China,Raw milk of cattle,2009,11401616.0,16348529.0
+China,Raw milk of cattle,2010,13914759.0,16587724.0
+China,Raw milk of cattle,2011,15353572.0,16975270.0
+China,Raw milk of cattle,2012,19263805.0,17330066.0
+China,Raw milk of cattle,2013,16515846.0,16379759.0
+China,Raw milk of cattle,2014,1993701.0,17248190.0
+China,Raw milk of cattle,2015,1993701.0,17356812.0
+China,Raw milk of cattle,2016,16006232.0,16724730.0
+China,Raw milk of cattle,2017,14670573.0,16586201.0
+China,Raw milk of cattle,2018,15360135.0,16782393.0
+China,Raw milk of cattle,2019,16917621.0,17473836.0
+China,Raw milk of cattle,2020,21086601.0,18777086.0
+China,Raw milk of cattle,2021,24498396.0,20101838.0
+China,Raw milk of cattle,2022,1993701.0,19439462.0
+China,Wheat,2000,11782762.0,38093881.0
+China,Wheat,2001,11908402.0,35890510.0
+China,Wheat,2002,11519479.0,34520620.0
+China,Wheat,2003,1993701.0,33067000.0
+China,Wheat,2004,1993701.0,35156053.0
+China,Wheat,2005,16683825.0,37256195.0
+China,Wheat,2006,19223238.0,41469859.0
+China,Wheat,2007,22631845.0,41787958.0
+China,Wheat,2008,26803650.0,42998416.0
+China,Wheat,2009,31180490.0,44011975.0
+China,Wheat,2010,32188153.0,44037208.0
+China,Wheat,2011,37740777.0,44889423.0
+China,Wheat,2012,39111900.0,46270860.0
+China,Wheat,2013,43293825.0,46616181.0
+China,Wheat,2014,47579033.0,48253320.0
+China,Wheat,2015,1993701.0,50711934.0
+China,Wheat,2016,51326906.0,50953567.0
+China,Wheat,2017,44746710.0,51324542.0
+China,Wheat,2018,44799130.0,50253711.0
+China,Wheat,2019,53422005.0,51077939.0
+China,Wheat,2020,49073619.0,51327869.0
+China,Wheat,2021,55070172.0,52358632.0
+China,Wheat,2022,57773380.0,52654555.0
+Denmark,Barley,2000,461341.0,707909.0
+Denmark,Barley,2001,442233.0,705488.0
+Denmark,Barley,2002,436896.0,733002.0
+Denmark,Barley,2003,497475.0,671587.0
+Denmark,Barley,2004,506815.0,638414.0
+Denmark,Barley,2005,497057.0,675430.0
+Denmark,Barley,2006,460288.0,581707.0
+Denmark,Barley,2007,754424.0,552162.0
+Denmark,Barley,2008,931250.0,604066.0
+Denmark,Barley,2009,543170.0,603675.0
+Denmark,Barley,2010,533277.0,530301.0
+Denmark,Barley,2011,841398.0,578061.0
+Denmark,Barley,2012,1110586.0,721945.0
+Denmark,Barley,2013,997970.0,702592.0
+Denmark,Barley,2014,711737.0,631032.0
+Denmark,Barley,2015,688335.0,685889.0
+Denmark,Barley,2016,610184.0,702538.0
+Denmark,Barley,2017,663882.0,710134.0
+Denmark,"Cereals, primary",2000,1056755.0,1683556.0
+Denmark,"Cereals, primary",2001,1014596.0,1683512.0
+Denmark,"Cereals, primary",2002,896657.0,1573536.0
+Denmark,"Cereals, primary",2003,1131695.0,1621875.0
+Denmark,"Cereals, primary",2004,1333494.0,1605923.0
+Denmark,"Cereals, primary",2005,1185185.0,1663710.0
+Denmark,"Cereals, primary",2006,1197718.0,1548320.0
+Denmark,"Cereals, primary",2007,1923706.0,1472949.0
+Denmark,"Cereals, primary",2008,2595484.0,1631468.0
+Denmark,"Cereals, primary",2009,1665590.0,1821641.0
+Denmark,"Cereals, primary",2010,1549135.0,1578771.0
+Denmark,"Cereals, primary",2011,2304706.0,1567501.0
+Denmark,"Cereals, primary",2012,2528465.0,1679595.0
+Denmark,"Cereals, primary",2013,2334372.0,1609737.0
+Denmark,"Cereals, primary",2014,2040440.0,1733668.0
+Denmark,"Cereals, primary",2015,1713307.0,1779298.0
+Denmark,"Cereals, primary",2016,1398724.0,1621283.0
+Denmark,"Cereals, primary",2017,1653726.0,1776259.0
+Denmark,"Cereals, primary",2018,1379065.0,1221348.0
+Denmark,"Cereals, primary",2019,1843189.0,1682978.0
+Denmark,"Cereals, primary",2020,1706199.0,1672404.0
+Denmark,"Cereals, primary",2021,1913609.0,1526211.0
+Denmark,"Cereals, primary",2022,2643672.0,1669927.0
+Denmark,"Hen eggs in shell, fresh",2000,77976.0,126740.0
+Denmark,"Hen eggs in shell, fresh",2001,87252.0,137635.0
+Denmark,"Hen eggs in shell, fresh",2002,90248.0,139192.0
+Denmark,"Hen eggs in shell, fresh",2003,113614.0,138169.0
+Denmark,"Hen eggs in shell, fresh",2004,118201.0,141581.0
+Denmark,"Hen eggs in shell, fresh",2005,110274.0,136122.0
+Denmark,"Hen eggs in shell, fresh",2006,112519.0,131346.0
+Denmark,"Hen eggs in shell, fresh",2007,140276.0,133052.0
+Denmark,"Hen eggs in shell, fresh",2008,213908.0,138169.0
+Denmark,"Hen eggs in shell, fresh",2009,132946.0,126129.0
+Denmark,"Hen eggs in shell, fresh",2010,130817.0,130281.0
+Denmark,"Hen eggs in shell, fresh",2011,140389.0,134048.0
+Denmark,"Hen eggs in shell, fresh",2012,149527.0,136768.0
+Denmark,"Hen eggs in shell, fresh",2013,160021.0,139924.0
+Denmark,"Hen eggs in shell, fresh",2014,153105.0,139970.0
+Denmark,"Hen eggs in shell, fresh",2015,136693.0,143460.0
+Denmark,"Hen eggs in shell, fresh",2016,140195.0,147058.0
+Denmark,"Hen eggs in shell, fresh",2017,149616.0,149937.0
+Denmark,"Meat, Total",2000,835260.0,1009273.3636363636
+Denmark,"Meat, Total",2001,964463.5,1058871.1818181819
+Denmark,"Meat, Total",2002,859148.1666666666,1079876.9090909092
+Denmark,"Meat, Total",2003,905346.3333333334,1071390.5454545454
+Denmark,"Meat, Total",2004,1122468.0,1096278.3636363635
+Denmark,"Meat, Total",2005,1134381.1666666667,1073632.7272727273
+Denmark,"Meat, Total",2006,1170932.5,1039351.5454545454
+Denmark,"Meat, Total",2007,1223640.5,1067910.7272727273
+Denmark,"Meat, Total",2008,1325571.5,1021766.9090909091
+Denmark,"Meat, Total",2009,1148441.0,958495.0909090909
+Denmark,"Meat, Total",2010,1186708.0,1009745.0909090909
+Denmark,"Meat, Total",2011,1417689.6666666667,1037471.0
+Denmark,"Meat, Total",2012,1444708.3333333333,1004964.4545454546
+Denmark,"Meat, Total",2013,1439648.5,960126.8181818182
+Denmark,"Meat, Total",2014,1422285.8333333333,957111.8181818182
+Denmark,"Meat, Total",2015,1001770.0,950390.2727272727
+Denmark,"Meat, Total",2016,1072184.5,951234.2727272727
+Denmark,"Meat, Total",2017,1168757.0,922565.0
+Denmark,"Meat, Total",2018,3244717.0,3487562.0
+Denmark,"Meat, Total",2019,3596127.0,3338481.0
+Denmark,"Meat, Total",2020,3992663.0,3507529.0
+Denmark,"Meat, Total",2021,3775649.0,3734461.0
+Denmark,"Meat, Total",2022,3605495.0,3503081.0
+Denmark,"Milk, Total",2000,1441556.0,1959127.0
+Denmark,"Milk, Total",2001,1399467.0,1889890.0
+Denmark,"Milk, Total",2002,1486182.0,1905249.0
+Denmark,"Milk, Total",2003,1759166.0,1940531.0
+Denmark,"Milk, Total",2004,1784023.0,1896532.0
+Denmark,"Milk, Total",2005,1727533.0,1902758.0
+Denmark,"Milk, Total",2006,1762318.0,1920607.0
+Denmark,"Milk, Total",2007,2092786.0,1930154.0
+Denmark,"Milk, Total",2008,2608733.0,1959210.0
+Denmark,"Milk, Total",2009,1933254.0,1998228.0
+Denmark,"Milk, Total",2010,2201833.0,2037827.0
+Denmark,"Milk, Total",2011,2439145.0,2025831.0
+Denmark,"Milk, Total",2012,2306558.0,2073367.0
+Denmark,"Milk, Total",2013,2718122.0,2118902.0
+Denmark,"Milk, Total",2014,2787191.0,2154757.0
+Denmark,"Milk, Total",2015,1921851.0,2223317.0
+Denmark,"Milk, Total",2016,1906723.0,2264282.0
+Denmark,"Milk, Total",2017,2479427.0,2306704.0
+Denmark,"Milk, Total",2018,2542332.0,2330796.0
+Denmark,"Milk, Total",2019,2343005.0,2330713.0
+Denmark,"Milk, Total",2020,2456191.0,2351882.0
+Denmark,"Milk, Total",2021,2745195.0,2342750.0
+Denmark,"Milk, Total",2022,3368231.0,2351052.0
+Denmark,Raw milk of cattle,2000,1441556.0,1959127.0
+Denmark,Raw milk of cattle,2001,1399467.0,1889890.0
+Denmark,Raw milk of cattle,2002,1486182.0,1905249.0
+Denmark,Raw milk of cattle,2003,1759166.0,1940531.0
+Denmark,Raw milk of cattle,2004,1784023.0,1896532.0
+Denmark,Raw milk of cattle,2005,1727533.0,1902758.0
+Denmark,Raw milk of cattle,2006,1762318.0,1920607.0
+Denmark,Raw milk of cattle,2007,2092786.0,1930154.0
+Denmark,Raw milk of cattle,2008,2608733.0,1959210.0
+Denmark,Raw milk of cattle,2009,1933254.0,1998228.0
+Denmark,Raw milk of cattle,2010,2201833.0,2037827.0
+Denmark,Raw milk of cattle,2011,2439145.0,2025831.0
+Denmark,Raw milk of cattle,2012,2306558.0,2073367.0
+Denmark,Raw milk of cattle,2013,2718122.0,2118902.0
+Denmark,Raw milk of cattle,2014,2787191.0,2154757.0
+Denmark,Raw milk of cattle,2015,1921851.0,2223317.0
+Denmark,Raw milk of cattle,2016,1906723.0,2264282.0
+Denmark,Raw milk of cattle,2017,2479427.0,2306704.0
+Denmark,Wheat,2000,516195.0,856856.0
+Denmark,Wheat,2001,495377.0,851473.0
+Denmark,Wheat,2002,401272.0,740529.0
+Denmark,Wheat,2003,570215.0,858309.0
+Denmark,Wheat,2004,748194.0,868737.0
+Denmark,Wheat,2005,615291.0,892233.0
+Denmark,Wheat,2006,661282.0,876606.0
+Denmark,Wheat,2007,1026921.0,825049.0
+Denmark,Wheat,2008,1490420.0,916241.0
+Denmark,Wheat,2009,1003936.0,1084511.0
+Denmark,Wheat,2010,885291.0,923762.0
+Denmark,Wheat,2011,1300274.0,881973.0
+Denmark,Wheat,2012,1204615.0,826126.0
+Denmark,Wheat,2013,1128501.0,756770.0
+Denmark,Wheat,2014,1138553.0,940814.0
+Denmark,Wheat,2015,858910.0,918176.0
+Denmark,Wheat,2016,655342.0,767048.0
+Denmark,Wheat,2017,814848.0,882539.0
+Finland,Barley,2000,218364.0,306659.0
+Finland,Barley,2001,175257.0,275944.0
+Finland,Barley,2002,173445.0,268636.0
+Finland,Barley,2003,203075.0,262255.0
+Finland,Barley,2004,229132.0,266473.0
+Finland,Barley,2005,261522.0,324906.0
+Finland,Barley,2006,252358.0,304697.0
+Finland,Barley,2007,396554.0,306598.0
+Finland,Barley,2008,501984.0,328877.0
+Finland,Barley,2009,283515.0,335428.0
+Finland,Barley,2010,200770.0,207066.0
+Finland,Barley,2011,341470.0,233965.0
+Finland,Barley,2012,379844.0,244271.0
+Finland,Barley,2013,440046.0,294206.0
+Finland,Barley,2014,325262.0,286574.0
+Finland,Barley,2015,236752.0,242417.0
+Finland,Barley,2016,216961.0,244224.0
+Finland,Barley,2017,212779.0,225591.0
+Finland,"Cereals, primary",2000,458936.0,660386.0
+Finland,"Cereals, primary",2001,373537.0,589024.0
+Finland,"Cereals, primary",2002,405523.0,633632.0
+Finland,"Cereals, primary",2003,449927.0,615493.0
+Finland,"Cereals, primary",2004,469288.0,592594.0
+Finland,"Cereals, primary",2005,493868.0,659332.0
+Finland,"Cereals, primary",2006,501715.0,614473.0
+Finland,"Cereals, primary",2007,853577.0,674274.0
+Finland,"Cereals, primary",2008,993034.0,686700.0
+Finland,"Cereals, primary",2009,593616.0,694420.0
+Finland,"Cereals, primary",2010,488724.0,494115.0
+Finland,"Cereals, primary",2011,884718.0,609288.0
+Finland,"Cereals, primary",2012,898723.0,603424.0
+Finland,"Cereals, primary",2013,968299.0,662558.0
+Finland,"Cereals, primary",2014,776474.0,684502.0
+Finland,"Cereals, primary",2015,597718.0,613990.0
+Finland,"Cereals, primary",2016,525592.0,587648.0
+Finland,"Cereals, primary",2017,539426.0,566132.0
+Finland,"Cereals, primary",2018,583007.0,449166.0
+Finland,"Cereals, primary",2019,756853.0,669927.0
+Finland,"Cereals, primary",2020,594054.0,557614.0
+Finland,"Cereals, primary",2021,595598.0,438133.0
+Finland,"Cereals, primary",2022,1211358.0,604307.0
+Finland,"Hen eggs in shell, fresh",2000,43965.0,69485.0
+Finland,"Hen eggs in shell, fresh",2001,34706.0,67134.0
+Finland,"Hen eggs in shell, fresh",2002,40667.0,64972.0
+Finland,"Hen eggs in shell, fresh",2003,50745.0,66753.0
+Finland,"Hen eggs in shell, fresh",2004,53198.0,68773.0
+Finland,"Hen eggs in shell, fresh",2005,43427.0,69129.0
+Finland,"Hen eggs in shell, fresh",2006,44102.0,67347.0
+Finland,"Hen eggs in shell, fresh",2007,60074.0,67704.0
+Finland,"Hen eggs in shell, fresh",2008,78565.0,69248.0
+Finland,"Hen eggs in shell, fresh",2009,65222.0,64022.0
+Finland,"Hen eggs in shell, fresh",2010,71748.0,73049.0
+Finland,"Hen eggs in shell, fresh",2011,83481.0,74593.0
+Finland,"Hen eggs in shell, fresh",2012,92940.0,73880.0
+Finland,"Hen eggs in shell, fresh",2013,103867.0,79463.0
+Finland,"Hen eggs in shell, fresh",2014,88964.0,79700.0
+Finland,"Hen eggs in shell, fresh",2015,81098.0,84867.0
+Finland,"Hen eggs in shell, fresh",2016,80007.0,86197.0
+Finland,"Hen eggs in shell, fresh",2017,80097.0,87361.0
+Finland,"Meat, Total",2000,179444.0,198639.27272727274
+Finland,"Meat, Total",2001,193594.4,202429.18181818182
+Finland,"Meat, Total",2002,198529.6,211416.0
+Finland,"Meat, Total",2003,226126.8,220924.72727272726
+Finland,"Meat, Total",2004,258309.6,222528.81818181818
+Finland,"Meat, Total",2005,268850.2,218736.45454545456
+Finland,"Meat, Total",2006,274053.6,221928.72727272726
+Finland,"Meat, Total",2007,322693.6,229079.0909090909
+Finland,"Meat, Total",2008,377711.6,227029.27272727274
+Finland,"Meat, Total",2009,341331.0,219122.36363636365
+Finland,"Meat, Total",2010,311143.4,215698.0909090909
+Finland,"Meat, Total",2011,352481.2,218336.27272727274
+Finland,"Meat, Total",2012,352440.0,214428.27272727274
+Finland,"Meat, Total",2013,400525.6,217239.0
+Finland,"Meat, Total",2014,373966.0,215555.0
+Finland,"Meat, Total",2015,303404.4,223950.0909090909
+Finland,"Meat, Total",2016,296927.2,226686.45454545456
+Finland,"Meat, Total",2017,309706.0,223410.18181818182
+Finland,"Meat, Total",2018,825852.0,809057.0
+Finland,"Meat, Total",2019,814896.0,819830.0
+Finland,"Meat, Total",2020,848097.0,838074.0
+Finland,"Meat, Total",2021,872060.0,839036.0
+Finland,"Meat, Total",2022,947733.0,823070.0
+Finland,"Milk, Total",2000,774116.0,1156744.0
+Finland,"Milk, Total",2001,801404.0,1194278.0
+Finland,"Milk, Total",2002,862603.0,1195435.0
+Finland,"Milk, Total",2003,1009878.0,1166937.0
+Finland,"Milk, Total",2004,1073390.0,1156240.0
+Finland,"Milk, Total",2005,1043963.0,1148761.0
+Finland,"Milk, Total",2006,1083738.0,1139220.0
+Finland,"Milk, Total",2007,1221972.0,1112129.0
+Finland,"Milk, Total",2008,1472455.0,1091029.0
+Finland,"Milk, Total",2009,1260290.0,1100998.0
+Finland,"Milk, Total",2010,1220301.0,1102995.0
+Finland,"Milk, Total",2011,1364259.0,1086215.0
+Finland,"Milk, Total",2012,1324894.0,1084318.0
+Finland,"Milk, Total",2013,1419041.0,1099004.0
+Finland,"Milk, Total",2014,1412464.0,1133092.0
+Finland,"Milk, Total",2015,1016179.0,1150015.0
+Finland,"Milk, Total",2016,997740.0,1147063.0
+Finland,"Milk, Total",2017,1024589.0,1135811.0
+Finland,"Milk, Total",2018,1073247.0,1132090.0
+Finland,"Milk, Total",2019,1018028.0,1120986.0
+Finland,"Milk, Total",2020,1077497.0,1136169.0
+Finland,"Milk, Total",2021,1106098.0,1092890.0
+Finland,"Milk, Total",2022,1184467.0,1066347.0
+Finland,Raw milk of cattle,2000,774116.0,1156744.0
+Finland,Raw milk of cattle,2001,801404.0,1194278.0
+Finland,Raw milk of cattle,2002,862603.0,1195435.0
+Finland,Raw milk of cattle,2003,1009878.0,1166937.0
+Finland,Raw milk of cattle,2004,1073390.0,1156240.0
+Finland,Raw milk of cattle,2005,1043963.0,1148761.0
+Finland,Raw milk of cattle,2006,1083738.0,1139220.0
+Finland,Raw milk of cattle,2007,1221972.0,1112129.0
+Finland,Raw milk of cattle,2008,1472455.0,1091029.0
+Finland,Raw milk of cattle,2009,1260290.0,1100998.0
+Finland,Raw milk of cattle,2010,1220301.0,1102995.0
+Finland,Raw milk of cattle,2011,1364259.0,1086215.0
+Finland,Raw milk of cattle,2012,1324894.0,1084318.0
+Finland,Raw milk of cattle,2013,1419041.0,1099004.0
+Finland,Raw milk of cattle,2014,1412464.0,1133092.0
+Finland,Raw milk of cattle,2015,1016179.0,1150015.0
+Finland,Raw milk of cattle,2016,997740.0,1147063.0
+Finland,Raw milk of cattle,2017,1024589.0,1135811.0
+Finland,Wheat,2000,66813.0,104160.0
+Finland,Wheat,2001,57908.0,94601.0
+Finland,Wheat,2002,70634.0,110023.0
+Finland,Wheat,2003,96562.0,131385.0
+Finland,Wheat,2004,116558.0,151374.0
+Finland,Wheat,2005,105631.0,155050.0
+Finland,Wheat,2006,95264.0,132372.0
+Finland,Wheat,2007,174498.0,154180.0
+Finland,Wheat,2008,218013.0,152380.0
+Finland,Wheat,2009,162662.0,171633.0
+Finland,Wheat,2010,141171.0,140170.0
+Finland,Wheat,2011,267305.0,188622.0
+Finland,Wheat,2012,231366.0,171652.0
+Finland,Wheat,2013,235552.0,168228.0
+Finland,Wheat,2014,245765.0,210565.0
+Finland,Wheat,2015,186026.0,191970.0
+Finland,Wheat,2016,137709.0,159423.0
+Finland,Wheat,2017,144055.0,155186.0
+France,Barley,2000,963602.0,1635863.0
+France,Barley,2001,929583.0,1650713.0
+France,Barley,2002,998746.0,1849080.0
+France,Barley,2003,1178225.0,1659258.0
+France,Barley,2004,1297314.0,1858935.0
+France,Barley,2005,1187711.0,1737670.0
+France,Barley,2006,1443111.0,1752326.0
+France,Barley,2007,2168058.0,1596143.0
+France,Barley,2008,2647184.0,2050551.0
+France,Barley,2009,1613936.0,2169901.0
+France,Barley,2010,2055944.0,1701953.0
+France,Barley,2011,2246514.0,1478470.0
+France,Barley,2012,2941745.0,1910804.0
+France,Barley,2013,2301997.0,1737956.0
+France,Barley,2014,2352168.0,1976069.0
+France,Barley,2015,2178446.0,2206837.0
+France,Barley,2016,1446713.0,1758839.0
+France,Barley,2017,1809185.0,2036427.0
+France,"Cereals, primary",2000,6254797.0,11863412.0
+France,"Cereals, primary",2001,5788609.0,10868665.0
+France,"Cereals, primary",2002,6398983.0,12561825.0
+France,"Cereals, primary",2003,7228268.0,9918028.0
+France,"Cereals, primary",2004,8327736.0,12729627.0
+France,"Cereals, primary",2005,7589517.0,11564597.0
+France,"Cereals, primary",2006,9395821.0,11128025.0
+France,"Cereals, primary",2007,15072399.0,10737409.0
+France,"Cereals, primary",2008,14551960.0,12670464.0
+France,"Cereals, primary",2009,10740486.0,12652592.0
+France,"Cereals, primary",2010,15676616.0,11862529.0
+France,"Cereals, primary",2011,16903824.0,11538684.0
+France,"Cereals, primary",2012,18980037.0,12294841.0
+France,"Cereals, primary",2013,15936851.0,12163731.0
+France,"Cereals, primary",2014,15088647.0,13098391.0
+France,"Cereals, primary",2015,12551630.0,13138709.0
+France,"Cereals, primary",2016,8714371.0,9815426.0
+France,"Cereals, primary",2017,10841946.0,12377362.0
+France,"Cereals, primary",2018,11925503.0,11125426.0
+France,"Cereals, primary",2019,12513675.0,12649015.0
+France,"Cereals, primary",2020,10919713.0,10270442.0
+France,"Cereals, primary",2021,17121815.0,12029862.0
+France,"Cereals, primary",2022,12942857.0,10766471.0
+France,"Hen eggs in shell, fresh",2000,806791.0,1285424.0
+France,"Hen eggs in shell, fresh",2001,801302.0,1337881.0
+France,"Hen eggs in shell, fresh",2002,770822.0,1296243.0
+France,"Hen eggs in shell, fresh",2003,1162146.0,1295853.0
+France,"Hen eggs in shell, fresh",2004,915908.0,1328513.0
+France,"Hen eggs in shell, fresh",2005,817438.0,1210235.0
+France,"Hen eggs in shell, fresh",2006,915707.0,1181869.0
+France,"Hen eggs in shell, fresh",2007,1242456.0,1142963.0
+France,"Hen eggs in shell, fresh",2008,1346072.0,1137203.0
+France,"Hen eggs in shell, fresh",2009,1440924.0,1173281.0
+France,"Hen eggs in shell, fresh",2010,1158866.0,1231574.0
+France,"Hen eggs in shell, fresh",2011,1247781.0,1126698.0
+France,"Hen eggs in shell, fresh",2012,1710316.0,1099894.0
+France,"Hen eggs in shell, fresh",2013,1306212.0,1230861.0
+France,"Hen eggs in shell, fresh",2014,1363809.0,1244429.0
+France,"Hen eggs in shell, fresh",2015,1219796.0,1262152.0
+France,"Hen eggs in shell, fresh",2016,995906.0,1062156.0
+France,"Hen eggs in shell, fresh",2017,1487744.0,1142255.0
+France,"Meat, Total",2000,1892675.1818181819,2356296.238095238
+France,"Meat, Total",2001,1940612.0,2392297.238095238
+France,"Meat, Total",2002,1912614.3636363635,2420649.523809524
+France,"Meat, Total",2003,2249240.3636363638,2380602.380952381
+France,"Meat, Total",2004,2822914.5,2316261.285714286
+France,"Meat, Total",2005,2827923.7,2289153.095238095
+France,"Meat, Total",2006,2783929.3,2143064.095238095
+France,"Meat, Total",2007,3044220.5,2193087.619047619
+France,"Meat, Total",2008,3587880.4,2215789.8095238097
+France,"Meat, Total",2009,3190766.0,2200005.619047619
+France,"Meat, Total",2010,3075973.7,2212437.4285714286
+France,"Meat, Total",2011,3538152.8,2235924.761904762
+France,"Meat, Total",2012,3422720.2,2165980.8571428573
+France,"Meat, Total",2013,3571717.9,2086944.857142857
+France,"Meat, Total",2014,3401952.3,2109740.285714286
+France,"Meat, Total",2015,2777476.0,2137661.6666666665
+France,"Meat, Total",2016,2719625.9,2131906.380952381
+France,"Meat, Total",2017,2794849.8,2070327.9523809524
+France,"Meat, Total",2018,14067307.0,14486931.0
+France,"Meat, Total",2019,13893002.0,14289173.0
+France,"Meat, Total",2020,13817819.0,14185051.0
+France,"Meat, Total",2021,14736518.0,14074026.0
+France,"Meat, Total",2022,12139312.0,13326228.0
+France,"Milk, Total",2000,6997711.0,9802308.0
+France,"Milk, Total",2001,7040339.0,9770857.0
+France,"Milk, Total",2002,7119690.0,9930285.0
+France,"Milk, Total",2003,8145202.0,9725840.0
+France,"Milk, Total",2004,8608127.0,9642453.0
+France,"Milk, Total",2005,9029958.0,9828115.0
+France,"Milk, Total",2006,8636756.0,9658154.0
+France,"Milk, Total",2007,10036630.0,9692140.0
+France,"Milk, Total",2008,12798474.0,10006693.0
+France,"Milk, Total",2009,9833408.0,9652409.0
+France,"Milk, Total",2010,10372822.0,9941626.0
+France,"Milk, Total",2011,12169163.0,10386198.0
+France,"Milk, Total",2012,10705237.0,10218126.0
+France,"Milk, Total",2013,11692021.0,10096819.0
+France,"Milk, Total",2014,13048773.0,10602067.0
+France,"Milk, Total",2015,9691923.0,10647209.0
+France,"Milk, Total",2016,9377269.0,10913339.0
+France,"Milk, Total",2017,10867883.0,10888864.0
+France,"Milk, Total",2018,11296919.0,10689884.0
+France,"Milk, Total",2019,11117146.0,10695825.0
+France,"Milk, Total",2020,11385662.0,10803540.0
+France,"Milk, Total",2021,12065930.0,10616772.0
+France,"Milk, Total",2022,10203640.0,10289120.0
+France,Raw milk of cattle,2000,6774515.0,9464827.0
+France,Raw milk of cattle,2001,6810838.0,9427516.0
+France,Raw milk of cattle,2002,6878967.0,9575215.0
+France,Raw milk of cattle,2003,7853322.0,9360805.0
+France,Raw milk of cattle,2004,8291059.0,9270480.0
+France,Raw milk of cattle,2005,8698164.0,9449889.0
+France,Raw milk of cattle,2006,8286483.0,9264317.0
+France,Raw milk of cattle,2007,9651618.0,9302709.0
+France,Raw milk of cattle,2008,12362208.0,9627992.0
+France,Raw milk of cattle,2009,9390768.0,9255464.0
+France,Raw milk of cattle,2010,9941015.0,9520275.0
+France,Raw milk of cattle,2011,11709308.0,9953313.0
+France,Raw milk of cattle,2012,10300655.0,9805134.0
+France,Raw milk of cattle,2013,11268982.0,9702549.0
+France,Raw milk of cattle,2014,12606812.0,10205753.0
+France,Raw milk of cattle,2015,9311966.0,10242228.0
+France,Raw milk of cattle,2016,8958195.0,10470554.0
+France,Raw milk of cattle,2017,10193516.0,10434774.0
+France,Wheat,2000,3500142.0,6842000.0
+France,Wheat,2001,3051113.0,5777742.0
+France,Wheat,2002,3568997.0,7131490.0
+France,Wheat,2003,3938924.0,5582504.0
+France,Wheat,2004,4750600.0,7269529.0
+France,Wheat,2005,4289082.0,6755943.0
+France,Wheat,2006,5394818.0,6477079.0
+France,Wheat,2007,8493562.0,6000850.0
+France,Wheat,2008,8290371.0,7144285.0
+France,Wheat,2009,5957862.0,7021660.0
+France,Wheat,2010,9422641.0,6997953.0
+France,Wheat,2011,9684900.0,6592327.0
+France,Wheat,2012,10803941.0,6939034.0
+France,Wheat,2013,9449511.0,7079282.0
+France,Wheat,2014,8430356.0,7133997.0
+France,Wheat,2015,7394603.0,7829961.0
+France,Wheat,2016,4692319.0,5369487.0
+France,Wheat,2017,6112747.0,7084122.0
+Germany,Barley,2000,1138774.0,2026842.0
+Germany,Barley,2001,1189796.0,2259359.0
+Germany,Barley,2002,894724.0,1829638.0
+Germany,Barley,2003,1136094.0,1773986.0
+Germany,Barley,2004,1758409.0,2175358.0
+Germany,Barley,2005,1328777.0,1944465.0
+Germany,Barley,2006,1531292.0,2003533.0
+Germany,Barley,2007,2359403.0,1738599.0
+Germany,Barley,2008,2944888.0,2003619.0
+Germany,Barley,2009,1638869.0,2057361.0
+Germany,Barley,2010,1711321.0,1729006.0
+Germany,Barley,2011,2249056.0,1462275.0
+Germany,Barley,2012,2750229.0,1739785.0
+Germany,Barley,2013,2513966.0,1731799.0
+Germany,Barley,2014,2334901.0,1935926.0
+Germany,Barley,2015,1871011.0,1947160.0
+Germany,Barley,2016,1496581.0,1796576.0
+Germany,Barley,2017,1667480.0,1817153.0
+Germany,"Cereals, primary",2000,4604006.0,7989771.0
+Germany,"Cereals, primary",2001,4703635.0,8742378.0
+Germany,"Cereals, primary",2002,3906575.0,7676456.0
+Germany,"Cereals, primary",2003,4676922.0,7002946.0
+Germany,"Cereals, primary",2004,7517982.0,9061668.0
+Germany,"Cereals, primary",2005,5413146.0,8186807.0
+Germany,"Cereals, primary",2006,5928531.0,7727648.0
+Germany,"Cereals, primary",2007,9581812.0,7231603.0
+Germany,"Cereals, primary",2008,13103408.0,8923372.0
+Germany,"Cereals, primary",2009,7387871.0,8827904.0
+Germany,"Cereals, primary",2010,8305133.0,7861721.0
+Germany,"Cereals, primary",2011,11721175.0,7514790.0
+Germany,"Cereals, primary",2012,12403921.0,8072649.0
+Germany,"Cereals, primary",2013,12199628.0,8479190.0
+Germany,"Cereals, primary",2014,11175135.0,9274122.0
+Germany,"Cereals, primary",2015,8326002.0,8706901.0
+Germany,"Cereals, primary",2016,6783799.0,8087314.0
+Germany,"Cereals, primary",2017,7550320.0,8138760.0
+Germany,"Cereals, primary",2018,7448717.0,6770152.0
+Germany,"Cereals, primary",2019,8056675.0,7874544.0
+Germany,"Cereals, primary",2020,8022454.0,7687690.0
+Germany,"Cereals, primary",2021,10507068.0,7535210.0
+Germany,"Cereals, primary",2022,13730302.0,7734814.0
+Germany,"Hen eggs in shell, fresh",2000,930616.0,1280146.0
+Germany,"Hen eggs in shell, fresh",2001,836757.0,1260255.0
+Germany,"Hen eggs in shell, fresh",2002,879763.0,1233260.0
+Germany,"Hen eggs in shell, fresh",2003,1243087.0,1172165.0
+Germany,"Hen eggs in shell, fresh",2004,1113408.0,1155115.0
+Germany,"Hen eggs in shell, fresh",2005,1046027.0,1129541.0
+Germany,"Hen eggs in shell, fresh",2006,1273041.0,1131672.0
+Germany,"Hen eggs in shell, fresh",2007,1611846.0,1116185.0
+Germany,"Hen eggs in shell, fresh",2008,1842439.0,1121869.0
+Germany,"Hen eggs in shell, fresh",2009,1683893.0,993144.0
+Germany,"Hen eggs in shell, fresh",2010,1662347.0,941142.0
+Germany,"Hen eggs in shell, fresh",2011,2121229.0,1111497.0
+Germany,"Hen eggs in shell, fresh",2012,1615238.0,1078818.0
+Germany,"Hen eggs in shell, fresh",2013,1293693.0,1109365.0
+Germany,"Hen eggs in shell, fresh",2014,1241849.0,1117464.0
+Germany,"Hen eggs in shell, fresh",2015,1126335.0,1138208.0
+Germany,"Hen eggs in shell, fresh",2016,1045359.0,1162646.0
+Germany,"Hen eggs in shell, fresh",2017,1517830.0,1173870.0
+Germany,"Meat, Total",2000,8447193.0,2062856.1
+Germany,"Meat, Total",2001,8750767.0,2121304.3
+Germany,"Meat, Total",2002,8241811.0,2105645.6
+Germany,"Meat, Total",2003,9839986.0,2088609.85
+Germany,"Meat, Total",2004,12126388.0,2152864.45
+Germany,"Meat, Total",2005,12399078.0,2132666.85
+Germany,"Meat, Total",2006,13391592.0,2171434.55
+Germany,"Meat, Total",2007,14355254.0,2259604.3
+Germany,"Meat, Total",2008,17847882.0,2329696.4
+Germany,"Meat, Total",2009,15951425.0,2359967.8
+Germany,"Meat, Total",2010,15755703.0,2427704.75
+Germany,"Meat, Total",2011,18406662.0,2444849.3
+Germany,"Meat, Total",2012,4150099.888888889,2381845.3
+Germany,"Meat, Total",2013,4239991.111111111,2370037.8
+Germany,"Meat, Total",2014,3977859.111111111,2406523.8
+Germany,"Meat, Total",2015,2733592.4545454546,2407786.05
+Germany,"Meat, Total",2016,2766166.909090909,2389831.6
+Germany,"Meat, Total",2017,2937284.5454545454,2353459.6
+Germany,"Meat, Total",2018,14347591.0,14639667.0
+Germany,"Meat, Total",2019,14594963.0,14419568.0
+Germany,"Meat, Total",2020,14098782.0,14453557.0
+Germany,"Meat, Total",2021,14148867.0,14282532.0
+Germany,"Meat, Total",2022,14977419.0,13266231.0
+Germany,"Milk, Total",2000,8242341.0,10701069.0
+Germany,"Milk, Total",2001,8713603.0,10648176.0
+Germany,"Milk, Total",2002,8271597.0,10530659.0
+Germany,"Milk, Total",2003,9094036.0,10782363.0
+Germany,"Milk, Total",2004,9797182.0,10672742.0
+Germany,"Milk, Total",2005,9778711.0,10750908.0
+Germany,"Milk, Total",2006,9635449.0,10578033.0
+Germany,"Milk, Total",2007,13040757.0,10732864.0
+Germany,"Milk, Total",2008,14207216.0,10829495.0
+Germany,"Milk, Total",2009,9779818.0,11023939.0
+Germany,"Milk, Total",2010,12108436.0,11190721.0
+Germany,"Milk, Total",2011,14707839.0,11458490.0
+Germany,"Milk, Total",2012,12790074.0,11590229.0
+Germany,"Milk, Total",2013,15831501.0,11833004.0
+Germany,"Milk, Total",2014,16288494.0,12235603.0
+Germany,"Milk, Total",2015,10747012.0,12344121.0
+Germany,"Milk, Total",2016,9847006.0,12337373.0
+Germany,"Milk, Total",2017,12939363.0,12308141.0
+Germany,"Milk, Total",2018,13805627.0,12491313.0
+Germany,"Milk, Total",2019,12751124.0,12488622.0
+Germany,"Milk, Total",2020,13088977.0,12520831.0
+Germany,"Milk, Total",2021,14009059.0,12272442.0
+Germany,"Milk, Total",2022,18315053.0,12231754.0
+Germany,Raw milk of cattle,2000,8235067.0,10687165.0
+Germany,Raw milk of cattle,2001,8705884.0,10634273.0
+Germany,Raw milk of cattle,2002,8263174.0,10514859.0
+Germany,Raw milk of cattle,2003,9081711.0,10763403.0
+Germany,Raw milk of cattle,2004,9784306.0,10654541.0
+Germany,Raw milk of cattle,2005,9766216.0,10733086.0
+Germany,Raw milk of cattle,2006,9623171.0,10560337.0
+Germany,Raw milk of cattle,2007,13023445.0,10714158.0
+Germany,Raw milk of cattle,2008,14187512.0,10809777.0
+Germany,Raw milk of cattle,2009,9764443.0,11001188.0
+Germany,Raw milk of cattle,2010,12092943.0,11171921.0
+Germany,Raw milk of cattle,2011,14688699.0,11438685.0
+Germany,Raw milk of cattle,2012,12767945.0,11570219.0
+Germany,Raw milk of cattle,2013,15808868.0,11816200.0
+Germany,Raw milk of cattle,2014,16267888.0,12220103.0
+Germany,Raw milk of cattle,2015,10734130.0,12329348.0
+Germany,Raw milk of cattle,2016,9836911.0,12324734.0
+Germany,Raw milk of cattle,2017,12925775.0,12296766.0
+Germany,Wheat,2000,2308480.0,4030431.0
+Germany,Wheat,2001,2274402.0,4257157.0
+Germany,Wheat,2002,1978724.0,3880594.0
+Germany,Wheat,2003,2391173.0,3590184.0
+Germany,Wheat,2004,3914793.0,4739837.0
+Germany,Wheat,2005,2917022.0,4416510.0
+Germany,Wheat,2006,3123193.0,4180741.0
+Germany,Wheat,2007,4988932.0,3882521.0
+Germany,Wheat,2008,7080523.0,4844478.0
+Germany,Wheat,2009,3954898.0,4696057.0
+Germany,Wheat,2010,4729419.0,4433334.0
+Germany,Wheat,2011,6564487.0,4246879.0
+Germany,Wheat,2012,6305276.0,4177274.0
+Germany,Wheat,2013,6745349.0,4663762.0
+Germany,Wheat,2014,6238127.0,5179292.0
+Germany,Wheat,2015,4772036.0,4949041.0
+Germany,Wheat,2016,3791068.0,4560249.0
+Germany,Wheat,2017,4176117.0,4563567.0
+Hungary,Barley,2000,88979.0,139886.0
+Hungary,Barley,2001,116750.0,201810.0
+Hungary,Barley,2002,102443.0,162467.0
+Hungary,Barley,2003,97208.0,125855.0
+Hungary,Barley,2004,167250.0,219553.0
+Hungary,Barley,2005,126881.0,184926.0
+Hungary,Barley,2006,128947.0,167015.0
+Hungary,Barley,2007,209922.0,158111.0
+Hungary,Barley,2008,307299.0,227894.0
+Hungary,Barley,2009,140463.0,165265.0
+Hungary,Barley,2010,133059.0,146614.0
+Hungary,Barley,2011,244628.0,153477.0
+Hungary,Barley,2012,242328.0,154737.0
+Hungary,Barley,2013,221041.0,164972.0
+Hungary,Barley,2014,236565.0,198015.0
+Hungary,Barley,2015,211240.0,218808.0
+Hungary,Barley,2016,208003.0,247650.0
+Hungary,Barley,2017,186532.0,220022.0
+Hungary,"Cereals, primary",2000,944523.0,1657565.0
+Hungary,"Cereals, primary",2001,1122323.0,2473349.0
+Hungary,"Cereals, primary",2002,1004606.0,1924132.0
+Hungary,"Cereals, primary",2003,1157028.0,1443575.0
+Hungary,"Cereals, primary",2004,1946509.0,2767822.0
+Hungary,"Cereals, primary",2005,1747718.0,2660957.0
+Hungary,"Cereals, primary",2006,1788155.0,2371814.0
+Hungary,"Cereals, primary",2007,2297257.0,1596923.0
+Hungary,"Cereals, primary",2008,3331294.0,2768338.0
+Hungary,"Cereals, primary",2009,1956694.0,2231669.0
+Hungary,"Cereals, primary",2010,2194926.0,2011268.0
+Hungary,"Cereals, primary",2011,3373167.0,2240705.0
+Hungary,"Cereals, primary",2012,2671451.0,1713171.0
+Hungary,"Cereals, primary",2013,2923698.0,2241030.0
+Hungary,"Cereals, primary",2014,3137057.0,2723355.0
+Hungary,"Cereals, primary",2015,2265361.0,2329724.0
+Hungary,"Cereals, primary",2016,2391989.0,2733151.0
+Hungary,"Cereals, primary",2017,2184486.0,2311272.0
+Hungary,"Cereals, primary",2018,2583754.0,2449087.0
+Hungary,"Cereals, primary",2019,2496177.0,2571969.0
+Hungary,"Cereals, primary",2020,2571145.0,2553236.0
+Hungary,"Cereals, primary",2021,3258733.0,2302201.0
+Hungary,"Cereals, primary",2022,2926691.0,1504412.0
+Hungary,"Hen eggs in shell, fresh",2000,140619.0,224483.0
+Hungary,"Hen eggs in shell, fresh",2001,162008.0,230092.0
+Hungary,"Hen eggs in shell, fresh",2002,202150.0,240249.0
+Hungary,"Hen eggs in shell, fresh",2003,212484.0,242776.0
+Hungary,"Hen eggs in shell, fresh",2004,270861.0,230866.0
+Hungary,"Hen eggs in shell, fresh",2005,239398.0,209577.0
+Hungary,"Hen eggs in shell, fresh",2006,246015.0,209037.0
+Hungary,"Hen eggs in shell, fresh",2007,251574.0,201033.0
+Hungary,"Hen eggs in shell, fresh",2008,300218.0,203568.0
+Hungary,"Hen eggs in shell, fresh",2009,278382.0,198474.0
+Hungary,"Hen eggs in shell, fresh",2010,244937.0,193232.0
+Hungary,"Hen eggs in shell, fresh",2011,234507.0,173829.0
+Hungary,"Hen eggs in shell, fresh",2012,262498.0,170500.0
+Hungary,"Hen eggs in shell, fresh",2013,207812.0,174572.0
+Hungary,"Hen eggs in shell, fresh",2014,195623.0,171113.0
+Hungary,"Hen eggs in shell, fresh",2015,175105.0,180652.0
+Hungary,"Hen eggs in shell, fresh",2016,158603.0,178716.0
+Hungary,"Hen eggs in shell, fresh",2017,203606.0,172603.0
+Hungary,"Meat, Total",2000,1194487.0,375350.64705882355
+Hungary,"Meat, Total",2001,1398748.0,310261.5789473684
+Hungary,"Meat, Total",2002,1431294.0,364597.1176470588
+Hungary,"Meat, Total",2003,1354136.0,332959.23529411765
+Hungary,"Meat, Total",2004,1571870.0,283263.1052631579
+Hungary,"Meat, Total",2005,1443081.0,257422.57894736843
+Hungary,"Meat, Total",2006,1398651.0,250881.8947368421
+Hungary,"Meat, Total",2007,1612386.0,253457.94736842104
+Hungary,"Meat, Total",2008,1976682.0,247380.15789473685
+Hungary,"Meat, Total",2009,1630466.0,243661.94736842104
+Hungary,"Meat, Total",2010,1425790.0,229304.84210526315
+Hungary,"Meat, Total",2011,1792259.0,237669.94736842104
+Hungary,"Meat, Total",2012,1734220.0,231589.47368421053
+Hungary,"Meat, Total",2013,1713720.0,219462.8947368421
+Hungary,"Meat, Total",2014,1812268.0,241806.8947368421
+Hungary,"Meat, Total",2015,1481071.0,257762.47368421053
+Hungary,"Meat, Total",2016,1461953.0,266206.36842105264
+Hungary,"Meat, Total",2017,1489584.0,256264.7894736842
+Hungary,"Meat, Total",2018,1575832.0,1685165.0
+Hungary,"Meat, Total",2019,1459963.0,1699842.0
+Hungary,"Meat, Total",2020,1295811.0,1617818.0
+Hungary,"Meat, Total",2021,1499254.0,1704167.0
+Hungary,"Meat, Total",2022,1105012.0,1590393.0
+Hungary,"Milk, Total",2000,481407.0,730539.0
+Hungary,"Milk, Total",2001,515757.0,730978.0
+Hungary,"Milk, Total",2002,600034.0,725948.0
+Hungary,"Milk, Total",2003,651170.0,692929.0
+Hungary,"Milk, Total",2004,590862.0,645404.0
+Hungary,"Milk, Total",2005,624418.0,657055.0
+Hungary,"Milk, Total",2006,562063.0,627530.0
+Hungary,"Milk, Total",2007,731787.0,626610.0
+Hungary,"Milk, Total",2008,884944.0,625588.0
+Hungary,"Milk, Total",2009,533850.0,597324.0
+Hungary,"Milk, Total",2010,584301.0,572905.0
+Hungary,"Milk, Total",2011,747476.0,582115.0
+Hungary,"Milk, Total",2012,711061.0,616193.0
+Hungary,"Milk, Total",2013,788934.0,602571.0
+Hungary,"Milk, Total",2014,851711.0,636083.0
+Hungary,"Milk, Total",2015,572874.0,659655.0
+Hungary,"Milk, Total",2016,516610.0,651830.0
+Hungary,"Milk, Total",2017,693973.0,668591.0
+Hungary,"Milk, Total",2018,701459.0,662063.0
+Hungary,"Milk, Total",2019,693332.0,666679.0
+Hungary,"Milk, Total",2020,698595.0,684174.0
+Hungary,"Milk, Total",2021,786982.0,706499.0
+Hungary,"Milk, Total",2022,948164.0,692899.0
+Hungary,Raw milk of cattle,2000,478432.0,725860.0
+Hungary,Raw milk of cattle,2001,512278.0,725609.0
+Hungary,Raw milk of cattle,2002,596629.0,721416.0
+Hungary,Raw milk of cattle,2003,648349.0,689856.0
+Hungary,Raw milk of cattle,2004,587783.0,641750.0
+Hungary,Raw milk of cattle,2005,621116.0,653314.0
+Hungary,Raw milk of cattle,2006,559472.0,624636.0
+Hungary,Raw milk of cattle,2007,729135.0,624012.0
+Hungary,Raw milk of cattle,2008,882277.0,623422.0
+Hungary,Raw milk of cattle,2009,532388.0,595554.0
+Hungary,Raw milk of cattle,2010,582304.0,570718.0
+Hungary,Raw milk of cattle,2011,745065.0,580060.0
+Hungary,Raw milk of cattle,2012,708810.0,614059.0
+Hungary,Raw milk of cattle,2013,786460.0,600480.0
+Hungary,Raw milk of cattle,2014,849255.0,634056.0
+Hungary,Raw milk of cattle,2015,570953.0,657577.0
+Hungary,Raw milk of cattle,2016,514820.0,649755.0
+Hungary,Raw milk of cattle,2017,691623.0,666442.0
+Hungary,Wheat,2000,363490.0,645125.0
+Hungary,Wheat,2001,415882.0,907945.0
+Hungary,Wheat,2002,345936.0,683173.0
+Hungary,Wheat,2003,396132.0,513876.0
+Hungary,Wheat,2004,693991.0,1049474.0
+Hungary,Wheat,2005,521563.0,888982.0
+Hungary,Wheat,2006,547451.0,764588.0
+Hungary,Wheat,2007,949750.0,696532.0
+Hungary,Wheat,2008,1311742.0,983784.0
+Hungary,Wheat,2009,652407.0,772088.0
+Hungary,Wheat,2010,706752.0,654336.0
+Hungary,Wheat,2011,1045221.0,717549.0
+Hungary,Wheat,2012,1076675.0,700775.0
+Hungary,Wheat,2013,1079791.0,883754.0
+Hungary,Wheat,2014,1094651.0,919324.0
+Hungary,Wheat,2015,928587.0,931473.0
+Hungary,Wheat,2016,795288.0,978953.0
+Hungary,Wheat,2017,834444.0,916593.0
+India,Barley,2000,169036.0,374916.0
+India,Barley,2001,156896.0,370667.0
+India,Barley,2002,162845.0,369086.0
+India,Barley,2003,177106.0,364656.0
+India,Barley,2004,189080.0,336207.0
+India,Barley,2005,210326.0,312758.0
+India,Barley,2006,220733.0,316256.0
+India,Barley,2007,1993701.0,344602.0
+India,Barley,2008,271852.0,310919.0
+India,Barley,2009,1993701.0,437644.0
+India,Barley,2010,1993701.0,351001.0
+India,Barley,2011,1993701.0,430856.0
+India,Barley,2012,1993701.0,419740.0
+India,Barley,2013,1993701.0,453423.0
+India,Barley,2014,1993701.0,474151.0
+India,Barley,2015,1993701.0,417927.0
+India,Barley,2016,1993701.0,373102.0
+India,Barley,2017,1993701.0,452762.0
+India,Barley,2018,1993701.0,461406.0
+India,Barley,2019,1993701.0,423127.0
+India,Barley,2020,1993701.0,446124.0
+India,Barley,2021,1993701.0,429156.0
+India,Barley,2022,1993701.0,355318.0
+India,"Cereals, primary",2000,31592380.0,84874765.0
+India,"Cereals, primary",2001,30654690.0,88965743.0
+India,"Cereals, primary",2002,26381483.0,74048206.0
+India,"Cereals, primary",2003,31913840.0,85741104.0
+India,"Cereals, primary",2004,41240449.0,82865955.0
+India,"Cereals, primary",2005,45358764.0,87747765.0
+India,"Cereals, primary",2006,55206280.0,88730041.0
+India,"Cereals, primary",2007,75862175.0,94244483.0
+India,"Cereals, primary",2008,84447791.0,96583667.0
+India,"Cereals, primary",2009,78534201.0,90463454.0
+India,"Cereals, primary",2010,103918804.0,96048207.0
+India,"Cereals, primary",2011,120148321.0,103936445.0
+India,"Cereals, primary",2012,115698817.0,105611613.0
+India,"Cereals, primary",2013,101810868.0,106527807.0
+India,"Cereals, primary",2014,106043882.0,106614084.0
+India,"Cereals, primary",2015,103549055.0,103207738.0
+India,"Cereals, primary",2016,107592914.0,107373742.0
+India,"Cereals, primary",2017,121785632.0,112338993.0
+India,"Cereals, primary",2018,119302100.0,115895358.0
+India,"Cereals, primary",2019,118759461.0,117660284.0
+India,"Cereals, primary",2020,120090532.0,123531677.0
+India,"Cereals, primary",2021,150029837.0,128205757.0
+India,"Cereals, primary",2022,153889478.0,128520864.0
+India,"Hen eggs in shell, fresh",2000,1993701.0,2064052.0
+India,"Hen eggs in shell, fresh",2001,1993701.0,2181708.0
+India,"Hen eggs in shell, fresh",2002,1993701.0,2243579.0
+India,"Hen eggs in shell, fresh",2003,1993701.0,2276036.0
+India,"Hen eggs in shell, fresh",2004,1993701.0,2546847.0
+India,"Hen eggs in shell, fresh",2005,1993701.0,2604661.0
+India,"Hen eggs in shell, fresh",2006,1993701.0,2854173.0
+India,"Hen eggs in shell, fresh",2007,1993701.0,2989072.0
+India,"Hen eggs in shell, fresh",2008,1993701.0,3090499.0
+India,"Hen eggs in shell, fresh",2009,1993701.0,3276112.0
+India,"Hen eggs in shell, fresh",2010,1993701.0,3426326.0
+India,"Hen eggs in shell, fresh",2011,1993701.0,3515826.0
+India,"Hen eggs in shell, fresh",2012,1993701.0,3707179.0
+India,"Hen eggs in shell, fresh",2013,1993701.0,3889957.0
+India,"Hen eggs in shell, fresh",2014,1993701.0,4170054.0
+India,"Hen eggs in shell, fresh",2015,1993701.0,4378244.0
+India,"Hen eggs in shell, fresh",2016,1993701.0,4626113.0
+India,"Hen eggs in shell, fresh",2017,1993701.0,4916703.0
+India,"Hen eggs in shell, fresh",2018,1993701.0,5311698.0
+India,"Hen eggs in shell, fresh",2019,1993701.0,6380882.0
+India,"Hen eggs in shell, fresh",2020,1993701.0,6808506.0
+India,"Hen eggs in shell, fresh",2021,1993701.0,6805793.0
+India,"Hen eggs in shell, fresh",2022,1993701.0,6665060.0
+India,"Meat, Total",2000,3359371.0,1891649.8
+India,"Meat, Total",2001,3448367.0,1934510.4
+India,"Meat, Total",2002,3583941.0,2035925.0
+India,"Meat, Total",2003,4223459.0,2116695.8
+India,"Meat, Total",2004,4810360.0,2194519.0
+India,"Meat, Total",2005,5626929.0,2277485.6
+India,"Meat, Total",2006,6123587.0,2372796.8
+India,"Meat, Total",2007,8953218.0,2535570.2
+India,"Meat, Total",2008,8682885.0,2594915.8
+India,"Meat, Total",2009,9079118.0,2690357.6
+India,"Meat, Total",2010,12656692.0,2927162.2
+India,"Meat, Total",2011,14515035.0,3088117.8
+India,"Meat, Total",2012,14416586.0,3196464.6
+India,"Meat, Total",2013,13144380.0,3305809.6
+India,"Meat, Total",2014,14300169.0,3425009.4
+India,"Meat, Total",2015,15219892.0,3611952.2
+India,"Meat, Total",2016,15857996.0,3763297.4
+India,"Meat, Total",2017,18224070.0,3976827.2
+India,"Meat, Total",2018,18199830.0,4159619.4
+India,"Meat, Total",2019,20028648.0,4333800.4
+India,"Meat, Total",2020,19368094.0,4351883.0
+India,"Meat, Total",2021,22078349.0,4479117.8
+India,"Meat, Total",2022,22406855.0,4645681.0
+India,"Milk, Total",2000,19767293.0,39004344.0
+India,"Milk, Total",2001,20071360.0,40831051.0
+India,"Milk, Total",2002,20120829.0,41534141.0
+India,"Milk, Total",2003,23315033.0,42521508.0
+India,"Milk, Total",2004,26678764.0,44664227.0
+India,"Milk, Total",2005,31285868.0,46815839.0
+India,"Milk, Total",2006,33989751.0,49068954.0
+India,"Milk, Total",2007,49029386.0,52553427.0
+India,"Milk, Total",2008,47654936.0,54503349.0
+India,"Milk, Total",2009,49074680.0,56529055.0
+India,"Milk, Total",2010,63986166.0,59139969.0
+India,"Milk, Total",2011,71750116.0,62068708.0
+India,"Milk, Total",2012,70405079.0,64266804.0
+India,"Milk, Total",2013,63872838.0,66832088.0
+India,"Milk, Total",2014,70628715.0,71008487.0
+India,"Milk, Total",2015,75325436.0,75077148.0
+India,"Milk, Total",2016,79899917.0,79737161.0
+India,"Milk, Total",2017,92113992.0,84968917.0
+India,"Milk, Total",2018,93271288.0,90607866.0
+India,"Milk, Total",2019,102921798.0,95647264.0
+India,"Milk, Total",2020,95734240.0,100390301.0
+India,"Milk, Total",2021,117667157.0,106458599.0
+India,"Milk, Total",2022,113684491.0,102485280.0
+India,Raw milk of cattle,2000,1993701.0,13831434.0
+India,Raw milk of cattle,2001,1993701.0,14481323.0
+India,Raw milk of cattle,2002,1993701.0,14521600.0
+India,Raw milk of cattle,2003,1993701.0,14673059.0
+India,Raw milk of cattle,2004,1993701.0,15667821.0
+India,Raw milk of cattle,2005,1993701.0,16681044.0
+India,Raw milk of cattle,2006,1993701.0,17648955.0
+India,Raw milk of cattle,2007,1993701.0,19644353.0
+India,Raw milk of cattle,2008,1993701.0,20897980.0
+India,Raw milk of cattle,2009,1993701.0,21900714.0
+India,Raw milk of cattle,2010,1993701.0,23034769.0
+India,Raw milk of cattle,2011,1993701.0,24237630.0
+India,Raw milk of cattle,2012,1993701.0,25091526.0
+India,Raw milk of cattle,2013,1993701.0,26094102.0
+India,Raw milk of cattle,2014,1993701.0,27868218.0
+India,Raw milk of cattle,2015,1993701.0,30898212.0
+India,Raw milk of cattle,2016,1993701.0,32766691.0
+India,Raw milk of cattle,2017,1993701.0,35088792.0
+India,Raw milk of cattle,2018,1993701.0,37690034.0
+India,Raw milk of cattle,2019,1993701.0,40548599.0
+India,Raw milk of cattle,2020,1993701.0,45440485.0
+India,Raw milk of cattle,2021,1993701.0,45454051.0
+India,Raw milk of cattle,2022,1993701.0,45467603.0
+India,Wheat,2000,11298592.0,21682745.0
+India,Wheat,2001,9723139.0,19783880.0
+India,Wheat,2002,10127791.0,20659893.0
+India,Wheat,2003,9853539.0,18670882.0
+India,Wheat,2004,11311501.0,20486672.0
+India,Wheat,2005,12936732.0,19487467.0
+India,Wheat,2006,13593218.0,19691209.0
+India,Wheat,2007,18333604.0,21523127.0
+India,Wheat,2008,19504753.0,22307742.0
+India,Wheat,2009,1993701.0,22906588.0
+India,Wheat,2010,1993701.0,22941851.0
+India,Wheat,2011,1993701.0,24665366.0
+India,Wheat,2012,1993701.0,26938439.0
+India,Wheat,2013,1993701.0,26549467.0
+India,Wheat,2014,1993701.0,27213843.0
+India,Wheat,2015,1993701.0,24567698.0
+India,Wheat,2016,1993701.0,26203083.0
+India,Wheat,2017,1993701.0,27969135.0
+India,Wheat,2018,1993701.0,28355069.0
+India,Wheat,2019,1993701.0,29413161.0
+India,Wheat,2020,1993701.0,30623881.0
+India,Wheat,2021,1993701.0,31113926.0
+India,Wheat,2022,1993701.0,30590253.0
+Ireland,Barley,2000,122589.0,335243.0
+Ireland,Barley,2001,118998.0,326874.0
+Ireland,Barley,2002,85171.0,246409.0
+Ireland,Barley,2003,147347.0,306527.0
+Ireland,Barley,2004,161419.0,339517.0
+Ireland,Barley,2005,126123.0,262175.0
+Ireland,Barley,2006,156892.0,290967.0
+Ireland,Barley,2007,283203.0,287793.0
+Ireland,Barley,2008,246423.0,331199.0
+Ireland,Barley,2009,136405.0,314103.0
+Ireland,Barley,2010,255027.0,313028.0
+Ireland,Barley,2011,373434.0,361373.0
+Ireland,Barley,2012,343869.0,322651.0
+Ireland,Barley,2013,365268.0,425560.0
+Ireland,Barley,2014,1993701.0,443066.0
+Ireland,Barley,2015,1993701.0,445113.0
+Ireland,Barley,2016,1993701.0,378751.0
+Ireland,Barley,2017,1993701.0,385382.0
+Ireland,"Cereals, primary",2000,205075.0,495363.0
+Ireland,"Cereals, primary",2001,210995.0,491628.0
+Ireland,"Cereals, primary",2002,176822.0,431881.0
+Ireland,"Cereals, primary",2003,274298.0,482562.0
+Ireland,"Cereals, primary",2004,318298.0,557753.0
+Ireland,"Cereals, primary",2005,247086.0,433044.0
+Ireland,"Cereals, primary",2006,304041.0,466965.0
+Ireland,"Cereals, primary",2007,523100.0,450358.0
+Ireland,"Cereals, primary",2008,479919.0,547007.0
+Ireland,"Cereals, primary",2009,260550.0,468600.0
+Ireland,"Cereals, primary",2010,425707.0,464112.0
+Ireland,"Cereals, primary",2011,624109.0,564272.0
+Ireland,"Cereals, primary",2012,587911.0,482187.0
+Ireland,"Cereals, primary",2013,517063.0,561031.0
+Ireland,"Cereals, primary",2014,755648.0,603013.0
+Ireland,"Cereals, primary",2015,488651.0,609649.0
+Ireland,"Cereals, primary",2016,502502.0,531641.0
+Ireland,"Cereals, primary",2017,652143.0,548379.0
+Ireland,"Cereals, primary",2018,591714.0,413306.0
+Ireland,"Cereals, primary",2019,694364.0,523090.0
+Ireland,"Cereals, primary",2020,505812.0,444110.0
+Ireland,"Cereals, primary",2021,862520.0,542364.0
+Ireland,"Cereals, primary",2022,694809.0,568007.0
+Ireland,"Hen eggs in shell, fresh",2000,26061.0,60824.0
+Ireland,"Hen eggs in shell, fresh",2001,25150.0,58897.0
+Ireland,"Hen eggs in shell, fresh",2002,28036.0,62431.0
+Ireland,"Hen eggs in shell, fresh",2003,37078.0,59861.0
+Ireland,"Hen eggs in shell, fresh",2004,36855.0,59861.0
+Ireland,"Hen eggs in shell, fresh",2005,42545.0,70451.0
+Ireland,"Hen eggs in shell, fresh",2006,43522.0,71578.0
+Ireland,"Hen eggs in shell, fresh",2007,48942.0,63500.0
+Ireland,"Hen eggs in shell, fresh",2008,71254.0,77402.0
+Ireland,"Hen eggs in shell, fresh",2009,60329.0,78153.0
+Ireland,"Hen eggs in shell, fresh",2010,59867.0,84541.0
+Ireland,"Hen eggs in shell, fresh",2011,80431.0,86420.0
+Ireland,"Hen eggs in shell, fresh",2012,84793.0,87359.0
+Ireland,"Hen eggs in shell, fresh",2013,90895.0,88298.0
+Ireland,"Hen eggs in shell, fresh",2014,1993701.0,90177.0
+Ireland,"Hen eggs in shell, fresh",2015,1993701.0,92901.0
+Ireland,"Hen eggs in shell, fresh",2016,1993701.0,97222.0
+Ireland,"Hen eggs in shell, fresh",2017,1993701.0,101543.0
+Ireland,"Meat, Total",2000,2147477.0,1345255.888888889
+Ireland,"Meat, Total",2001,2149913.0,1349763.3333333333
+Ireland,"Meat, Total",2002,2079013.0,1258146.2222222222
+Ireland,"Meat, Total",2003,2622790.0,1286125.7777777778
+Ireland,"Meat, Total",2004,3047557.0,1277753.7777777778
+Ireland,"Meat, Total",2005,2824539.0,1255433.111111111
+Ireland,"Meat, Total",2006,2936584.0,1237304.3333333333
+Ireland,"Meat, Total",2007,3281974.0,1291376.4444444445
+Ireland,"Meat, Total",2008,3610565.0,1208476.4444444445
+Ireland,"Meat, Total",2009,3032439.0,1165124.6666666667
+Ireland,"Meat, Total",2010,3300298.0,1241794.3333333333
+Ireland,"Meat, Total",2011,4150974.0,1245476.4444444445
+Ireland,"Meat, Total",2012,3987755.0,1177785.2222222222
+Ireland,"Meat, Total",2013,4184509.0,1220733.0
+Ireland,"Meat, Total",2014,4445622.0,1338812.111111111
+Ireland,"Meat, Total",2015,3933554.0,1335714.888888889
+Ireland,"Meat, Total",2016,3883280.0,1386056.111111111
+Ireland,"Meat, Total",2017,4279481.0,1472551.7777777778
+Ireland,"Meat, Total",2018,4288166.0,4509244.0
+Ireland,"Meat, Total",2019,4133765.0,4498955.0
+Ireland,"Meat, Total",2020,4358387.0,4590417.0
+Ireland,"Meat, Total",2021,4541091.0,4451635.0
+Ireland,"Meat, Total",2022,4184945.0,4541795.0
+Ireland,"Milk, Total",2000,1291725.0,1801214.0
+Ireland,"Milk, Total",2001,1375868.0,1878715.0
+Ireland,"Milk, Total",2002,1333665.0,1873898.0
+Ireland,"Milk, Total",2003,1552287.0,1853700.0
+Ireland,"Milk, Total",2004,1687501.0,1838947.0
+Ireland,"Milk, Total",2005,1592459.0,1766816.0
+Ireland,"Milk, Total",2006,1592682.0,1823766.0
+Ireland,"Milk, Total",2007,2181159.0,1823898.0
+Ireland,"Milk, Total",2008,2300062.0,1776838.0
+Ireland,"Milk, Total",2009,1531155.0,1825130.0
+Ireland,"Milk, Total",2010,1930776.0,1859585.0
+Ireland,"Milk, Total",2011,2501631.0,1932782.0
+Ireland,"Milk, Total",2012,2058646.0,1880799.0
+Ireland,"Milk, Total",2013,2687476.0,1949185.0
+Ireland,"Milk, Total",2014,2696672.0,2030366.0
+Ireland,"Milk, Total",2015,2011272.0,2298778.0
+Ireland,"Milk, Total",2016,1905978.0,2391744.0
+Ireland,"Milk, Total",2017,2832931.0,2610527.0
+Ireland,"Milk, Total",2018,3135191.0,2733786.0
+Ireland,"Milk, Total",2019,3002494.0,2878175.0
+Ireland,"Milk, Total",2020,3223118.0,2988696.0
+Ireland,"Milk, Total",2021,4096090.0,3155741.0
+Ireland,"Milk, Total",2022,5488234.0,3179580.0
+Ireland,Raw milk of cattle,2000,1291725.0,1801214.0
+Ireland,Raw milk of cattle,2001,1375868.0,1878715.0
+Ireland,Raw milk of cattle,2002,1333665.0,1873898.0
+Ireland,Raw milk of cattle,2003,1552287.0,1853700.0
+Ireland,Raw milk of cattle,2004,1687501.0,1838947.0
+Ireland,Raw milk of cattle,2005,1592459.0,1766816.0
+Ireland,Raw milk of cattle,2006,1592682.0,1823766.0
+Ireland,Raw milk of cattle,2007,2181159.0,1823898.0
+Ireland,Raw milk of cattle,2008,2300062.0,1776838.0
+Ireland,Raw milk of cattle,2009,1531155.0,1825130.0
+Ireland,Raw milk of cattle,2010,1930776.0,1859585.0
+Ireland,Raw milk of cattle,2011,2501631.0,1932782.0
+Ireland,Raw milk of cattle,2012,2058646.0,1880799.0
+Ireland,Raw milk of cattle,2013,2687476.0,1949185.0
+Ireland,Raw milk of cattle,2014,2696672.0,2030366.0
+Ireland,Raw milk of cattle,2015,2011272.0,2298778.0
+Ireland,Raw milk of cattle,2016,1905978.0,2391744.0
+Ireland,Raw milk of cattle,2017,2832931.0,2610527.0
+Ireland,Wheat,2000,69873.0,137433.0
+Ireland,Wheat,2001,81281.0,143360.0
+Ireland,Wheat,2002,79163.0,161625.0
+Ireland,Wheat,2003,107553.0,148001.0
+Ireland,Wheat,2004,136669.0,189954.0
+Ireland,Wheat,2005,104817.0,149604.0
+Ireland,Wheat,2006,122597.0,149287.0
+Ireland,Wheat,2007,196268.0,132960.0
+Ireland,Wheat,2008,199229.0,185034.0
+Ireland,Wheat,2009,100668.0,128618.0
+Ireland,Wheat,2010,141113.0,124722.0
+Ireland,Wheat,2011,211549.0,173180.0
+Ireland,Wheat,2012,200636.0,131935.0
+Ireland,Wheat,2013,113239.0,101631.0
+Ireland,Wheat,2014,1993701.0,133631.0
+Ireland,Wheat,2015,1993701.0,129829.0
+Ireland,Wheat,2016,100185.0,120715.0
+Ireland,Wheat,2017,114688.0,127048.0
+Italy,Barley,2000,152610.0,205727.0
+Italy,Barley,2001,127712.0,183566.0
+Italy,Barley,2002,148684.0,194104.0
+Italy,Barley,2003,159578.0,166460.0
+Italy,Barley,2004,212787.0,188608.0
+Italy,Barley,2005,188648.0,197974.0
+Italy,Barley,2006,223431.0,209060.0
+Italy,Barley,2007,307130.0,199805.0
+Italy,Barley,2008,336674.0,201666.0
+Italy,Barley,2009,195365.0,171091.0
+Italy,Barley,2010,1993701.0,161552.0
+Italy,Barley,2011,1993701.0,154830.0
+Italy,Barley,2012,1993701.0,153322.0
+Italy,Barley,2013,1993701.0,142775.0
+Italy,Barley,2014,1993701.0,137979.0
+Italy,Barley,2015,1993701.0,155751.0
+Italy,Barley,2016,1993701.0,161158.0
+Italy,Barley,2017,1993701.0,160505.0
+Italy,"Cereals, primary",2000,2905746.0,5088147.0
+Italy,"Cereals, primary",2001,2803506.0,4918138.0
+Italy,"Cereals, primary",2002,2999615.0,5276498.0
+Italy,"Cereals, primary",2003,3111770.0,4533388.0
+Italy,"Cereals, primary",2004,4554222.0,5811257.0
+Italy,"Cereals, primary",2005,3514511.0,5338830.0
+Italy,"Cereals, primary",2006,4048178.0,5059912.0
+Italy,"Cereals, primary",2007,5983453.0,5141157.0
+Italy,"Cereals, primary",2008,8008651.0,5410637.0
+Italy,"Cereals, primary",2009,4439755.0,4599335.0
+Italy,"Cereals, primary",2010,4636535.0,4739593.0
+Italy,"Cereals, primary",2011,6902808.0,4937147.0
+Italy,"Cereals, primary",2012,5955473.0,4827475.0
+Italy,"Cereals, primary",2013,5892891.0,4668288.0
+Italy,"Cereals, primary",2014,6031387.0,4893725.0
+Italy,"Cereals, primary",2015,4135837.0,4595357.0
+Italy,"Cereals, primary",2016,4082011.0,4757092.0
+Italy,"Cereals, primary",2017,3727447.0,4305012.0
+Italy,"Cereals, primary",2018,4122938.0,4318384.0
+Italy,"Cereals, primary",2019,3983667.0,4270969.0
+Italy,"Cereals, primary",2020,4334300.0,4397715.0
+Italy,"Cereals, primary",2021,5774575.0,4322807.0
+Italy,"Cereals, primary",2022,5986567.0,3725172.0
+Italy,"Hen eggs in shell, fresh",2000,935759.0,1009751.0
+Italy,"Hen eggs in shell, fresh",2001,901282.0,1057435.0
+Italy,"Hen eggs in shell, fresh",2002,987199.0,1059496.0
+Italy,"Hen eggs in shell, fresh",2003,1279403.0,1058024.0
+Italy,"Hen eggs in shell, fresh",2004,1431128.0,1075832.0
+Italy,"Hen eggs in shell, fresh",2005,1327974.0,1062880.0
+Italy,"Hen eggs in shell, fresh",2006,1333867.0,999155.0
+Italy,"Hen eggs in shell, fresh",2007,1002858.0,1065530.0
+Italy,"Hen eggs in shell, fresh",2008,1063598.0,1054933.0
+Italy,"Hen eggs in shell, fresh",2009,1080478.0,1054933.0
+Italy,"Hen eggs in shell, fresh",2010,1059555.0,1054933.0
+Italy,"Hen eggs in shell, fresh",2011,1135381.0,1050812.0
+Italy,"Hen eggs in shell, fresh",2012,1366592.0,1046692.0
+Italy,"Hen eggs in shell, fresh",2013,1370975.0,1044925.0
+Italy,"Hen eggs in shell, fresh",2014,1296675.0,1050665.0
+Italy,"Hen eggs in shell, fresh",2015,987273.0,1040216.0
+Italy,"Hen eggs in shell, fresh",2016,895272.0,1096141.0
+Italy,"Hen eggs in shell, fresh",2017,1047686.0,1070975.0
+Italy,"Meat, Total",2000,7051848.0,3194580.0
+Italy,"Meat, Total",2001,7340177.0,3237515.714285714
+Italy,"Meat, Total",2002,6646013.0,3203743.285714286
+Italy,"Meat, Total",2003,7555465.0,3141781.714285714
+Italy,"Meat, Total",2004,8429512.0,3225045.1428571427
+Italy,"Meat, Total",2005,8260195.0,3125646.0
+Italy,"Meat, Total",2006,10130414.0,3088891.285714286
+Italy,"Meat, Total",2007,11438417.0,3216496.4285714286
+Italy,"Meat, Total",2008,12801433.0,3187840.5714285714
+Italy,"Meat, Total",2009,12358086.0,3157501.0
+Italy,"Meat, Total",2010,11260851.0,3094209.714285714
+Italy,"Meat, Total",2011,11978832.0,2910445.5714285714
+Italy,"Meat, Total",2012,12566818.0,2930722.0
+Italy,"Meat, Total",2013,12564105.0,2648763.4285714286
+Italy,"Meat, Total",2014,10215434.0,2142013.1428571427
+Italy,"Meat, Total",2015,9211198.0,2397098.8571428573
+Italy,"Meat, Total",2016,9306976.0,2451426.1428571427
+Italy,"Meat, Total",2017,9930165.0,2263108.0
+Italy,"Meat, Total",2018,10672904.0,9866524.0
+Italy,"Meat, Total",2019,10334222.0,9927524.0
+Italy,"Meat, Total",2020,10166094.0,9333393.0
+Italy,"Meat, Total",2021,10742920.0,9567578.0
+Italy,"Meat, Total",2022,10608986.0,8766838.0
+Italy,"Milk, Total",2000,4700723.0,6588854.0
+Italy,"Milk, Total",2001,4371647.0,6155469.0
+Italy,"Milk, Total",2002,4718661.0,6183580.0
+Italy,"Milk, Total",2003,5571299.0,6149552.0
+Italy,"Milk, Total",2004,5696315.0,5776913.0
+Italy,"Milk, Total",2005,5594977.0,5865685.0
+Italy,"Milk, Total",2006,5345977.0,5832247.0
+Italy,"Milk, Total",2007,5885406.0,5690957.0
+Italy,"Milk, Total",2008,7575367.0,5977763.0
+Italy,"Milk, Total",2009,5969906.0,5480732.0
+Italy,"Milk, Total",2010,5656841.0,5449541.0
+Italy,"Milk, Total",2011,6649352.0,5439288.0
+Italy,"Milk, Total",2012,6124117.0,5488831.0
+Italy,"Milk, Total",2013,6429934.0,5378245.0
+Italy,"Milk, Total",2014,6845872.0,5673293.0
+Italy,"Milk, Total",2015,5260108.0,5752183.0
+Italy,"Milk, Total",2016,4922459.0,5595062.0
+Italy,"Milk, Total",2017,5603463.0,5874325.0
+Italy,"Milk, Total",2018,6388421.0,6441913.0
+Italy,"Milk, Total",2019,6545779.0,6525812.0
+Italy,"Milk, Total",2020,6245760.0,6621207.0
+Italy,"Milk, Total",2021,6948054.0,6850145.0
+Italy,"Milk, Total",2022,8135624.0,6835834.0
+Italy,Raw milk of cattle,2000,1993701.0,5782656.0
+Italy,Raw milk of cattle,2001,1993701.0,5296767.0
+Italy,Raw milk of cattle,2002,4041064.0,5308508.0
+Italy,Raw milk of cattle,2003,4906953.0,5311776.0
+Italy,Raw milk of cattle,2004,5110717.0,5039555.0
+Italy,Raw milk of cattle,2005,5122306.0,5173619.0
+Italy,Raw milk of cattle,2006,4839013.0,5162415.0
+Italy,Raw milk of cattle,2007,5291435.0,4987960.0
+Italy,Raw milk of cattle,2008,6855525.0,5301845.0
+Italy,Raw milk of cattle,2009,5438594.0,4960968.0
+Italy,Raw milk of cattle,2010,5214441.0,4932644.0
+Italy,Raw milk of cattle,2011,6177329.0,4922804.0
+Italy,Raw milk of cattle,2012,5683168.0,4978481.0
+Italy,Raw milk of cattle,2013,5955848.0,4884476.0
+Italy,Raw milk of cattle,2014,6341285.0,5188253.0
+Italy,Raw milk of cattle,2015,4733363.0,5242322.0
+Italy,Raw milk of cattle,2016,4427571.0,5060963.0
+Italy,Raw milk of cattle,2017,5146722.0,5346091.0
+Italy,Wheat,2000,1077602.0,1862501.0
+Italy,Wheat,2001,1008572.0,1600326.0
+Italy,Wheat,2002,1195453.0,1883411.0
+Italy,Wheat,2003,1195971.0,1554450.0
+Italy,Wheat,2004,1780516.0,2155640.0
+Italy,Wheat,2005,1259156.0,1925673.0
+Italy,Wheat,2006,1396521.0,1792071.0
+Italy,Wheat,2007,2381882.0,1789192.0
+Italy,Wheat,2008,3903035.0,2209718.0
+Italy,Wheat,2009,1657745.0,1630630.0
+Italy,Wheat,2010,1630034.0,1709261.0
+Italy,Wheat,2011,2400027.0,1657345.0
+Italy,Wheat,2012,2517527.0,1909982.0
+Italy,Wheat,2013,2435577.0,1824586.0
+Italy,Wheat,2014,2394785.0,1782141.0
+Italy,Wheat,2015,1597375.0,1845165.0
+Italy,Wheat,2016,1585560.0,2005709.0
+Italy,Wheat,2017,1477335.0,1738358.0
+Netherlands (Kingdom of the),Barley,2000,28035.0,52395.0
+Netherlands (Kingdom of the),Barley,2001,36125.0,70418.0
+Netherlands (Kingdom of the),Barley,2002,33827.0,57401.0
+Netherlands (Kingdom of the),Barley,2003,47475.0,63549.0
+Netherlands (Kingdom of the),Barley,2004,38637.0,52359.0
+Netherlands (Kingdom of the),Barley,2005,41056.0,55909.0
+Netherlands (Kingdom of the),Barley,2006,43846.0,48918.0
+Netherlands (Kingdom of the),Barley,2007,81890.0,47334.0
+Netherlands (Kingdom of the),Barley,2008,80710.0,56473.0
+Netherlands (Kingdom of the),Barley,2009,43883.0,56367.0
+Netherlands (Kingdom of the),Barley,2010,46572.0,37220.0
+Netherlands (Kingdom of the),Barley,2011,58996.0,37267.0
+Netherlands (Kingdom of the),Barley,2012,59482.0,37487.0
+Netherlands (Kingdom of the),Barley,2013,49994.0,37882.0
+Netherlands (Kingdom of the),Barley,2014,39841.0,35851.0
+Netherlands (Kingdom of the),Barley,2015,40498.0,41733.0
+Netherlands (Kingdom of the),Barley,2016,39492.0,43007.0
+Netherlands (Kingdom of the),Barley,2017,36108.0,37196.0
+Netherlands (Kingdom of the),"Cereals, primary",2000,174516.0,311379.0
+Netherlands (Kingdom of the),"Cereals, primary",2001,166741.0,300802.0
+Netherlands (Kingdom of the),"Cereals, primary",2002,156126.0,297987.0
+Netherlands (Kingdom of the),"Cereals, primary",2003,228780.0,313598.0
+Netherlands (Kingdom of the),"Cereals, primary",2004,237649.0,315653.0
+Netherlands (Kingdom of the),"Cereals, primary",2005,211236.0,308068.0
+Netherlands (Kingdom of the),"Cereals, primary",2006,262701.0,302563.0
+Netherlands (Kingdom of the),"Cereals, primary",2007,415680.0,278750.0
+Netherlands (Kingdom of the),"Cereals, primary",2008,463233.0,354509.0
+Netherlands (Kingdom of the),"Cereals, primary",2009,298313.0,360201.0
+Netherlands (Kingdom of the),"Cereals, primary",2010,384704.0,326047.0
+Netherlands (Kingdom of the),"Cereals, primary",2011,433926.0,290824.0
+Netherlands (Kingdom of the),"Cereals, primary",2012,493842.0,312969.0
+Netherlands (Kingdom of the),"Cereals, primary",2013,445542.0,317678.0
+Netherlands (Kingdom of the),"Cereals, primary",2014,352042.0,307783.0
+Netherlands (Kingdom of the),"Cereals, primary",2015,292885.0,303256.0
+Netherlands (Kingdom of the),"Cereals, primary",2016,219431.0,245966.0
+Netherlands (Kingdom of the),"Cereals, primary",2017,241230.0,252463.0
+Netherlands (Kingdom of the),"Cereals, primary",2018,280903.0,238648.0
+Netherlands (Kingdom of the),"Cereals, primary",2019,286976.0,279231.0
+Netherlands (Kingdom of the),"Cereals, primary",2020,269498.0,246522.0
+Netherlands (Kingdom of the),"Cereals, primary",2021,353026.0,241290.0
+Netherlands (Kingdom of the),"Cereals, primary",2022,515179.0,296687.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2000,482587.0,760249.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2001,453537.0,747730.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2002,440604.0,722692.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2003,509509.0,526939.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2004,405108.0,695378.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2005,415940.0,690825.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2006,521742.0,695378.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2007,735417.0,706759.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2008,786234.0,713587.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2009,895123.0,726106.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2010,740375.0,762525.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2011,683298.0,787563.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2012,1057534.0,764801.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2013,813545.0,795530.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2014,885664.0,826259.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2015,771226.0,751827.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2016,657221.0,728382.0
+Netherlands (Kingdom of the),"Hen eggs in shell, fresh",2017,894289.0,731797.0
+Netherlands (Kingdom of the),"Meat, Total",2000,3603478.0,5425167.0
+Netherlands (Kingdom of the),"Meat, Total",2001,3786717.0,4874482.0
+Netherlands (Kingdom of the),"Meat, Total",2002,3688494.0,4808372.0
+Netherlands (Kingdom of the),"Meat, Total",2003,4249528.0,4188792.0
+Netherlands (Kingdom of the),"Meat, Total",2004,4836248.0,4414058.0
+Netherlands (Kingdom of the),"Meat, Total",2005,4846357.0,4460959.0
+Netherlands (Kingdom of the),"Meat, Total",2006,4900279.0,4284265.0
+Netherlands (Kingdom of the),"Meat, Total",2007,5519911.0,4396581.0
+Netherlands (Kingdom of the),"Meat, Total",2008,5856974.0,4412115.0
+Netherlands (Kingdom of the),"Meat, Total",2009,5374684.0,4482299.0
+Netherlands (Kingdom of the),"Meat, Total",2010,5115867.0,4493694.0
+Netherlands (Kingdom of the),"Meat, Total",2011,5217214.0,4714608.0
+Netherlands (Kingdom of the),"Meat, Total",2012,5216619.0,4669821.0
+Netherlands (Kingdom of the),"Meat, Total",2013,5528667.0,4740071.0
+Netherlands (Kingdom of the),"Meat, Total",2014,5648799.0,4886007.0
+Netherlands (Kingdom of the),"Meat, Total",2015,4950765.0,5385816.0
+Netherlands (Kingdom of the),"Meat, Total",2016,4946537.0,5339865.0
+Netherlands (Kingdom of the),"Meat, Total",2017,5098016.0,5035232.0
+Netherlands (Kingdom of the),"Meat, Total",2018,4784385.0,4809263.0
+Netherlands (Kingdom of the),"Meat, Total",2019,4810815.0,4877768.0
+Netherlands (Kingdom of the),"Meat, Total",2020,4793127.0,5129531.0
+Netherlands (Kingdom of the),"Meat, Total",2021,5445155.0,5415287.0
+Netherlands (Kingdom of the),"Meat, Total",2022,4630505.0,5054197.0
+Netherlands (Kingdom of the),"Milk, Total",2000,3311187.0,4430228.0
+Netherlands (Kingdom of the),"Milk, Total",2001,3372101.0,4356755.0
+Netherlands (Kingdom of the),"Milk, Total",2002,3290719.0,4240389.0
+Netherlands (Kingdom of the),"Milk, Total",2003,3925000.0,4398456.0
+Netherlands (Kingdom of the),"Milk, Total",2004,4109346.0,4330940.0
+Netherlands (Kingdom of the),"Milk, Total",2005,4060374.0,4307905.0
+Netherlands (Kingdom of the),"Milk, Total",2006,3701144.0,4475214.0
+Netherlands (Kingdom of the),"Milk, Total",2007,4812149.0,4521403.0
+Netherlands (Kingdom of the),"Milk, Total",2008,5554017.0,4622524.0
+Netherlands (Kingdom of the),"Milk, Total",2009,4096054.0,4705550.0
+Netherlands (Kingdom of the),"Milk, Total",2010,4739429.0,4761632.0
+Netherlands (Kingdom of the),"Milk, Total",2011,5664877.0,4779727.0
+Netherlands (Kingdom of the),"Milk, Total",2012,4923234.0,4812169.0
+Netherlands (Kingdom of the),"Milk, Total",2013,6221210.0,5008631.0
+Netherlands (Kingdom of the),"Milk, Total",2014,6639940.0,5122340.0
+Netherlands (Kingdom of the),"Milk, Total",2015,4824657.0,5472075.0
+Netherlands (Kingdom of the),"Milk, Total",2016,4831809.0,5878547.0
+Netherlands (Kingdom of the),"Milk, Total",2017,5908090.0,5877367.0
+Netherlands (Kingdom of the),"Milk, Total",2018,5757485.0,5865996.0
+Netherlands (Kingdom of the),"Milk, Total",2019,5751414.0,6091795.0
+Netherlands (Kingdom of the),"Milk, Total",2020,5407935.0,6095623.0
+Netherlands (Kingdom of the),"Milk, Total",2021,6009722.0,5959141.0
+Netherlands (Kingdom of the),"Milk, Total",2022,8036622.0,6131104.0
+Netherlands (Kingdom of the),Raw milk of cattle,2000,3311187.0,4430228.0
+Netherlands (Kingdom of the),Raw milk of cattle,2001,3372101.0,4356755.0
+Netherlands (Kingdom of the),Raw milk of cattle,2002,3290719.0,4240389.0
+Netherlands (Kingdom of the),Raw milk of cattle,2003,3925000.0,4398456.0
+Netherlands (Kingdom of the),Raw milk of cattle,2004,4109346.0,4330940.0
+Netherlands (Kingdom of the),Raw milk of cattle,2005,4060374.0,4307905.0
+Netherlands (Kingdom of the),Raw milk of cattle,2006,3701144.0,4364340.0
+Netherlands (Kingdom of the),Raw milk of cattle,2007,4812149.0,4393193.0
+Netherlands (Kingdom of the),Raw milk of cattle,2008,5554017.0,4482219.0
+Netherlands (Kingdom of the),Raw milk of cattle,2009,4096054.0,4554763.0
+Netherlands (Kingdom of the),Raw milk of cattle,2010,4651010.0,4617335.0
+Netherlands (Kingdom of the),Raw milk of cattle,2011,5553854.0,4623529.0
+Netherlands (Kingdom of the),Raw milk of cattle,2012,4787554.0,4636925.0
+Netherlands (Kingdom of the),Raw milk of cattle,2013,6069971.0,4850291.0
+Netherlands (Kingdom of the),Raw milk of cattle,2014,6450699.0,4953683.0
+Netherlands (Kingdom of the),Raw milk of cattle,2015,4654213.0,5294380.0
+Netherlands (Kingdom of the),Raw milk of cattle,2016,4657584.0,5688919.0
+Netherlands (Kingdom of the),Raw milk of cattle,2017,5734414.0,5678222.0
+Netherlands (Kingdom of the),Wheat,2000,113701.0,208800.0
+Netherlands (Kingdom of the),Wheat,2001,98159.0,181026.0
+Netherlands (Kingdom of the),Wheat,2002,97450.0,193075.0
+Netherlands (Kingdom of the),Wheat,2003,150510.0,206498.0
+Netherlands (Kingdom of the),Wheat,2004,168678.0,223637.0
+Netherlands (Kingdom of the),Wheat,2005,141704.0,214645.0
+Netherlands (Kingdom of the),Wheat,2006,179077.0,216420.0
+Netherlands (Kingdom of the),Wheat,2007,262470.0,186014.0
+Netherlands (Kingdom of the),Wheat,2008,322100.0,249632.0
+Netherlands (Kingdom of the),Wheat,2009,215351.0,256188.0
+Netherlands (Kingdom of the),Wheat,2010,291791.0,250252.0
+Netherlands (Kingdom of the),Wheat,2011,316405.0,214752.0
+Netherlands (Kingdom of the),Wheat,2012,374723.0,237909.0
+Netherlands (Kingdom of the),Wheat,2013,345450.0,243957.0
+Netherlands (Kingdom of the),Wheat,2014,273794.0,238284.0
+Netherlands (Kingdom of the),Wheat,2015,229236.0,237558.0
+Netherlands (Kingdom of the),Wheat,2016,164564.0,185736.0
+Netherlands (Kingdom of the),Wheat,2017,183463.0,192620.0
+New Zealand,Barley,2000,28813.0,80589.0
+New Zealand,Barley,2001,37286.0,97400.0
+New Zealand,Barley,2002,56278.0,117650.0
+New Zealand,Barley,2003,54196.0,99225.0
+New Zealand,Barley,2004,37313.0,60330.0
+New Zealand,Barley,2005,51886.0,80595.0
+New Zealand,Barley,2006,43832.0,73923.0
+New Zealand,Barley,2007,66123.0,94899.0
+New Zealand,Barley,2008,94806.0,109070.0
+New Zealand,Barley,2009,106309.0,116152.0
+New Zealand,Barley,2010,79083.0,82269.0
+New Zealand,Barley,2011,95055.0,98190.0
+New Zealand,Barley,2012,135801.0,117091.0
+New Zealand,Barley,2013,133543.0,111137.0
+New Zealand,Barley,2014,146420.0,108274.0
+New Zealand,Barley,2015,106087.0,116652.0
+New Zealand,Barley,2016,71746.0,97183.0
+New Zealand,Barley,2017,63224.0,79414.0
+New Zealand,Barley,2018,101937.0,101324.0
+New Zealand,Barley,2019,105146.0,102377.0
+New Zealand,Barley,2020,86494.0,90106.0
+New Zealand,Barley,2021,95117.0,86742.0
+New Zealand,Barley,2022,118935.0,87988.0
+New Zealand,"Cereals, primary",2000,88555.0,239582.0
+New Zealand,"Cereals, primary",2001,97630.0,261668.0
+New Zealand,"Cereals, primary",2002,120659.0,260502.0
+New Zealand,"Cereals, primary",2003,155085.0,264307.0
+New Zealand,"Cereals, primary",2004,133568.0,216576.0
+New Zealand,"Cereals, primary",2005,156600.0,244689.0
+New Zealand,"Cereals, primary",2006,131476.0,222379.0
+New Zealand,"Cereals, primary",2007,186540.0,258603.0
+New Zealand,"Cereals, primary",2008,246553.0,278675.0
+New Zealand,"Cereals, primary",2009,315451.0,314076.0
+New Zealand,"Cereals, primary",2010,270615.0,280094.0
+New Zealand,"Cereals, primary",2011,287386.0,279154.0
+New Zealand,"Cereals, primary",2012,394340.0,324469.0
+New Zealand,"Cereals, primary",2013,378796.0,306860.0
+New Zealand,"Cereals, primary",2014,400062.0,307003.0
+New Zealand,"Cereals, primary",2015,287446.0,310760.0
+New Zealand,"Cereals, primary",2016,237173.0,306500.0
+New Zealand,"Cereals, primary",2017,211356.0,261754.0
+New Zealand,"Cereals, primary",2018,246887.0,272383.0
+New Zealand,"Cereals, primary",2019,288510.0,283357.0
+New Zealand,"Cereals, primary",2020,270190.0,283706.0
+New Zealand,"Cereals, primary",2021,297715.0,278265.0
+New Zealand,"Cereals, primary",2022,358787.0,270113.0
+New Zealand,"Hen eggs in shell, fresh",2000,38374.0,106737.0
+New Zealand,"Hen eggs in shell, fresh",2001,49438.0,108949.0
+New Zealand,"Hen eggs in shell, fresh",2002,57131.0,113339.0
+New Zealand,"Hen eggs in shell, fresh",2003,73173.0,114473.0
+New Zealand,"Hen eggs in shell, fresh",2004,1993701.0,118980.0
+New Zealand,"Hen eggs in shell, fresh",2005,1993701.0,126282.0
+New Zealand,"Hen eggs in shell, fresh",2006,1993701.0,126575.0
+New Zealand,"Hen eggs in shell, fresh",2007,1993701.0,115650.0
+New Zealand,"Hen eggs in shell, fresh",2008,1993701.0,132035.0
+New Zealand,"Hen eggs in shell, fresh",2009,1993701.0,128560.0
+New Zealand,"Hen eggs in shell, fresh",2010,1993701.0,131742.0
+New Zealand,"Hen eggs in shell, fresh",2011,1993701.0,129801.0
+New Zealand,"Hen eggs in shell, fresh",2012,1993701.0,126823.0
+New Zealand,"Hen eggs in shell, fresh",2013,1993701.0,131539.0
+New Zealand,"Hen eggs in shell, fresh",2014,1993701.0,134020.0
+New Zealand,"Hen eggs in shell, fresh",2015,1993701.0,142639.0
+New Zealand,"Hen eggs in shell, fresh",2016,1993701.0,149420.0
+New Zealand,"Hen eggs in shell, fresh",2017,1993701.0,155142.0
+New Zealand,"Hen eggs in shell, fresh",2018,1993701.0,153688.0
+New Zealand,"Hen eggs in shell, fresh",2019,1993701.0,155754.0
+New Zealand,"Hen eggs in shell, fresh",2020,1993701.0,169175.0
+New Zealand,"Hen eggs in shell, fresh",2021,1993701.0,168731.0
+New Zealand,"Hen eggs in shell, fresh",2022,1993701.0,146779.0
+New Zealand,"Meat, Total",2000,812942.0,2033249.0
+New Zealand,"Meat, Total",2001,947296.0,2104837.5
+New Zealand,"Meat, Total",2002,1049914.0,2006359.0
+New Zealand,"Meat, Total",2003,1165650.0,2170820.5
+New Zealand,"Meat, Total",2004,1391493.0,2282161.5
+New Zealand,"Meat, Total",2005,1537981.5,2257947.5
+New Zealand,"Meat, Total",2006,1311477.5,2227978.0
+New Zealand,"Meat, Total",2007,1491123.0,2251505.0
+New Zealand,"Meat, Total",2008,1553500.0,2281290.0
+New Zealand,"Meat, Total",2009,1556845.5,2127268.0
+New Zealand,"Meat, Total",2010,1636100.5,2055441.5
+New Zealand,"Meat, Total",2011,2189112.5,2001539.0
+New Zealand,"Meat, Total",2012,2232156.5,2010062.5
+New Zealand,"Meat, Total",2013,2074397.0,2079104.5
+New Zealand,"Meat, Total",2014,2208705.0,2108764.5
+New Zealand,"Meat, Total",2015,2136828.5,2184362.0
+New Zealand,"Meat, Total",2016,2140559.0,2187868.0
+New Zealand,"Meat, Total",2017,2216882.0,2101784.0
+New Zealand,"Meat, Total",2018,2484382.0,2197225.0
+New Zealand,"Meat, Total",2019,2345965.5,2214369.5
+New Zealand,"Meat, Total",2020,2353651.0,2242869.0
+New Zealand,"Meat, Total",2021,2603626.5,2261968.0
+New Zealand,"Meat, Total",2022,2306072.0,2202005.0
+New Zealand,"Milk, Total",2000,1717658.0,4437849.0
+New Zealand,"Milk, Total",2001,2261207.0,4758488.0
+New Zealand,"Milk, Total",2002,2783192.0,5029258.0
+New Zealand,"Milk, Total",2003,2508013.0,5204467.0
+New Zealand,"Milk, Total",2004,3486777.0,5451470.0
+New Zealand,"Milk, Total",2005,3916356.0,5309251.0
+New Zealand,"Milk, Total",2006,3345203.0,5503142.0
+New Zealand,"Milk, Total",2007,4327254.0,5664845.0
+New Zealand,"Milk, Total",2008,6770408.0,5519238.0
+New Zealand,"Milk, Total",2009,4386132.0,5978482.0
+New Zealand,"Milk, Total",2010,6410327.0,6169793.0
+New Zealand,"Milk, Total",2011,8876266.0,6288958.0
+New Zealand,"Milk, Total",2012,8151979.0,6938201.0
+New Zealand,"Milk, Total",2013,8046836.0,7061521.0
+New Zealand,"Milk, Total",2014,12309699.0,7732787.0
+New Zealand,"Milk, Total",2015,5844336.0,7957342.0
+New Zealand,"Milk, Total",2016,5174021.0,7680490.0
+New Zealand,"Milk, Total",2017,8036235.0,7784250.0
+New Zealand,"Milk, Total",2018,8731860.0,7960476.0
+New Zealand,"Milk, Total",2019,7822423.0,7901972.0
+New Zealand,"Milk, Total",2020,8339715.0,7932852.0
+New Zealand,"Milk, Total",2021,8870345.0,7938318.0
+New Zealand,"Milk, Total",2022,9978376.0,7635322.0
+New Zealand,Raw milk of cattle,2000,1717658.0,4437849.0
+New Zealand,Raw milk of cattle,2001,2261207.0,4758488.0
+New Zealand,Raw milk of cattle,2002,2783192.0,5029258.0
+New Zealand,Raw milk of cattle,2003,2508013.0,5204467.0
+New Zealand,Raw milk of cattle,2004,3486777.0,5451470.0
+New Zealand,Raw milk of cattle,2005,3916356.0,5309251.0
+New Zealand,Raw milk of cattle,2006,3345203.0,5503142.0
+New Zealand,Raw milk of cattle,2007,4327254.0,5664845.0
+New Zealand,Raw milk of cattle,2008,6770408.0,5519238.0
+New Zealand,Raw milk of cattle,2009,4386132.0,5978482.0
+New Zealand,Raw milk of cattle,2010,6410327.0,6169793.0
+New Zealand,Raw milk of cattle,2011,8876266.0,6288958.0
+New Zealand,Raw milk of cattle,2012,8151979.0,6938201.0
+New Zealand,Raw milk of cattle,2013,8046836.0,7061521.0
+New Zealand,Raw milk of cattle,2014,12309699.0,7732787.0
+New Zealand,Raw milk of cattle,2015,5844336.0,7957342.0
+New Zealand,Raw milk of cattle,2016,5174021.0,7680490.0
+New Zealand,Raw milk of cattle,2017,8036235.0,7784250.0
+New Zealand,Raw milk of cattle,2018,8731860.0,7960476.0
+New Zealand,Raw milk of cattle,2019,7822423.0,7901972.0
+New Zealand,Raw milk of cattle,2020,8339715.0,7932852.0
+New Zealand,Raw milk of cattle,2021,8870345.0,7938318.0
+New Zealand,Raw milk of cattle,2022,9978376.0,7635322.0
+New Zealand,Wheat,2000,35694.0,88871.0
+New Zealand,Wheat,2001,38561.0,99230.0
+New Zealand,Wheat,2002,38486.0,82191.0
+New Zealand,Wheat,2003,55927.0,86939.0
+New Zealand,Wheat,2004,47316.0,69750.0
+New Zealand,Wheat,2005,58386.0,86948.0
+New Zealand,Wheat,2006,43630.0,71369.0
+New Zealand,Wheat,2007,71130.0,93896.0
+New Zealand,Wheat,2008,88329.0,93600.0
+New Zealand,Wheat,2009,126244.0,109988.0
+New Zealand,Wheat,2010,130351.0,121281.0
+New Zealand,Wheat,2011,104762.0,104481.0
+New Zealand,Wheat,2012,165473.0,133201.0
+New Zealand,Wheat,2013,146156.0,122074.0
+New Zealand,Wheat,2014,148874.0,112723.0
+New Zealand,Wheat,2015,101799.0,112733.0
+New Zealand,Wheat,2016,97208.0,125223.0
+New Zealand,Wheat,2017,86368.0,110456.0
+New Zealand,Wheat,2018,95243.0,101145.0
+New Zealand,Wheat,2019,118021.0,108523.0
+New Zealand,Wheat,2020,122408.0,123696.0
+New Zealand,Wheat,2021,125103.0,115268.0
+New Zealand,Wheat,2022,151356.0,109741.0
+Poland,Barley,2000,320854.0,473344.0
+Poland,Barley,2001,390491.0,566389.0
+Poland,Barley,2002,360937.0,573084.0
+Poland,Barley,2003,350923.0,481528.0
+Poland,Barley,2004,477394.0,607256.0
+Poland,Barley,2005,412848.0,609019.0
+Poland,Barley,2006,409493.0,537574.0
+Poland,Barley,2007,928209.0,681626.0
+Poland,Barley,2008,967513.0,615533.0
+Poland,Barley,2009,520955.0,677511.0
+Poland,Barley,2010,554309.0,577730.0
+Poland,Barley,2011,849759.0,565610.0
+Poland,Barley,2012,1055145.0,710894.0
+Poland,Barley,2013,683131.0,498891.0
+Poland,Barley,2014,654022.0,556924.0
+Poland,Barley,2015,480680.0,503497.0
+Poland,Barley,2016,509690.0,585199.0
+Poland,Barley,2017,616226.0,645051.0
+Poland,"Cereals, primary",2000,2408473.0,3809289.0
+Poland,"Cereals, primary",2001,2992325.0,4571173.0
+Poland,"Cereals, primary",2002,2652730.0,4556661.0
+Poland,"Cereals, primary",2003,2654147.0,3969136.0
+Poland,"Cereals, primary",2004,3590107.0,5023412.0
+Poland,"Cereals, primary",2005,2861433.0,4574873.0
+Poland,"Cereals, primary",2006,2940198.0,3709846.0
+Poland,"Cereals, primary",2007,6445263.0,4617024.0
+Poland,"Cereals, primary",2008,6821112.0,4701191.0
+Poland,"Cereals, primary",2009,3956791.0,5066394.0
+Poland,"Cereals, primary",2010,4780857.0,4636887.0
+Poland,"Cereals, primary",2011,6986324.0,4562375.0
+Poland,"Cereals, primary",2012,7201506.0,4833530.0
+Poland,"Cereals, primary",2013,6397797.0,4808221.0
+Poland,"Cereals, primary",2014,6313381.0,5419364.0
+Poland,"Cereals, primary",2015,4560095.0,4772718.0
+Poland,"Cereals, primary",2016,4458699.0,5073365.0
+Poland,"Cereals, primary",2017,5217791.0,5429724.0
+Poland,"Cereals, primary",2018,4932455.0,4448112.0
+Poland,"Cereals, primary",2019,5000586.0,4821732.0
+Poland,"Cereals, primary",2020,5985181.0,5869240.0
+Poland,"Cereals, primary",2021,7546071.0,5694104.0
+Poland,"Cereals, primary",2022,10434548.0,5858042.0
+Poland,"Hen eggs in shell, fresh",2000,377588.0,485168.0
+Poland,"Hen eggs in shell, fresh",2001,367171.0,514437.0
+Poland,"Hen eggs in shell, fresh",2002,384750.0,568126.0
+Poland,"Hen eggs in shell, fresh",2003,459918.0,583609.0
+Poland,"Hen eggs in shell, fresh",2004,485724.0,588828.0
+Poland,"Hen eggs in shell, fresh",2005,542158.0,613689.0
+Poland,"Hen eggs in shell, fresh",2006,623239.0,615106.0
+Poland,"Hen eggs in shell, fresh",2007,685968.0,626001.0
+Poland,"Hen eggs in shell, fresh",2008,829774.0,666065.0
+Poland,"Hen eggs in shell, fresh",2009,888421.0,692690.0
+Poland,"Hen eggs in shell, fresh",2010,716051.0,708149.0
+Poland,"Hen eggs in shell, fresh",2011,633480.0,660307.0
+Poland,"Hen eggs in shell, fresh",2012,947283.0,607086.0
+Poland,"Hen eggs in shell, fresh",2013,767731.0,639262.0
+Poland,"Hen eggs in shell, fresh",2014,798570.0,652847.0
+Poland,"Hen eggs in shell, fresh",2015,641750.0,666762.0
+Poland,"Hen eggs in shell, fresh",2016,549461.0,674764.0
+Poland,"Hen eggs in shell, fresh",2017,765828.0,680743.0
+Poland,"Meat, Total",2000,3211377.0,1986715.5714285714
+Poland,"Meat, Total",2001,3783553.0,1909486.7142857143
+Poland,"Meat, Total",2002,3468233.0,2006942.142857143
+Poland,"Meat, Total",2003,3482699.0,2154061.0
+Poland,"Meat, Total",2004,4425946.0,1993314.857142857
+Poland,"Meat, Total",2005,4888078.0,2012323.4285714286
+Poland,"Meat, Total",2006,5170051.0,2196414.8571428573
+Poland,"Meat, Total",2007,6331870.0,2283999.714285714
+Poland,"Meat, Total",2008,7091525.0,2082287.142857143
+Poland,"Meat, Total",2009,6141782.0,1987455.2857142857
+Poland,"Meat, Total",2010,6128547.0,2108276.1428571427
+Poland,"Meat, Total",2011,7305654.0,2098476.285714286
+Poland,"Meat, Total",2012,7584212.0,2032672.5714285714
+Poland,"Meat, Total",2013,7525914.0,1938969.0
+Poland,"Meat, Total",2014,7352037.0,2079674.5714285714
+Poland,"Meat, Total",2015,6043412.0,2200974.5714285714
+Poland,"Meat, Total",2016,5802383.0,2206767.5714285714
+Poland,"Meat, Total",2017,7186943.0,2380109.714285714
+Poland,"Meat, Total",2018,7539221.0,7581026.0
+Poland,"Meat, Total",2019,7371420.0,7590063.0
+Poland,"Meat, Total",2020,7492121.0,7709546.0
+Poland,"Meat, Total",2021,7806871.0,7450694.0
+Poland,"Meat, Total",2022,6572205.0,7273207.0
+Poland,"Milk, Total",2000,2144934.0,4029025.0
+Poland,"Milk, Total",2001,2278952.0,4027240.0
+Poland,"Milk, Total",2002,2089541.0,4023295.0
+Poland,"Milk, Total",2003,2203415.0,4051358.0
+Poland,"Milk, Total",2004,2832931.0,4026210.0
+Poland,"Milk, Total",2005,3431061.0,4053991.0
+Poland,"Milk, Total",2006,3594576.0,4073083.0
+Poland,"Milk, Total",2007,4688571.0,4111755.0
+Poland,"Milk, Total",2008,5285557.0,4222491.0
+Poland,"Milk, Total",2009,3583043.0,4229908.0
+Poland,"Milk, Total",2010,4350265.0,4172290.0
+Poland,"Milk, Total",2011,5086693.0,4218781.0
+Poland,"Milk, Total",2012,4667605.0,4302825.0
+Poland,"Milk, Total",2013,5464453.0,4319884.0
+Poland,"Milk, Total",2014,5655568.0,4410278.0
+Poland,"Milk, Total",2015,3992001.0,4495173.0
+Poland,"Milk, Total",2016,3726044.0,4492051.0
+Poland,"Milk, Total",2017,4902516.0,4512732.0
+Poland,"Milk, Total",2018,5287289.0,4806556.0
+Poland,"Milk, Total",2019,5117586.0,4919333.0
+Poland,"Milk, Total",2020,5259815.0,5027638.0
+Poland,"Milk, Total",2021,6054756.0,5047796.0
+Poland,"Milk, Total",2022,7897316.0,5158989.0
+Poland,Raw milk of cattle,2000,2144739.0,4028376.0
+Poland,Raw milk of cattle,2001,2278739.0,4026559.0
+Poland,Raw milk of cattle,2002,2089360.0,4022731.0
+Poland,Raw milk of cattle,2003,2195543.0,4029384.0
+Poland,Raw milk of cattle,2004,2824916.0,4005551.0
+Poland,Raw milk of cattle,2005,3423354.0,4039703.0
+Poland,Raw milk of cattle,2006,3587150.0,4059902.0
+Poland,Raw milk of cattle,2007,4680379.0,4098396.0
+Poland,Raw milk of cattle,2008,5276052.0,4209963.0
+Poland,Raw milk of cattle,2009,3574458.0,4217380.0
+Poland,Raw milk of cattle,2010,4340899.0,4160303.0
+Poland,Raw milk of cattle,2011,5078061.0,4206071.0
+Poland,Raw milk of cattle,2012,4660156.0,4292124.0
+Poland,Raw milk of cattle,2013,5456592.0,4309289.0
+Poland,Raw milk of cattle,2014,5643656.0,4399784.0
+Poland,Raw milk of cattle,2015,3981930.0,4484729.0
+Poland,Raw milk of cattle,2016,3721873.0,4487420.0
+Poland,Raw milk of cattle,2017,4896833.0,4507911.0
+Poland,Wheat,2000,993869.0,1563989.0
+Poland,Wheat,2001,1145103.0,1707493.0
+Poland,Wheat,2002,994251.0,1711348.0
+Poland,Wheat,2003,919355.0,1445405.0
+Poland,Wheat,2004,1276589.0,1819591.0
+Poland,Wheat,2005,994936.0,1613389.0
+Poland,Wheat,2006,1019184.0,1298533.0
+Poland,Wheat,2007,2124465.0,1529851.0
+Poland,Wheat,2008,2471567.0,1705999.0
+Poland,Wheat,2009,1515455.0,1800665.0
+Poland,Wheat,2010,1868954.0,1730497.0
+Poland,Wheat,2011,2587876.0,1717822.0
+Poland,Wheat,2012,2365639.0,1583254.0
+Poland,Wheat,2013,2391840.0,1744674.0
+Poland,Wheat,2014,2521447.0,2138940.0
+Poland,Wheat,2015,1944756.0,2015540.0
+Poland,Wheat,2016,1705426.0,1991649.0
+Poland,Wheat,2017,2052661.0,2145752.0
+Romania,Barley,2000,115631.0,196669.0
+Romania,Barley,2001,222911.0,358409.0
+Romania,Barley,2002,124313.0,263216.0
+Romania,Barley,2003,105031.0,122683.0
+Romania,Barley,2004,249001.0,318928.0
+Romania,Barley,2005,148148.0,244788.0
+Romania,Barley,2006,110065.0,175327.0
+Romania,Barley,2007,146024.0,120544.0
+Romania,Barley,2008,384108.0,274336.0
+Romania,Barley,2009,220961.0,268132.0
+Romania,Barley,2010,239278.0,297388.0
+Romania,Barley,2011,396909.0,301620.0
+Romania,Barley,2012,284401.0,223740.0
+Romania,Barley,2013,481964.0,349834.0
+Romania,Barley,2014,460190.0,388456.0
+Romania,Barley,2015,349166.0,368907.0
+Romania,Barley,2016,358155.0,412219.0
+Romania,Barley,2017,362286.0,432506.0
+Romania,"Cereals, primary",2000,1546045.0,2079156.0
+Romania,"Cereals, primary",2001,2825296.0,3744831.0
+Romania,"Cereals, primary",2002,1622943.0,2864306.0
+Romania,"Cereals, primary",2003,2513806.0,2590900.0
+Romania,"Cereals, primary",2004,4590199.0,4847478.0
+Romania,"Cereals, primary",2005,2455158.0,3829722.0
+Romania,"Cereals, primary",2006,2067809.0,3125678.0
+Romania,"Cereals, primary",2007,2247034.0,1558475.0
+Romania,"Cereals, primary",2008,5529766.0,3347684.0
+Romania,"Cereals, primary",2009,2900141.0,2980523.0
+Romania,"Cereals, primary",2010,3482656.0,3341959.0
+Romania,"Cereals, primary",2011,6562741.0,4160915.0
+Romania,"Cereals, primary",2012,3674580.0,2564727.0
+Romania,"Cereals, primary",2013,5998354.0,4170400.0
+Romania,"Cereals, primary",2014,5120380.0,4402627.0
+Romania,"Cereals, primary",2015,3693191.0,3845328.0
+Romania,"Cereals, primary",2016,3783664.0,4328446.0
+Romania,"Cereals, primary",2017,4557257.0,5391922.0
+Romania,"Cereals, primary",2018,5693721.0,6274189.0
+Romania,"Cereals, primary",2019,5299016.0,6039975.0
+Romania,"Cereals, primary",2020,3468888.0,3600079.0
+Romania,"Cereals, primary",2021,6609172.0,5499768.0
+Romania,"Cereals, primary",2022,5717076.0,3725691.0
+Romania,"Hen eggs in shell, fresh",2000,363994.0,698788.0
+Romania,"Hen eggs in shell, fresh",2001,415204.0,734280.0
+Romania,"Hen eggs in shell, fresh",2002,393341.0,767112.0
+Romania,"Hen eggs in shell, fresh",2003,491404.0,801274.0
+Romania,"Hen eggs in shell, fresh",2004,688127.0,890866.0
+Romania,"Hen eggs in shell, fresh",2005,804925.0,944700.0
+Romania,"Hen eggs in shell, fresh",2006,812588.0,948156.0
+Romania,"Hen eggs in shell, fresh",2007,919231.0,827593.0
+Romania,"Hen eggs in shell, fresh",2008,1047910.0,855773.0
+Romania,"Hen eggs in shell, fresh",2009,877430.0,790329.0
+Romania,"Hen eggs in shell, fresh",2010,861362.0,790999.0
+Romania,"Hen eggs in shell, fresh",2011,918232.0,808917.0
+Romania,"Hen eggs in shell, fresh",2012,1060649.0,828766.0
+Romania,"Hen eggs in shell, fresh",2013,888305.0,818655.0
+Romania,"Hen eggs in shell, fresh",2014,924183.0,857161.0
+Romania,"Hen eggs in shell, fresh",2015,828637.0,848484.0
+Romania,"Hen eggs in shell, fresh",2016,761633.0,805791.0
+Romania,"Hen eggs in shell, fresh",2017,798152.0,781723.0
+Romania,"Meat, Total",2000,627740.0,651756.3636363636
+Romania,"Meat, Total",2001,810682.3333333334,618487.4545454546
+Romania,"Meat, Total",2002,873786.6666666666,663292.3636363636
+Romania,"Meat, Total",2003,944710.3333333334,753462.8181818182
+Romania,"Meat, Total",2004,667524.6,614927.7272727273
+Romania,"Meat, Total",2005,941846.2,649834.7272727273
+Romania,"Meat, Total",2006,862796.4,600827.2727272727
+Romania,"Meat, Total",2007,988149.0,646674.7272727273
+Romania,"Meat, Total",2008,1023364.8,597079.2727272727
+Romania,"Meat, Total",2009,1055103.8,654296.7272727273
+Romania,"Meat, Total",2010,946149.6,623330.5454545454
+Romania,"Meat, Total",2011,1005786.2,619709.5454545454
+Romania,"Meat, Total",2012,943327.8,592712.2727272727
+Romania,"Meat, Total",2013,939131.8,519935.8181818182
+Romania,"Meat, Total",2014,1077845.8,600414.1818181818
+Romania,"Meat, Total",2015,876682.0,620474.5454545454
+Romania,"Meat, Total",2016,901509.6,658631.3636363636
+Romania,"Meat, Total",2017,920426.2,650908.8181818182
+Romania,"Meat, Total",2018,1820939.0,1852527.0
+Romania,"Meat, Total",2019,1834319.0,1901494.0
+Romania,"Meat, Total",2020,1741007.0,1755306.0
+Romania,"Meat, Total",2021,1869363.0,1829902.0
+Romania,"Meat, Total",2022,2034048.0,1700589.0
+Romania,"Milk, Total",2000,615504.0,2529539.0
+Romania,"Milk, Total",2001,706031.0,2616080.0
+Romania,"Milk, Total",2002,761680.0,2726696.0
+Romania,"Milk, Total",2003,975881.0,2855096.0
+Romania,"Milk, Total",2004,1867676.0,3013402.0
+Romania,"Milk, Total",2005,2201096.0,3041220.0
+Romania,"Milk, Total",2006,2537052.0,3267959.0
+Romania,"Milk, Total",2007,2994698.0,3104892.0
+Romania,"Milk, Total",2008,3465881.0,3036568.0
+Romania,"Milk, Total",2009,3241079.0,2894867.0
+Romania,"Milk, Total",2010,2761184.0,2531819.0
+Romania,"Milk, Total",2011,3222549.0,2591833.0
+Romania,"Milk, Total",2012,2903982.0,2496491.0
+Romania,"Milk, Total",2013,2828242.0,2530109.0
+Romania,"Milk, Total",2014,2929063.0,2634376.0
+Romania,"Milk, Total",2015,2443607.0,2565141.0
+Romania,"Milk, Total",2016,2352855.0,2514861.0
+Romania,"Milk, Total",2017,2371831.0,2434735.0
+Romania,"Milk, Total",2018,2062236.0,2299776.0
+Romania,"Milk, Total",2019,2002478.0,2239995.0
+Romania,"Milk, Total",2020,2121133.0,2249233.0
+Romania,"Milk, Total",2021,2298486.0,2222423.0
+Romania,"Milk, Total",2022,2579351.0,2205512.0
+Romania,Raw milk of cattle,2000,546053.0,2349023.0
+Romania,Raw milk of cattle,2001,622413.0,2434270.0
+Romania,Raw milk of cattle,2002,672572.0,2532618.0
+Romania,Raw milk of cattle,2003,854387.0,2649877.0
+Romania,Raw milk of cattle,2004,1719512.0,2759622.0
+Romania,Raw milk of cattle,2005,1993701.0,2734882.0
+Romania,Raw milk of cattle,2006,2307688.0,2901755.0
+Romania,Raw milk of cattle,2007,2680856.0,2746053.0
+Romania,Raw milk of cattle,2008,3082561.0,2666964.0
+Romania,Raw milk of cattle,2009,2963433.0,2556994.0
+Romania,Raw milk of cattle,2010,2457855.0,2165319.0
+Romania,Raw milk of cattle,2011,2846780.0,2235689.0
+Romania,Raw milk of cattle,2012,2553020.0,2130219.0
+Romania,Raw milk of cattle,2013,2524108.0,2174150.0
+Romania,Raw milk of cattle,2014,2577160.0,2255406.0
+Romania,Raw milk of cattle,2015,2050168.0,2187771.0
+Romania,Raw milk of cattle,2016,1987305.0,2159557.0
+Romania,Raw milk of cattle,2017,2004718.0,2082991.0
+Romania,Wheat,2000,683433.0,837907.0
+Romania,Wheat,2001,1122900.0,1461589.0
+Romania,Wheat,2002,508823.0,835367.0
+Romania,Wheat,2003,492024.0,468428.0
+Romania,Wheat,2004,1323735.0,1476193.0
+Romania,Wheat,2005,906970.0,1387051.0
+Romania,Wheat,2006,668887.0,1044198.0
+Romania,Wheat,2007,761647.0,575265.0
+Romania,Wheat,2008,1881555.0,1356879.0
+Romania,Wheat,2009,801885.0,983041.0
+Romania,Wheat,2010,1079004.0,1098168.0
+Romania,Wheat,2011,2058578.0,1347546.0
+Romania,Wheat,2012,1390044.0,1001033.0
+Romania,Wheat,2013,1863603.0,1378682.0
+Romania,Wheat,2014,1721158.0,1433185.0
+Romania,Wheat,2015,1470964.0,1504535.0
+Romania,Wheat,2016,1308542.0,1593100.0
+Romania,Wheat,2017,1609558.0,1896150.0
+Spain,Barley,2000,1165015.0,2128063.0
+Spain,Barley,2001,695102.0,1202075.0
+Spain,Barley,2002,928623.0,1608564.0
+Spain,Barley,2003,1197748.0,1673211.0
+Spain,Barley,2004,1664536.0,2046659.0
+Spain,Barley,2005,765161.0,889861.0
+Spain,Barley,2006,1283081.0,1565103.0
+Spain,Barley,2007,3001862.0,2297783.0
+Spain,Barley,2008,2799192.0,2166168.0
+Spain,Barley,2009,1263966.0,1403434.0
+Spain,Barley,2010,1624805.0,1568566.0
+Spain,Barley,2011,2247064.0,1594088.0
+Spain,Barley,2012,1708823.0,1145745.0
+Spain,Barley,2013,2401109.0,1924546.0
+Spain,Barley,2014,1512162.0,1343260.0
+Spain,Barley,2015,1294456.0,1289784.0
+Spain,Barley,2016,1536772.0,1765112.0
+Spain,Barley,2017,1079139.0,1112975.0
+Spain,"Cereals, primary",2000,2926027.0,5156509.0
+Spain,"Cereals, primary",2001,2287818.0,3835844.0
+Spain,"Cereals, primary",2002,2723133.0,4595266.0
+Spain,"Cereals, primary",2003,3343234.0,4521850.0
+Spain,"Cereals, primary",2004,4233839.0,5212141.0
+Spain,"Cereals, primary",2005,2462740.0,3046175.0
+Spain,"Cereals, primary",2006,3294138.0,4008376.0
+Spain,"Cereals, primary",2007,6529302.0,5094339.0
+Spain,"Cereals, primary",2008,6694650.0,4990513.0
+Spain,"Cereals, primary",2009,3655399.0,3781157.0
+Spain,"Cereals, primary",2010,4406675.0,4207353.0
+Spain,"Cereals, primary",2011,6524601.0,4675797.0
+Spain,"Cereals, primary",2012,5290979.0,3734950.0
+Spain,"Cereals, primary",2013,6622131.0,5335498.0
+Spain,"Cereals, primary",2014,5033544.0,4369689.0
+Spain,"Cereals, primary",2015,4178203.0,4279386.0
+Spain,"Cereals, primary",2016,4410611.0,5088343.0
+Spain,"Cereals, primary",2017,3345966.0,3550127.0
+Spain,"Cereals, primary",2018,5341926.0,5341049.0
+Spain,"Cereals, primary",2019,4250438.0,4339316.0
+Spain,"Cereals, primary",2020,5639145.0,5707402.0
+Spain,"Cereals, primary",2021,7272687.0,5363081.0
+Spain,"Cereals, primary",2022,6876532.0,4044210.0
+Spain,"Hen eggs in shell, fresh",2000,862220.0,993706.0
+Spain,"Hen eggs in shell, fresh",2001,843219.0,1009447.0
+Spain,"Hen eggs in shell, fresh",2002,927479.0,1109729.0
+Spain,"Hen eggs in shell, fresh",2003,1372494.0,1161257.0
+Spain,"Hen eggs in shell, fresh",2004,1579284.0,1287478.0
+Spain,"Hen eggs in shell, fresh",2005,1058836.0,1070618.0
+Spain,"Hen eggs in shell, fresh",2006,1141933.0,1249319.0
+Spain,"Hen eggs in shell, fresh",2007,1532032.0,1246762.0
+Spain,"Hen eggs in shell, fresh",2008,1602721.0,1227776.0
+Spain,"Hen eggs in shell, fresh",2009,1703434.0,1253505.0
+Spain,"Hen eggs in shell, fresh",2010,1314415.0,1227822.0
+Spain,"Hen eggs in shell, fresh",2011,1465142.0,1237236.0
+Spain,"Hen eggs in shell, fresh",2012,1750818.0,1086226.0
+Spain,"Hen eggs in shell, fresh",2013,1305510.0,1122243.0
+Spain,"Hen eggs in shell, fresh",2014,1383845.0,1189896.0
+Spain,"Hen eggs in shell, fresh",2015,1202712.0,1216744.0
+Spain,"Hen eggs in shell, fresh",2016,1065044.0,1255155.0
+Spain,"Hen eggs in shell, fresh",2017,1398141.0,1285619.0
+Spain,"Meat, Total",2000,1458737.3333333333,1268703.7368421052
+Spain,"Meat, Total",2001,1708498.6666666667,1309968.6315789474
+Spain,"Meat, Total",2002,1491646.0,1358488.0526315789
+Spain,"Meat, Total",2003,1799166.5555555555,1392351.3157894737
+Spain,"Meat, Total",2004,1982389.3333333333,1337174.2631578948
+Spain,"Meat, Total",2005,2072413.7777777778,1337352.3684210526
+Spain,"Meat, Total",2006,1777413.4444444445,1332427.1578947369
+Spain,"Meat, Total",2007,1890267.875,1352159.894736842
+Spain,"Meat, Total",2008,2152919.75,1370622.894736842
+Spain,"Meat, Total",2009,1862655.625,1277419.2105263157
+Spain,"Meat, Total",2010,1826505.5,1304657.4736842106
+Spain,"Meat, Total",2011,2211127.625,1357318.3157894737
+Spain,"Meat, Total",2012,2203868.375,1352151.6842105263
+Spain,"Meat, Total",2013,2238122.0,1297067.2105263157
+Spain,"Meat, Total",2014,2077105.0,1346918.2631578948
+Spain,"Meat, Total",2015,1683996.1,1439613.894736842
+Spain,"Meat, Total",2016,1789523.9,1541630.6315789474
+Spain,"Meat, Total",2017,2022374.7,1567534.3157894737
+Spain,"Meat, Total",2018,10162859.0,10380857.0
+Spain,"Meat, Total",2019,10866035.0,10803509.0
+Spain,"Meat, Total",2020,11435592.0,11230624.0
+Spain,"Meat, Total",2021,11824262.0,11426381.0
+Spain,"Meat, Total",2022,12607153.0,11400467.0
+Spain,"Milk, Total",2000,1984518.0,3099842.0
+Spain,"Milk, Total",2001,2203231.0,3227112.0
+Spain,"Milk, Total",2002,2229842.0,3293145.0
+Spain,"Milk, Total",2003,2677801.0,3287233.0
+Spain,"Milk, Total",2004,3100926.0,3257524.0
+Spain,"Milk, Total",2005,3082402.0,3243789.0
+Spain,"Milk, Total",2006,3012177.0,3209460.0
+Spain,"Milk, Total",2007,3772058.0,3177572.0
+Spain,"Milk, Total",2008,4475664.0,3283978.0
+Spain,"Milk, Total",2009,3481278.0,3340423.0
+Spain,"Milk, Total",2010,3415743.0,3472155.0
+Spain,"Milk, Total",2011,3699654.0,3431018.0
+Spain,"Milk, Total",2012,3432450.0,3431845.0
+Spain,"Milk, Total",2013,4009044.0,3525882.0
+Spain,"Milk, Total",2014,4385762.0,3608074.0
+Spain,"Milk, Total",2015,3244042.0,3589243.0
+Spain,"Milk, Total",2016,3259546.0,3707064.0
+Spain,"Milk, Total",2017,3375081.0,3680280.0
+Spain,"Milk, Total",2018,3568186.0,3818768.0
+Spain,"Milk, Total",2019,3554086.0,3879207.0
+Spain,"Milk, Total",2020,3750343.0,3917355.0
+Spain,"Milk, Total",2021,4058679.0,3924530.0
+Spain,"Milk, Total",2022,4549824.0,3815491.0
+Spain,Raw milk of cattle,2000,1540425.0,2325578.0
+Spain,Raw milk of cattle,2001,1737952.0,2410800.0
+Spain,Raw milk of cattle,2002,1727385.0,2444119.0
+Spain,Raw milk of cattle,2003,2087164.0,2453792.0
+Spain,Raw milk of cattle,2004,2441399.0,2431247.0
+Spain,Raw milk of cattle,2005,2400411.0,2425954.0
+Spain,Raw milk of cattle,2006,2300817.0,2357976.0
+Spain,Raw milk of cattle,2007,2972332.0,2339467.0
+Spain,Raw milk of cattle,2008,3523302.0,2414415.0
+Spain,Raw milk of cattle,2009,2531652.0,2380711.0
+Spain,Raw milk of cattle,2010,2491585.0,2420980.0
+Spain,Raw milk of cattle,2011,2802935.0,2483763.0
+Spain,Raw milk of cattle,2012,2542057.0,2478698.0
+Spain,Raw milk of cattle,2013,2946704.0,2497921.0
+Spain,Raw milk of cattle,2014,3207069.0,2584302.0
+Spain,Raw milk of cattle,2015,2306334.0,2599154.0
+Spain,Raw milk of cattle,2016,2356031.0,2702865.0
+Spain,Raw milk of cattle,2017,2527366.0,2672954.0
+Spain,Wheat,2000,872915.0,1680218.0
+Spain,Wheat,2001,659169.0,1153614.0
+Spain,Wheat,2002,860314.0,1571608.0
+Spain,Wheat,2003,979722.0,1449038.0
+Spain,Wheat,2004,1251223.0,1634859.0
+Spain,Wheat,2005,701078.0,927622.0
+Spain,Wheat,2006,964943.0,1271996.0
+Spain,Wheat,2007,1852678.0,1482732.0
+Spain,Wheat,2008,2152864.0,1546760.0
+Spain,Wheat,2009,1070026.0,1106866.0
+Spain,Wheat,2010,1374422.0,1368662.0
+Spain,Wheat,2011,2202517.0,1584162.0
+Spain,Wheat,2012,1652956.0,1195571.0
+Spain,Wheat,2013,2195063.0,1784178.0
+Spain,Wheat,2014,1802845.0,1490804.0
+Spain,Wheat,2015,1428841.0,1465761.0
+Spain,Wheat,2016,1479773.0,1813719.0
+Spain,Wheat,2017,1019582.0,1123265.0
+Sweden,Barley,2000,157093.0,250374.0
+Sweden,Barley,2001,144559.0,251552.0
+Sweden,Barley,2002,157906.0,272352.0
+Sweden,Barley,2003,168031.0,236890.0
+Sweden,Barley,2004,195921.0,262231.0
+Sweden,Barley,2005,183054.0,246887.0
+Sweden,Barley,2006,149034.0,172134.0
+Sweden,Barley,2007,382978.0,223033.0
+Sweden,Barley,2008,365205.0,259085.0
+Sweden,Barley,2009,199851.0,260526.0
+Sweden,Barley,2010,234235.0,190997.0
+Sweden,Barley,2011,345030.0,218399.0
+Sweden,Barley,2012,411923.0,263750.0
+Sweden,Barley,2013,411015.0,300700.0
+Sweden,Barley,2014,284517.0,243988.0
+Sweden,Barley,2015,245249.0,259193.0
+Sweden,Barley,2016,210560.0,237200.0
+Sweden,Barley,2017,259180.0,253443.0
+Sweden,"Cereals, primary",2000,564992.0,903120.0
+Sweden,"Cereals, primary",2001,514211.0,871250.0
+Sweden,"Cereals, primary",2002,513920.0,865022.0
+Sweden,"Cereals, primary",2003,603223.0,852845.0
+Sweden,"Cereals, primary",2004,667236.0,891826.0
+Sweden,"Cereals, primary",2005,591837.0,819911.0
+Sweden,"Cereals, primary",2006,566046.0,672567.0
+Sweden,"Cereals, primary",2007,1273959.0,819054.0
+Sweden,"Cereals, primary",2008,1203197.0,839968.0
+Sweden,"Cereals, primary",2009,675820.0,849743.0
+Sweden,"Cereals, primary",2010,864820.0,701110.0
+Sweden,"Cereals, primary",2011,1192284.0,760351.0
+Sweden,"Cereals, primary",2012,1296325.0,822230.0
+Sweden,"Cereals, primary",2013,1130039.0,800611.0
+Sweden,"Cereals, primary",2014,1132884.0,951431.0
+Sweden,"Cereals, primary",2015,955653.0,1015067.0
+Sweden,"Cereals, primary",2016,776958.0,894411.0
+Sweden,"Cereals, primary",2017,882335.0,983369.0
+Sweden,"Cereals, primary",2018,703554.0,534170.0
+Sweden,"Cereals, primary",2019,922106.0,1015742.0
+Sweden,"Cereals, primary",2020,944892.0,978276.0
+Sweden,"Cereals, primary",2021,1120900.0,826614.0
+Sweden,"Cereals, primary",2022,1754504.0,959623.0
+Sweden,"Hen eggs in shell, fresh",2000,89618.0,169927.0
+Sweden,"Hen eggs in shell, fresh",2001,83682.0,163097.0
+Sweden,"Hen eggs in shell, fresh",2002,86592.0,155600.0
+Sweden,"Hen eggs in shell, fresh",2003,105804.0,153768.0
+Sweden,"Hen eggs in shell, fresh",2004,124650.0,173259.0
+Sweden,"Hen eggs in shell, fresh",2005,117931.0,169927.0
+Sweden,"Hen eggs in shell, fresh",2006,127037.0,164929.0
+Sweden,"Hen eggs in shell, fresh",2007,146679.0,158266.0
+Sweden,"Hen eggs in shell, fresh",2008,199683.0,169927.0
+Sweden,"Hen eggs in shell, fresh",2009,174802.0,174925.0
+Sweden,"Hen eggs in shell, fresh",2010,193749.0,184921.0
+Sweden,"Hen eggs in shell, fresh",2011,239146.0,193251.0
+Sweden,"Hen eggs in shell, fresh",2012,257145.0,203246.0
+Sweden,"Hen eggs in shell, fresh",2013,274082.0,214908.0
+Sweden,"Hen eggs in shell, fresh",2014,236671.0,208244.0
+Sweden,"Hen eggs in shell, fresh",2015,205137.0,216574.0
+Sweden,"Hen eggs in shell, fresh",2016,213007.0,232464.0
+Sweden,"Hen eggs in shell, fresh",2017,211602.0,229505.0
+Sweden,"Meat, Total",2000,345329.0,423445.5714285714
+Sweden,"Meat, Total",2001,327732.25,416469.85714285716
+Sweden,"Meat, Total",2002,326626.75,428033.5714285714
+Sweden,"Meat, Total",2003,359691.25,422841.28571428574
+Sweden,"Meat, Total",2004,848686.0,428691.14285714284
+Sweden,"Meat, Total",2005,811838.0,407635.71428571426
+Sweden,"Meat, Total",2006,829586.0,400428.0
+Sweden,"Meat, Total",2007,907313.0,399744.71428571426
+Sweden,"Meat, Total",2008,1085950.0,399753.28571428574
+Sweden,"Meat, Total",2009,936762.0,405114.28571428574
+Sweden,"Meat, Total",2010,993888.0,406807.5714285714
+Sweden,"Meat, Total",2011,1087204.0,401830.71428571426
+Sweden,"Meat, Total",2012,1019011.0,368733.85714285716
+Sweden,"Meat, Total",2013,1151197.0,372319.85714285716
+Sweden,"Meat, Total",2014,1175304.0,385353.14285714284
+Sweden,"Meat, Total",2015,1077073.0,400018.28571428574
+Sweden,"Meat, Total",2016,1120192.0,387978.85714285716
+Sweden,"Meat, Total",2017,1127351.0,394223.4285714286
+Sweden,"Meat, Total",2018,1042314.0,1134536.0
+Sweden,"Meat, Total",2019,965778.0,1137210.0
+Sweden,"Meat, Total",2020,1039143.0,1176594.0
+Sweden,"Meat, Total",2021,1132561.0,1197314.0
+Sweden,"Meat, Total",2022,945969.0,1174249.0
+Sweden,"Milk, Total",2000,1119264.0,1418748.0
+Sweden,"Milk, Total",2001,973340.0,1414934.0
+Sweden,"Milk, Total",2002,1032928.0,1387390.0
+Sweden,"Milk, Total",2003,1243464.0,1378491.0
+Sweden,"Milk, Total",2004,1305740.0,1387813.0
+Sweden,"Milk, Total",2005,1215486.0,1359421.0
+Sweden,"Milk, Total",2006,1200022.0,1344166.0
+Sweden,"Milk, Total",2007,1360999.0,1281873.0
+Sweden,"Milk, Total",2008,1645222.0,1283568.0
+Sweden,"Milk, Total",2009,1161810.0,1260262.0
+Sweden,"Milk, Total",2010,1389138.0,1229793.0
+Sweden,"Milk, Total",2011,1593306.0,1224666.0
+Sweden,"Milk, Total",2012,1451567.0,1229327.0
+Sweden,"Milk, Total",2013,1639507.0,1233141.0
+Sweden,"Milk, Total",2014,1603330.0,1259838.0
+Sweden,"Milk, Total",2015,1089421.0,1242888.0
+Sweden,"Milk, Total",2016,1031885.0,1212801.0
+Sweden,"Milk, Total",2017,1263877.0,1193587.0
+Sweden,"Milk, Total",2018,1273021.0,1169675.0
+Sweden,"Milk, Total",2019,1134498.0,1146012.0
+Sweden,"Milk, Total",2020,1229658.0,1174976.0
+Sweden,"Milk, Total",2021,1386574.0,1178993.0
+Sweden,"Milk, Total",2022,1560617.0,1171628.0
+Sweden,Raw milk of cattle,2000,1119264.0,1418748.0
+Sweden,Raw milk of cattle,2001,973340.0,1414934.0
+Sweden,Raw milk of cattle,2002,1032928.0,1387390.0
+Sweden,Raw milk of cattle,2003,1243464.0,1378491.0
+Sweden,Raw milk of cattle,2004,1305740.0,1387813.0
+Sweden,Raw milk of cattle,2005,1215486.0,1359421.0
+Sweden,Raw milk of cattle,2006,1200022.0,1344166.0
+Sweden,Raw milk of cattle,2007,1360999.0,1281873.0
+Sweden,Raw milk of cattle,2008,1645222.0,1283568.0
+Sweden,Raw milk of cattle,2009,1161810.0,1260262.0
+Sweden,Raw milk of cattle,2010,1389138.0,1229793.0
+Sweden,Raw milk of cattle,2011,1593306.0,1224666.0
+Sweden,Raw milk of cattle,2012,1451567.0,1229327.0
+Sweden,Raw milk of cattle,2013,1639507.0,1233141.0
+Sweden,Raw milk of cattle,2014,1603330.0,1259838.0
+Sweden,Raw milk of cattle,2015,1089421.0,1242888.0
+Sweden,Raw milk of cattle,2016,1031885.0,1212801.0
+Sweden,Raw milk of cattle,2017,1263877.0,1193587.0
+Sweden,Wheat,2000,251889.0,419262.0
+Sweden,Wheat,2001,237630.0,419191.0
+Sweden,Wheat,2002,208658.0,369097.0
+Sweden,Wheat,2003,284316.0,398811.0
+Sweden,Wheat,2004,318734.0,426403.0
+Sweden,Wheat,2005,273473.0,397149.0
+Sweden,Wheat,2006,275557.0,347762.0
+Sweden,Wheat,2007,578643.0,398722.0
+Sweden,Wheat,2008,598070.0,389266.0
+Sweden,Wheat,2009,339283.0,402646.0
+Sweden,Wheat,2010,481672.0,378801.0
+Sweden,Wheat,2011,624556.0,398263.0
+Sweden,Wheat,2012,642016.0,404662.0
+Sweden,Wheat,2013,484794.0,330298.0
+Sweden,Wheat,2014,656797.0,545559.0
+Sweden,Wheat,2015,552490.0,583386.0
+Sweden,Wheat,2016,425407.0,501032.0
+Sweden,Wheat,2017,498522.0,583068.0
+United States of America,Barley,2000,671179.0,1672181.0
+United States of America,Barley,2001,551486.0,1306626.0
+United States of America,Barley,2002,617538.0,1193906.0
+United States of America,Barley,2003,787657.0,1464234.0
+United States of America,Barley,2004,694338.0,1471914.0
+United States of America,Barley,2005,535165.0,1114927.0
+United States of America,Barley,2006,513865.0,947969.0
+United States of America,Barley,2007,846303.0,1105531.0
+United States of America,Barley,2008,1285679.0,1257919.0
+United States of America,Barley,2009,1055812.0,1192311.0
+United States of America,Barley,2010,694598.0,948368.0
+United States of America,Barley,2011,829047.0,814443.0
+United States of America,Barley,2012,1406542.0,1152252.0
+United States of America,Barley,2013,1311901.0,1140442.0
+United States of America,Barley,2014,960484.0,955214.0
+United States of America,Barley,2015,1185106.0,1127561.0
+United States of America,Barley,2016,992395.0,1051881.0
+United States of America,Barley,2017,639409.0,753775.0
+United States of America,Barley,2018,708644.0,807810.0
+United States of America,Barley,2019,792457.0,907632.0
+United States of America,Barley,2020,803306.0,898761.0
+United States of America,Barley,2021,618469.0,631874.0
+United States of America,Barley,2022,1272629.0,917282.0
+United States of America,"Cereals, primary",2000,27060958.0,52240190.0
+United States of America,"Cereals, primary",2001,26945590.0,49411883.0
+United States of America,"Cereals, primary",2002,29116376.0,45090801.0
+United States of America,"Cereals, primary",2003,35979437.0,53127562.0
+United States of America,"Cereals, primary",2004,35081423.0,58790880.0
+United States of America,"Cereals, primary",2005,32743065.0,55373834.0
+United States of America,"Cereals, primary",2006,43445034.0,50892914.0
+United States of America,"Cereals, primary",2007,73693704.0,61957240.0
+United States of America,"Cereals, primary",2008,72511191.0,60780138.0
+United States of America,"Cereals, primary",2009,62978372.0,62821987.0
+United States of America,"Cereals, primary",2010,82769313.0,60385778.0
+United States of America,"Cereals, primary",2011,96192782.0,57595243.0
+United States of America,"Cereals, primary",2012,98024652.0,54014993.0
+United States of America,"Cereals, primary",2013,82947258.0,64714395.0
+United States of America,"Cereals, primary",2014,70873826.0,65888656.0
+United States of America,"Cereals, primary",2015,64931100.0,64275469.0
+United States of America,"Cereals, primary",2016,68311821.0,74742553.0
+United States of America,"Cereals, primary",2017,61524225.0,64888636.0
+United States of America,"Cereals, primary",2018,66416750.0,65249202.0
+United States of America,"Cereals, primary",2019,65686578.0,62495569.0
+United States of America,"Cereals, primary",2020,75715122.0,64353661.0
+United States of America,"Cereals, primary",2021,100612528.0,66377378.0
+United States of America,"Cereals, primary",2022,112986919.0,60691212.0
+United States of America,"Hen eggs in shell, fresh",2000,3160208.0,8625895.0
+United States of America,"Hen eggs in shell, fresh",2001,3269479.0,8766881.0
+United States of America,"Hen eggs in shell, fresh",2002,2995827.0,8883795.0
+United States of America,"Hen eggs in shell, fresh",2003,4201340.0,8911305.0
+United States of America,"Hen eggs in shell, fresh",2004,4155608.0,9083238.0
+United States of America,"Hen eggs in shell, fresh",2005,2619895.0,9198433.0
+United States of America,"Hen eggs in shell, fresh",2006,3082756.0,9346296.0
+United States of America,"Hen eggs in shell, fresh",2007,6490185.0,9275803.0
+United States of America,"Hen eggs in shell, fresh",2008,8235104.0,9188117.0
+United States of America,"Hen eggs in shell, fresh",2009,6217718.0,9239697.0
+United States of America,"Hen eggs in shell, fresh",2010,5355445.0,9348015.0
+United States of America,"Hen eggs in shell, fresh",2011,7456950.0,9413350.0
+United States of America,"Hen eggs in shell, fresh",2012,7846956.0,9609354.0
+United States of America,"Hen eggs in shell, fresh",2013,8857674.0,9934308.0
+United States of America,"Hen eggs in shell, fresh",2014,10508266.0,10271297.0
+United States of America,"Hen eggs in shell, fresh",2015,13366795.0,9897492.0
+United States of America,"Hen eggs in shell, fresh",2016,6512572.0,10396733.0
+United States of America,"Hen eggs in shell, fresh",2017,7709818.0,10919066.0
+United States of America,"Hen eggs in shell, fresh",2018,10553405.0,11207424.0
+United States of America,"Hen eggs in shell, fresh",2019,7856176.0,11531173.0
+United States of America,"Hen eggs in shell, fresh",2020,1993701.0,11448669.0
+United States of America,"Hen eggs in shell, fresh",2021,9163066.0,11415421.0
+United States of America,"Hen eggs in shell, fresh",2022,20341512.0,11224422.0
+United States of America,"Meat, Total",2000,59277232.0,21919238.0
+United States of America,"Meat, Total",2001,63709374.0,22240361.444444444
+United States of America,"Meat, Total",2002,54725316.0,22426548.0
+United States of America,"Meat, Total",2003,65318166.0,22909242.444444444
+United States of America,"Meat, Total",2004,76652587.0,23083929.666666668
+United States of America,"Meat, Total",2005,75633074.0,22955188.444444444
+United States of America,"Meat, Total",2006,70032065.0,23100263.222222224
+United States of America,"Meat, Total",2007,78356748.0,23902886.0
+United States of America,"Meat, Total",2008,81986249.0,24750691.555555556
+United States of America,"Meat, Total",2009,75119116.0,24264323.666666668
+United States of America,"Meat, Total",2010,86379434.0,24273726.555555556
+United States of America,"Meat, Total",2011,99168641.0,24623287.333333332
+United States of America,"Meat, Total",2012,105910102.0,24725267.222222224
+United States of America,"Meat, Total",2013,112417213.0,24824500.444444444
+United States of America,"Meat, Total",2014,128688268.0,24723878.444444444
+United States of America,"Meat, Total",2015,112153968.0,25050553.666666668
+United States of America,"Meat, Total",2016,101179759.0,25944193.666666668
+United States of America,"Meat, Total",2017,108657002.0,26637833.777777776
+United States of America,"Meat, Total",2018,108605019.0,27324976.888888888
+United States of America,"Meat, Total",2019,110094560.0,27987782.555555556
+United States of America,"Meat, Total",2020,104618101.0,27427310.222222224
+United States of America,"Meat, Total",2021,124538440.0,27538045.333333332
+United States of America,"Meat, Total",2022,125670152.0,27662798.777777776
+United States of America,"Milk, Total",2000,20728401.0,32142942.0
+United States of America,"Milk, Total",2001,24822801.0,31747187.0
+United States of America,"Milk, Total",2002,20750472.0,32655637.0
+United States of America,"Milk, Total",2003,21403395.0,32710363.0
+United States of America,"Milk, Total",2004,27585769.0,32803302.0
+United States of America,"Milk, Total",2005,26885282.0,33974436.0
+United States of America,"Milk, Total",2006,23582116.0,34905929.0
+United States of America,"Milk, Total",2007,35705575.0,35649434.0
+United States of America,"Milk, Total",2008,35072247.0,36479732.0
+United States of America,"Milk, Total",2009,24458873.0,36330724.0
+United States of America,"Milk, Total",2010,31495522.0,37036400.0
+United States of America,"Milk, Total",2011,39702829.0,37685047.0
+United States of America,"Milk, Total",2012,37222970.0,38527442.0
+United States of America,"Milk, Total",2013,40435654.0,38640542.0
+United States of America,"Milk, Total",2014,49629676.0,39566659.0
+United States of America,"Milk, Total",2015,35860593.0,40055368.0
+United States of America,"Milk, Total",2016,34691856.0,40795053.0
+United States of America,"Milk, Total",2017,38126728.0,41385710.0
+United States of America,"Milk, Total",2018,35419860.0,41777625.0
+United States of America,"Milk, Total",2019,40695488.0,41945259.0
+United States of America,"Milk, Total",2020,40753573.0,42880017.0
+United States of America,"Milk, Total",2021,41955076.0,43453008.0
+United States of America,"Milk, Total",2022,57498702.0,43485459.0
+United States of America,Raw milk of cattle,2000,20728401.0,32142942.0
+United States of America,Raw milk of cattle,2001,24822801.0,31747187.0
+United States of America,Raw milk of cattle,2002,20750472.0,32655637.0
+United States of America,Raw milk of cattle,2003,21403395.0,32710363.0
+United States of America,Raw milk of cattle,2004,27585769.0,32803302.0
+United States of America,Raw milk of cattle,2005,26885282.0,33974436.0
+United States of America,Raw milk of cattle,2006,23582116.0,34905929.0
+United States of America,Raw milk of cattle,2007,35705575.0,35649434.0
+United States of America,Raw milk of cattle,2008,35072247.0,36479732.0
+United States of America,Raw milk of cattle,2009,24458873.0,36330724.0
+United States of America,Raw milk of cattle,2010,31495522.0,37036400.0
+United States of America,Raw milk of cattle,2011,39702829.0,37685047.0
+United States of America,Raw milk of cattle,2012,37222970.0,38527442.0
+United States of America,Raw milk of cattle,2013,40435654.0,38640542.0
+United States of America,Raw milk of cattle,2014,49629676.0,39566659.0
+United States of America,Raw milk of cattle,2015,35860593.0,40055368.0
+United States of America,Raw milk of cattle,2016,34691856.0,40795053.0
+United States of America,Raw milk of cattle,2017,38126728.0,41385710.0
+United States of America,Raw milk of cattle,2018,35419860.0,41777625.0
+United States of America,Raw milk of cattle,2019,40695488.0,41945259.0
+United States of America,Raw milk of cattle,2020,40753573.0,42880017.0
+United States of America,Raw milk of cattle,2021,41955076.0,43453008.0
+United States of America,Raw milk of cattle,2022,57498702.0,43485459.0
+United States of America,Wheat,2000,5821380.0,10975727.0
+United States of America,Wheat,2001,5405993.0,9592988.0
+United States of America,Wheat,2002,5725220.0,7910418.0
+United States of America,Wheat,2003,7975407.0,11548389.0
+United States of America,Wheat,2004,7337130.0,10624164.0
+United States of America,Wheat,2005,7212491.0,10360801.0
+United States of America,Wheat,2006,7726918.0,8908103.0
+United States of America,Wheat,2007,13285246.0,10103485.0
+United States of America,Wheat,2008,16936008.0,12310913.0
+United States of America,Wheat,2009,10805465.0,10926197.0
+United States of America,Wheat,2010,12553043.0,10871296.0
+United States of America,Wheat,2011,14475403.0,9849804.0
+United States of America,Wheat,2012,17639732.0,11163607.0
+United States of America,Wheat,2013,14642362.0,10516934.0
+United States of America,Wheat,2014,12132366.0,9981629.0
+United States of America,Wheat,2015,10051117.0,10106957.0
+United States of America,Wheat,2016,8984906.0,11372503.0
+United States of America,Wheat,2017,8196707.0,8575746.0
+United States of America,Wheat,2018,9696747.0,9286303.0
+United States of America,Wheat,2019,8781009.0,9517141.0
+United States of America,Wheat,2020,9154217.0,9004964.0
+United States of America,Wheat,2021,12017694.0,8109468.0
+United States of America,Wheat,2022,14849018.0,8127320.0
