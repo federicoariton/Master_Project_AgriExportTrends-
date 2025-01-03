@@ -6,7 +6,7 @@ This project aims to analyze and forecast key trends in Ireland's agricultural s
 
 ## Additional Resources
 
-- More Information: For a detailed explanation of the project structure, methodologies, and findings, refer to the Full Project Report.[Full Project Report]([https://github.com/username/repository](https://github.com/federicoariton/Master_Project_AgriExportTrends-/Federico_Ariton_sba22090_Lvl9_CA2_Integrated_Report.docx)
+- More Information: For a detailed explanation of the project structure, methodologies, and findings, refer to the Full Project Report.[Full Project Report](https://github.com/federicoariton/Master_Project_AgriExportTrends-/Federico_Ariton_sba22090_Lvl9_CA2_Integrated_Report.docx)
 
 
 - Interactive Experience: Explore the data, predictions, and visualizations through the Interactive Dashboard.[Interactive Dashboard][(https://username.github.io/repository)](https://github.com/federicoariton/Interactive_dasbhboard_Streamlit.git)
